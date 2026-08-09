@@ -34,6 +34,9 @@ code{background:var(--card);border:1px solid var(--line);border-radius:4px;paddi
 footer{margin-top:4rem;padding-top:1.25rem;border-top:1px solid var(--line);color:var(--mut);font-size:.82rem}
 .pill{display:inline-block;font-size:.7rem;padding:.12em .5em;border:1px solid var(--line);border-radius:100px;color:var(--mut)}
 .buy{background:var(--card);border:1px solid var(--acc);border-radius:8px;padding:1rem 1.15rem;margin:1.5rem 0}
+.warn{background:rgba(184,86,47,.09);border-left:3px solid var(--acc);padding:.7rem .9rem;border-radius:4px;font-size:.9rem}
+.btn{display:inline-block;background:var(--acc);color:#fff;text-decoration:none;padding:.6rem 1.4rem;border-radius:6px;font-weight:600;margin:.4rem 0}
+.btn:hover{opacity:.88}
 </style>
 </head><body><div class="wrap">
 <header>
@@ -76,18 +79,34 @@ footer{margin-top:4rem;padding-top:1.25rem;border-top:1px solid var(--line);colo
 <p><span class='pill'>ai21</span> · <span class='pill'>aion-labs</span> · <span class='pill'>allenai</span> · <span class='pill'>amazon</span> · <span class='pill'>anthracite-org</span> · <span class='pill'>anthropic</span> · <span class='pill'>arcee-ai</span> · <span class='pill'>baidu</span> · <span class='pill'>bytedance</span> · <span class='pill'>bytedance-seed</span> · <span class='pill'>cognitivecomputations</span> · <span class='pill'>cohere</span> · <span class='pill'>deepcogito</span> · <span class='pill'>deepseek</span> · <span class='pill'>google</span> · <span class='pill'>gryphe</span> · <span class='pill'>ibm-granite</span> · <span class='pill'>inception</span> · <span class='pill'>inclusionai</span> · <span class='pill'>kwaipilot</span> · <span class='pill'>mancer</span> · <span class='pill'>meituan</span> · <span class='pill'>meta</span> · <span class='pill'>meta-llama</span> · <span class='pill'>microsoft</span> · <span class='pill'>minimax</span> · <span class='pill'>mistralai</span> · <span class='pill'>moonshotai</span> · <span class='pill'>morph</span> · <span class='pill'>nex-agi</span> · <span class='pill'>nousresearch</span> · <span class='pill'>nvidia</span> · <span class='pill'>openai</span> · <span class='pill'>openrouter</span> · <span class='pill'>perceptron</span> · <span class='pill'>perplexity</span> · <span class='pill'>poolside</span> · <span class='pill'>qwen</span> · <span class='pill'>rekaai</span> · <span class='pill'>relace</span> · <span class='pill'>sakana</span> · <span class='pill'>sao10k</span> · <span class='pill'>stepfun</span> · <span class='pill'>tencent</span> · <span class='pill'>thedrummer</span> · <span class='pill'>thinkingmachines</span> · <span class='pill'>undi95</span> · <span class='pill'>upstage</span> · <span class='pill'>writer</span> · <span class='pill'>x-ai</span> · <span class='pill'>xiaomi</span> · <span class='pill'>z-ai</span> · <span class='pill'>~anthropic</span> · <span class='pill'>~deepseek</span> · <span class='pill'>~google</span> · <span class='pill'>~moonshotai</span> · <span class='pill'>~openai</span> · <span class='pill'>~x-ai</span></p>
 
 <div class="buy">
-<h3 style="margin-top:0">完全なデータセットと変更通知</h3>
-<p>閲覧はすべて無料です。有料になるのは次の2つだけです。</p>
+<h3 style="margin-top:0">Historical Dataset — $1</h3>
+
+<p class="warn"><strong>⚠️ Coverage starts 2026-08-09.</strong>
+This dataset contains no data from before that date. No public historical record of LLM pricing
+existed before this project began collecting — we will not pretend otherwise.
+Today it covers <strong>1 day</strong>.</p>
+
+<p>What you get:</p>
 <ul>
-<li><strong>全モデルの完全なデータを一括で持ち帰る</strong>（CSV / JSON / Parquet）</li>
-<li><strong>指定したモデルが変わったときに通知を受け取る</strong>（メール / Slack / Discord / Webhook）</li>
+<li><code>observations.csv</code> — the append-only ledger. One row per recorded change, UTC timestamped</li>
+<li><code>latest.csv</code> — current values for all 400 models, normalized to <strong>USD / 1M tokens</strong></li>
+<li><code>changes.csv</code> — classified events (price, context, modality, status, added, removed)</li>
+<li><code>providers.csv</code> · <code>dataset.json</code> · <code>MANIFEST.md</code></li>
 </ul>
-<p class="muted">価格と申込は準備中です。<a href="changes.xml">RSSフィード</a>を購読しておくと、公開時にお知らせします。</p>
+
+<p><strong>Free updates forever.</strong> Catalogs are collected twice daily. Buy once, re-download
+at any time as the history accumulates. Early buyers end up holding the longest record.</p>
+
+<p><a class="btn" href="https://buy.polar.sh/polar_cl_dJC1dfoRNb9npdF2Cliq7popfuuYqGENEu9ms0AW4Hd">Get the dataset — $1</a></p>
+
+<p class="muted">Introductory price for an early release with a short coverage window.
+Payment and invoicing are handled by Polar as Merchant of Record.
+Not sure yet? <a href="changes.xml">Subscribe to the change feed</a> and watch the history grow first.</p>
 </div>
 
 <footer>
 <p><strong>ModelWire</strong> は非公式のプロジェクトです。掲載しているLLMプロバイダのいずれとも提携・関連はありません。</p>
 <p>掲載しているのは公開APIから取得した事実（数値・日付・識別子）のみです。各値の一次ソースは各ページのリンク先を参照してください。</p>
-<p>生成: 2026-08-09T10:01:14+00:00 · <a href="changes.xml">RSS</a> · <a href="llms.txt">llms.txt</a></p>
+<p>生成: 2026-08-09T14:24:59+00:00 · <a href="changes.xml">RSS</a> · <a href="llms.txt">llms.txt</a></p>
 </footer>
 </div></body></html>
