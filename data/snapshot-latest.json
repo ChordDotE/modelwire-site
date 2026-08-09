@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T07:04:02+00:00",
+  "generated_at": "2026-08-09T10:01:15+00:00",
   "tracking_since": "2026-08-09T05:11:07+00:00",
   "source": "https://openrouter.ai/api/v1/models",
   "price_unit": "USD per 1,000,000 tokens",
@@ -8187,14 +8187,14 @@
       "live": true
     },
     {
-      "obs_id": 53,
+      "obs_id": 402,
       "source": "openrouter",
       "provider": "z-ai",
       "model_id": "z-ai/glm-5.2",
-      "observed_at": "2026-08-09T05:11:15+00:00",
-      "price_in": 0.098,
-      "price_out": 0.308,
-      "price_cache_read": 0.0182,
+      "observed_at": "2026-08-09T10:00:09+00:00",
+      "price_in": 0.07,
+      "price_out": 0.22,
+      "price_cache_read": 0.013,
       "price_cache_write": null,
       "context_window": 1048576,
       "max_output": 128000,
@@ -8203,7 +8203,7 @@
       ],
       "status": "available",
       "source_url": "https://openrouter.ai/api/v1/models",
-      "content_hash": "03a7a49e0a2903cff86ae52dd8db4726900216726c4a083e45032a3a5efcd380",
+      "content_hash": "0f9dab64a36a3fa70ec3dc2f4dd4961b4a0f4ea6c3e4ef0ef4e6febf029f0074",
       "live": true
     },
     {

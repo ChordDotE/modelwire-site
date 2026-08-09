@@ -1,6 +1,36 @@
 [
   {
     "kind": "PRICE_CHANGED",
+    "model_id": "z-ai/glm-5.2",
+    "provider": "z-ai",
+    "at": "2026-08-09T10:00:09+00:00",
+    "field": "入力単価",
+    "before": 0.098,
+    "after": 0.07,
+    "summary": "z-ai/glm-5.2 の入力単価 が $0.098 → $0.07（値下げ -28.6%）"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "z-ai/glm-5.2",
+    "provider": "z-ai",
+    "at": "2026-08-09T10:00:09+00:00",
+    "field": "出力単価",
+    "before": 0.308,
+    "after": 0.22,
+    "summary": "z-ai/glm-5.2 の出力単価 が $0.308 → $0.22（値下げ -28.6%）"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "z-ai/glm-5.2",
+    "provider": "z-ai",
+    "at": "2026-08-09T10:00:09+00:00",
+    "field": "キャッシュ読取単価",
+    "before": 0.0182,
+    "after": 0.013,
+    "summary": "z-ai/glm-5.2 のキャッシュ読取単価 が $0.0182 → $0.013（値下げ -28.6%）"
+  },
+  {
+    "kind": "PRICE_CHANGED",
     "model_id": "deepseek/deepseek-v3.2",
     "provider": "deepseek",
     "at": "2026-08-09T07:03:21+00:00",
