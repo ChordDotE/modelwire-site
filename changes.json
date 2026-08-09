@@ -1,23 +1,63 @@
 [
   {
     "kind": "PRICE_CHANGED",
-    "model_id": "z-ai/glm-5.2",
-    "provider": "z-ai",
-    "at": "2026-08-09T10:00:09+00:00",
+    "model_id": "gryphe/mythomax-l2-13b",
+    "provider": "gryphe",
+    "at": "2026-08-09T14:39:53+00:00",
     "field": "入力単価",
-    "before": 0.098,
-    "after": 0.07,
-    "summary": "z-ai/glm-5.2 の入力単価 が $0.098 → $0.07（値下げ -28.6%）"
+    "before": 0.08,
+    "after": 0.06,
+    "summary": "gryphe/mythomax-l2-13b input price $0.08 → $0.06 (decrease -25.0%)"
   },
   {
     "kind": "PRICE_CHANGED",
-    "model_id": "z-ai/glm-5.2",
-    "provider": "z-ai",
-    "at": "2026-08-09T10:00:09+00:00",
+    "model_id": "gryphe/mythomax-l2-13b",
+    "provider": "gryphe",
+    "at": "2026-08-09T14:39:53+00:00",
     "field": "出力単価",
-    "before": 0.308,
-    "after": 0.22,
-    "summary": "z-ai/glm-5.2 の出力単価 が $0.308 → $0.22（値下げ -28.6%）"
+    "before": 0.11,
+    "after": 0.06,
+    "summary": "gryphe/mythomax-l2-13b output price $0.11 → $0.06 (decrease -45.5%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "qwen/qwen3.5-397b-a17b",
+    "provider": "qwen",
+    "at": "2026-08-09T14:38:57+00:00",
+    "field": "キャッシュ読取単価",
+    "before": null,
+    "after": 0.3,
+    "summary": "qwen/qwen3.5-397b-a17b cache read price None → 0.3"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "qwen/qwen3.5-397b-a17b",
+    "provider": "qwen",
+    "at": "2026-08-09T14:38:57+00:00",
+    "field": "入力単価",
+    "before": 0.39,
+    "after": 0.5,
+    "summary": "qwen/qwen3.5-397b-a17b input price $0.39 → $0.5 (increase +28.2%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "qwen/qwen3.5-397b-a17b",
+    "provider": "qwen",
+    "at": "2026-08-09T14:38:57+00:00",
+    "field": "出力単価",
+    "before": 2.34,
+    "after": 3.6,
+    "summary": "qwen/qwen3.5-397b-a17b output price $2.34 → $3.6 (increase +53.8%)"
+  },
+  {
+    "kind": "CONTEXT_CHANGED",
+    "model_id": "qwen/qwen3.5-397b-a17b",
+    "provider": "qwen",
+    "at": "2026-08-09T14:38:57+00:00",
+    "field": "最大出力トークン",
+    "before": 65536,
+    "after": 262144,
+    "summary": "qwen/qwen3.5-397b-a17b max output tokens 65536 → 262144"
   },
   {
     "kind": "PRICE_CHANGED",
@@ -27,27 +67,27 @@
     "field": "キャッシュ読取単価",
     "before": 0.0182,
     "after": 0.013,
-    "summary": "z-ai/glm-5.2 のキャッシュ読取単価 が $0.0182 → $0.013（値下げ -28.6%）"
+    "summary": "z-ai/glm-5.2 cache read price $0.0182 → $0.013 (decrease -28.6%)"
   },
   {
     "kind": "PRICE_CHANGED",
-    "model_id": "deepseek/deepseek-v3.2",
-    "provider": "deepseek",
-    "at": "2026-08-09T07:03:21+00:00",
+    "model_id": "z-ai/glm-5.2",
+    "provider": "z-ai",
+    "at": "2026-08-09T10:00:09+00:00",
     "field": "入力単価",
-    "before": 0.26,
-    "after": 0.269,
-    "summary": "deepseek/deepseek-v3.2 の入力単価 が $0.26 → $0.269（値上げ +3.5%）"
+    "before": 0.098,
+    "after": 0.07,
+    "summary": "z-ai/glm-5.2 input price $0.098 → $0.07 (decrease -28.6%)"
   },
   {
     "kind": "PRICE_CHANGED",
-    "model_id": "deepseek/deepseek-v3.2",
-    "provider": "deepseek",
-    "at": "2026-08-09T07:03:21+00:00",
+    "model_id": "z-ai/glm-5.2",
+    "provider": "z-ai",
+    "at": "2026-08-09T10:00:09+00:00",
     "field": "出力単価",
-    "before": 0.38,
-    "after": 0.4,
-    "summary": "deepseek/deepseek-v3.2 の出力単価 が $0.38 → $0.4（値上げ +5.3%）"
+    "before": 0.308,
+    "after": 0.22,
+    "summary": "z-ai/glm-5.2 output price $0.308 → $0.22 (decrease -28.6%)"
   },
   {
     "kind": "PRICE_CHANGED",
@@ -57,7 +97,27 @@
     "field": "キャッシュ読取単価",
     "before": 0.13,
     "after": 0.1345,
-    "summary": "deepseek/deepseek-v3.2 のキャッシュ読取単価 が $0.13 → $0.1345（値上げ +3.5%）"
+    "summary": "deepseek/deepseek-v3.2 cache read price $0.13 → $0.1345 (increase +3.5%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "deepseek/deepseek-v3.2",
+    "provider": "deepseek",
+    "at": "2026-08-09T07:03:21+00:00",
+    "field": "入力単価",
+    "before": 0.26,
+    "after": 0.269,
+    "summary": "deepseek/deepseek-v3.2 input price $0.26 → $0.269 (increase +3.5%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "deepseek/deepseek-v3.2",
+    "provider": "deepseek",
+    "at": "2026-08-09T07:03:21+00:00",
+    "field": "出力単価",
+    "before": 0.38,
+    "after": 0.4,
+    "summary": "deepseek/deepseek-v3.2 output price $0.38 → $0.4 (increase +5.3%)"
   },
   {
     "kind": "CONTEXT_CHANGED",
@@ -67,6 +127,6 @@
     "field": "最大出力トークン",
     "before": 163840,
     "after": 65536,
-    "summary": "deepseek/deepseek-v3.2 の最大出力トークン が 163840 → 65536"
+    "summary": "deepseek/deepseek-v3.2 max output tokens 163840 → 65536"
   }
 ]
