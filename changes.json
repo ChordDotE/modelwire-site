@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "deepseek/deepseek-v3.2",
+    "provider": "deepseek",
+    "at": "2026-08-09T07:03:21+00:00",
+    "field": "入力単価",
+    "before": 0.26,
+    "after": 0.269,
+    "summary": "deepseek/deepseek-v3.2 の入力単価 が $0.26 → $0.269（値上げ +3.5%）"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "deepseek/deepseek-v3.2",
+    "provider": "deepseek",
+    "at": "2026-08-09T07:03:21+00:00",
+    "field": "出力単価",
+    "before": 0.38,
+    "after": 0.4,
+    "summary": "deepseek/deepseek-v3.2 の出力単価 が $0.38 → $0.4（値上げ +5.3%）"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "deepseek/deepseek-v3.2",
+    "provider": "deepseek",
+    "at": "2026-08-09T07:03:21+00:00",
+    "field": "キャッシュ読取単価",
+    "before": 0.13,
+    "after": 0.1345,
+    "summary": "deepseek/deepseek-v3.2 のキャッシュ読取単価 が $0.13 → $0.1345（値上げ +3.5%）"
+  },
+  {
+    "kind": "CONTEXT_CHANGED",
+    "model_id": "deepseek/deepseek-v3.2",
+    "provider": "deepseek",
+    "at": "2026-08-09T07:03:21+00:00",
+    "field": "最大出力トークン",
+    "before": 163840,
+    "after": 65536,
+    "summary": "deepseek/deepseek-v3.2 の最大出力トークン が 163840 → 65536"
+  }
+]
