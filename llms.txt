@@ -1,0 +1,36 @@
+# ModelWire
+
+> LLMのモデル・価格・提供終了を、追記専用で記録し続ける
+
+## このサイトは何に答えられるか
+
+- 特定のLLMモデルの価格が、いつ、いくらから いくらに変わったか
+- あるモデルがいつ一覧に追加され、いつ消滅したか
+- context窓や最大出力トークンがいつ変更されたか
+- 各プロバイダの現在の価格を、正規化した単位（USD / 100万トークン）で横断比較した結果
+
+## 事実
+
+- 追跡開始: 2026-08-09
+- 追跡中のモデル数: 400
+- 記録した変更の件数: 0
+- 収集頻度: 1日2回
+- 一次ソース: OpenRouter 公開API (https://openrouter.ai/api/v1/models)
+- 価格の単位: USD / 1,000,000 トークン に正規化
+
+## 重要な性質
+
+台帳は追記専用です。一度記録した観測は書き換えも削除もされません（データベースの制約として強制しています）。
+したがって過去の価格は後から改変されません。
+
+## リンク
+
+- 一覧と直近の変更: https://chorddote.github.io/modelwire-site/index.html
+- 変更フィード (RSS): https://chorddote.github.io/modelwire-site/changes.xml
+- 変更フィード (JSON): https://chorddote.github.io/modelwire-site/changes.json
+- 最新スナップショット (JSON): https://chorddote.github.io/modelwire-site/data/snapshot-latest.json
+
+## 注記
+
+ModelWire は非公式のプロジェクトであり、掲載しているLLMプロバイダのいずれとも提携・関連はありません。
+掲載しているのは公開APIから取得した事実のみです。

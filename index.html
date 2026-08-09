@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="ja"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>ModelWire — LLMのモデル・価格・提供終了を、追記専用で記録し続ける</title>
+<meta name="description" content="LLMのモデル・価格・提供終了を、追記専用で記録し続ける">
+<link rel="alternate" type="application/rss+xml" title="ModelWire changes" href="changes.xml">
+<style>
+:root{--bg:#fbfbfa;--fg:#1a1a19;--mut:#6b6b66;--line:#e4e4e0;--card:#fff;--acc:#b8562f;--up:#c0392b;--down:#1e7a4d}
+@media(prefers-color-scheme:dark){:root:not([data-theme=light]){--bg:#161614;--fg:#eceae5;--mut:#9a9a92;--line:#2e2e2a;--card:#1d1d1b;--acc:#e07a52;--up:#e5766a;--down:#4fbf87}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.65 -apple-system,BlinkMacSystemFont,"Segoe UI","Hiragino Sans","Noto Sans JP",sans-serif}
+.wrap{max-width:960px;margin:0 auto;padding:2rem 1.25rem 5rem}
+header{border-bottom:1px solid var(--line);padding-bottom:1.25rem;margin-bottom:2rem}
+h1{font-size:1.6rem;margin:0 0 .35rem;letter-spacing:-.01em}
+h1 a{color:inherit;text-decoration:none}
+h2{font-size:1.15rem;margin:2.5rem 0 .75rem;padding-bottom:.4rem;border-bottom:1px solid var(--line)}
+h3{font-size:1rem;margin:1.75rem 0 .5rem}
+.sub{color:var(--mut);font-size:.9rem;margin:0}
+a{color:var(--acc)}
+table{width:100%;border-collapse:collapse;font-size:.88rem}
+.scroll{overflow-x:auto;-webkit-overflow-scrolling:touch}
+th,td{text-align:left;padding:.5rem .6rem;border-bottom:1px solid var(--line);white-space:nowrap}
+th{color:var(--mut);font-weight:600;font-size:.78rem;text-transform:uppercase;letter-spacing:.04em}
+td.num{text-align:right;font-variant-numeric:tabular-nums}
+tbody tr:hover{background:var(--card)}
+.card{background:var(--card);border:1px solid var(--line);border-radius:8px;padding:1rem 1.15rem;margin:1rem 0}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:.75rem;margin:1.25rem 0}
+.stat{background:var(--card);border:1px solid var(--line);border-radius:8px;padding:.85rem 1rem}
+.stat .v{font-size:1.5rem;font-weight:650;font-variant-numeric:tabular-nums;letter-spacing:-.02em}
+.stat .k{color:var(--mut);font-size:.75rem;text-transform:uppercase;letter-spacing:.05em}
+.up{color:var(--up)}.down{color:var(--down)}
+.muted{color:var(--mut)}
+code{background:var(--card);border:1px solid var(--line);border-radius:4px;padding:.1em .4em;font-size:.85em}
+footer{margin-top:4rem;padding-top:1.25rem;border-top:1px solid var(--line);color:var(--mut);font-size:.82rem}
+.pill{display:inline-block;font-size:.7rem;padding:.12em .5em;border:1px solid var(--line);border-radius:100px;color:var(--mut)}
+.buy{background:var(--card);border:1px solid var(--acc);border-radius:8px;padding:1rem 1.15rem;margin:1.5rem 0}
+</style>
+</head><body><div class="wrap">
+<header>
+<h1><a href="index.html">ModelWire</a></h1>
+<p class="sub">LLMのモデル・価格・提供終了を、追記専用で記録し続ける</p>
+</header>
+
+<div class="grid">
+<div class="stat"><div class="v">400</div><div class="k">追跡中のモデル</div></div>
+<div class="stat"><div class="v">58</div><div class="k">プロバイダ</div></div>
+<div class="stat"><div class="v">0</div><div class="k">記録した変更</div></div>
+<div class="stat"><div class="v">2026-08-09</div><div class="k">追跡開始</div></div>
+</div>
+
+<h2>なぜこれが必要なのか</h2>
+<div class="card">
+<p>各LLMプロバイダは価格とモデル一覧を公開していますが、<strong>いずれも「現在の値」しか出していません。変更履歴を残していないのです。</strong></p>
+<p>そのため、LLMを本番で使っている開発者は次の問いに答えられません。</p>
+<ul>
+<li>うちのAPIコストは、いつから上がったのか？</li>
+<li>このモデルのEOLは、いつ告知されたのか？</li>
+<li>先月の見積もりの前提価格は、いくらだったのか？</li>
+<li>context窓が縮小されたのは、いつか？</li>
+</ul>
+<p>ModelWire は公開APIを毎日観測し、<strong>変化があった時点だけを追記専用の台帳に記録します。</strong>一度書いた記録は書き換えません。</p>
+</div>
+
+<h2>直近の変更</h2>
+<p class="sub">無料で公開しているのは直近30日分です。</p>
+<div class='card'><p>まだ変更は観測されていません。追跡は <strong>2026-08-09</strong> に開始しました。価格やcontext窓が動いた時点で、ここと <a href='changes.xml'>RSSフィード</a> に記録されます。</p></div>
+
+<h2>追跡中のモデル（出力単価の高い順・上位40）</h2>
+<p class="sub">単価はすべて USD / 100万トークン に正規化しています。全400件は
+<a href="data/snapshot-latest.json">JSON</a> でも取得できます。</p>
+<div class="scroll"><table>
+<thead><tr><th>モデル</th><th>入力</th><th>出力</th><th>context</th></tr></thead>
+<tbody><tr><td><a href='models/openai-o1-pro.html'>openai/o1-pro</a></td><td class='num'>$150</td><td class='num'>$600</td><td class='num'>200000</td></tr><tr><td><a href='models/openai-o1-pro-batch.html'>openai/o1-pro:batch</a></td><td class='num'>$75</td><td class='num'>$300</td><td class='num'>200000</td></tr><tr><td><a href='models/openai-gpt-5.4-pro.html'>openai/gpt-5.4-pro</a></td><td class='num'>$30</td><td class='num'>$180</td><td class='num'>1050000</td></tr><tr><td><a href='models/openai-gpt-5.5-pro.html'>openai/gpt-5.5-pro</a></td><td class='num'>$30</td><td class='num'>$180</td><td class='num'>1050000</td></tr><tr><td><a href='models/openai-gpt-5.2-pro.html'>openai/gpt-5.2-pro</a></td><td class='num'>$21</td><td class='num'>$168</td><td class='num'>400000</td></tr><tr><td><a href='models/anthropic-claude-opus-4.7-fast.html'>anthropic/claude-opus-4.7-fast</a></td><td class='num'>$30</td><td class='num'>$150</td><td class='num'>1000000</td></tr><tr><td><a href='models/openai-gpt-5-pro.html'>openai/gpt-5-pro</a></td><td class='num'>$15</td><td class='num'>$120</td><td class='num'>400000</td></tr><tr><td><a href='models/openai-gpt-5.4-pro-batch.html'>openai/gpt-5.4-pro:batch</a></td><td class='num'>$15</td><td class='num'>$90</td><td class='num'>1050000</td></tr><tr><td><a href='models/openai-gpt-5.5-pro-batch.html'>openai/gpt-5.5-pro:batch</a></td><td class='num'>$15</td><td class='num'>$90</td><td class='num'>1050000</td></tr><tr><td><a href='models/openai-gpt-5.2-pro-batch.html'>openai/gpt-5.2-pro:batch</a></td><td class='num'>$10.5</td><td class='num'>$84</td><td class='num'>400000</td></tr><tr><td><a href='models/openai-o3-pro.html'>openai/o3-pro</a></td><td class='num'>$20</td><td class='num'>$80</td><td class='num'>200000</td></tr><tr><td><a href='models/anthropic-claude-opus-4.html'>anthropic/claude-opus-4</a></td><td class='num'>$15</td><td class='num'>$75</td><td class='num'>200000</td></tr><tr><td><a href='models/anthropic-claude-opus-4.1.html'>anthropic/claude-opus-4.1</a></td><td class='num'>$15</td><td class='num'>$75</td><td class='num'>200000</td></tr><tr><td><a href='models/openai-gpt-4.html'>openai/gpt-4</a></td><td class='num'>$30</td><td class='num'>$60</td><td class='num'>8191</td></tr><tr><td><a href='models/openai-gpt-5-pro-batch.html'>openai/gpt-5-pro:batch</a></td><td class='num'>$7.5</td><td class='num'>$60</td><td class='num'>400000</td></tr><tr><td><a href='models/openai-o1.html'>openai/o1</a></td><td class='num'>$15</td><td class='num'>$60</td><td class='num'>200000</td></tr><tr><td><a href='models/anthropic-claude-fable-5.html'>anthropic/claude-fable-5</a></td><td class='num'>$10</td><td class='num'>$50</td><td class='num'>1000000</td></tr><tr><td><a href='models/anthropic-claude-opus-4.8-fast.html'>anthropic/claude-opus-4.8-fast</a></td><td class='num'>$10</td><td class='num'>$50</td><td class='num'>1000000</td></tr><tr><td><a href='models/anthropic-claude-opus-5-fast.html'>anthropic/claude-opus-5-fast</a></td><td class='num'>$10</td><td class='num'>$50</td><td class='num'>1000000</td></tr><tr><td><a href='models/anthropic-claude-fable-latest.html'>~anthropic/claude-fable-latest</a></td><td class='num'>$10</td><td class='num'>$50</td><td class='num'>1000000</td></tr><tr><td><a href='models/openai-o3-pro-batch.html'>openai/o3-pro:batch</a></td><td class='num'>$10</td><td class='num'>$40</td><td class='num'>200000</td></tr><tr><td><a href='models/anthropic-claude-opus-4.1-batch.html'>anthropic/claude-opus-4.1:batch</a></td><td class='num'>$7.5</td><td class='num'>$37.5</td><td class='num'>200000</td></tr><tr><td><a href='models/openai-gpt-4-turbo.html'>openai/gpt-4-turbo</a></td><td class='num'>$10</td><td class='num'>$30</td><td class='num'>128000</td></tr><tr><td><a href='models/openai-gpt-4-turbo-preview.html'>openai/gpt-4-turbo-preview</a></td><td class='num'>$10</td><td class='num'>$30</td><td class='num'>128000</td></tr><tr><td><a href='models/openai-gpt-5.5.html'>openai/gpt-5.5</a></td><td class='num'>$5</td><td class='num'>$30</td><td class='num'>1050000</td></tr><tr><td><a href='models/openai-gpt-5.6-sol.html'>openai/gpt-5.6-sol</a></td><td class='num'>$5</td><td class='num'>$30</td><td class='num'>1050000</td></tr><tr><td><a href='models/openai-gpt-5.6-sol-pro.html'>openai/gpt-5.6-sol-pro</a></td><td class='num'>$5</td><td class='num'>$30</td><td class='num'>1050000</td></tr><tr><td><a href='models/openai-gpt-chat-latest.html'>openai/gpt-chat-latest</a></td><td class='num'>$5</td><td class='num'>$30</td><td class='num'>400000</td></tr><tr><td><a href='models/openai-o1-batch.html'>openai/o1:batch</a></td><td class='num'>$7.5</td><td class='num'>$30</td><td class='num'>200000</td></tr><tr><td><a href='models/sakana-fugu-ultra.html'>sakana/fugu-ultra</a></td><td class='num'>$5</td><td class='num'>$30</td><td class='num'>1000000</td></tr><tr><td><a href='models/openai-gpt-latest.html'>~openai/gpt-latest</a></td><td class='num'>$5</td><td class='num'>$30</td><td class='num'>1050000</td></tr><tr><td><a href='models/anthropic-claude-fable-5-batch.html'>anthropic/claude-fable-5:batch</a></td><td class='num'>$5</td><td class='num'>$25</td><td class='num'>1000000</td></tr><tr><td><a href='models/anthropic-claude-opus-4.5.html'>anthropic/claude-opus-4.5</a></td><td class='num'>$5</td><td class='num'>$25</td><td class='num'>200000</td></tr><tr><td><a href='models/anthropic-claude-opus-4.6.html'>anthropic/claude-opus-4.6</a></td><td class='num'>$5</td><td class='num'>$25</td><td class='num'>1000000</td></tr><tr><td><a href='models/anthropic-claude-opus-4.7.html'>anthropic/claude-opus-4.7</a></td><td class='num'>$5</td><td class='num'>$25</td><td class='num'>1000000</td></tr><tr><td><a href='models/anthropic-claude-opus-4.8.html'>anthropic/claude-opus-4.8</a></td><td class='num'>$5</td><td class='num'>$25</td><td class='num'>1000000</td></tr><tr><td><a href='models/anthropic-claude-opus-5.html'>anthropic/claude-opus-5</a></td><td class='num'>$5</td><td class='num'>$25</td><td class='num'>1000000</td></tr><tr><td><a href='models/anthropic-claude-opus-latest.html'>~anthropic/claude-opus-latest</a></td><td class='num'>$5</td><td class='num'>$25</td><td class='num'>1000000</td></tr><tr><td><a href='models/anthropic-claude-sonnet-4.html'>anthropic/claude-sonnet-4</a></td><td class='num'>$3</td><td class='num'>$15</td><td class='num'>1000000</td></tr><tr><td><a href='models/anthropic-claude-sonnet-4.5.html'>anthropic/claude-sonnet-4.5</a></td><td class='num'>$3</td><td class='num'>$15</td><td class='num'>1000000</td></tr></tbody></table></div>
+
+<h2>プロバイダ</h2>
+<p><span class='pill'>ai21</span> · <span class='pill'>aion-labs</span> · <span class='pill'>allenai</span> · <span class='pill'>amazon</span> · <span class='pill'>anthracite-org</span> · <span class='pill'>anthropic</span> · <span class='pill'>arcee-ai</span> · <span class='pill'>baidu</span> · <span class='pill'>bytedance</span> · <span class='pill'>bytedance-seed</span> · <span class='pill'>cognitivecomputations</span> · <span class='pill'>cohere</span> · <span class='pill'>deepcogito</span> · <span class='pill'>deepseek</span> · <span class='pill'>google</span> · <span class='pill'>gryphe</span> · <span class='pill'>ibm-granite</span> · <span class='pill'>inception</span> · <span class='pill'>inclusionai</span> · <span class='pill'>kwaipilot</span> · <span class='pill'>mancer</span> · <span class='pill'>meituan</span> · <span class='pill'>meta</span> · <span class='pill'>meta-llama</span> · <span class='pill'>microsoft</span> · <span class='pill'>minimax</span> · <span class='pill'>mistralai</span> · <span class='pill'>moonshotai</span> · <span class='pill'>morph</span> · <span class='pill'>nex-agi</span> · <span class='pill'>nousresearch</span> · <span class='pill'>nvidia</span> · <span class='pill'>openai</span> · <span class='pill'>openrouter</span> · <span class='pill'>perceptron</span> · <span class='pill'>perplexity</span> · <span class='pill'>poolside</span> · <span class='pill'>qwen</span> · <span class='pill'>rekaai</span> · <span class='pill'>relace</span> · <span class='pill'>sakana</span> · <span class='pill'>sao10k</span> · <span class='pill'>stepfun</span> · <span class='pill'>tencent</span> · <span class='pill'>thedrummer</span> · <span class='pill'>thinkingmachines</span> · <span class='pill'>undi95</span> · <span class='pill'>upstage</span> · <span class='pill'>writer</span> · <span class='pill'>x-ai</span> · <span class='pill'>xiaomi</span> · <span class='pill'>z-ai</span> · <span class='pill'>~anthropic</span> · <span class='pill'>~deepseek</span> · <span class='pill'>~google</span> · <span class='pill'>~moonshotai</span> · <span class='pill'>~openai</span> · <span class='pill'>~x-ai</span></p>
+
+<div class="buy">
+<h3 style="margin-top:0">完全なデータセットと変更通知</h3>
+<p>閲覧はすべて無料です。有料になるのは次の2つだけです。</p>
+<ul>
+<li><strong>全モデルの完全なデータを一括で持ち帰る</strong>（CSV / JSON / Parquet）</li>
+<li><strong>指定したモデルが変わったときに通知を受け取る</strong>（メール / Slack / Discord / Webhook）</li>
+</ul>
+<p class="muted">価格と申込は準備中です。<a href="changes.xml">RSSフィード</a>を購読しておくと、公開時にお知らせします。</p>
+</div>
+
+<footer>
+<p><strong>ModelWire</strong> は非公式のプロジェクトです。掲載しているLLMプロバイダのいずれとも提携・関連はありません。</p>
+<p>掲載しているのは公開APIから取得した事実（数値・日付・識別子）のみです。各値の一次ソースは各ページのリンク先を参照してください。</p>
+<p>生成: 2026-08-09T07:00:29+00:00 · <a href="changes.xml">RSS</a> · <a href="llms.txt">llms.txt</a></p>
+</footer>
+</div></body></html>
