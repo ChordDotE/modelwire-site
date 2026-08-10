@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T09:16:46+00:00",
+  "generated_at": "2026-08-10T09:20:59+00:00",
   "source": "official deprecation pages of openai, anthropic, x-ai and cohere",
   "note": "date_confirmed=false means the provider has not committed to the date. The provider's own wording is kept in date_qualifier and is never converted into a firm date.",
   "disclaimer": "Unofficial. Not affiliated with any listed provider.",
@@ -1304,7 +1304,7 @@
       "days_left": -137,
       "replacement": "gpt-5 or gpt-4.1",
       "source_url": "https://platform.openai.com/docs/deprecations",
-      "observed_at": "2026-08-10T09:16:40+00:00",
+      "observed_at": "2026-08-10T09:20:52+00:00",
       "badge_url": "https://chorddote.github.io/modelwire-site/badge/openai-gpt-4-1106-preview.svg"
     },
     {
@@ -1682,7 +1682,7 @@
       "days_left": -788,
       "replacement": "gpt-4o",
       "source_url": "https://platform.openai.com/docs/deprecations",
-      "observed_at": "2026-08-10T09:16:40+00:00",
+      "observed_at": "2026-08-10T09:20:53+00:00",
       "badge_url": "https://chorddote.github.io/modelwire-site/badge/openai-gpt-4-0314.svg"
     },
     {
@@ -1962,7 +1962,7 @@
       "days_left": -949,
       "replacement": "davinci-002, gpt-3.5-turbo, gpt-4o",
       "source_url": "https://platform.openai.com/docs/deprecations",
-      "observed_at": "2026-08-10T09:16:40+00:00",
+      "observed_at": "2026-08-10T09:20:53+00:00",
       "badge_url": "https://chorddote.github.io/modelwire-site/badge/openai-davinci.svg"
     },
     {
@@ -2116,7 +2116,7 @@
       "days_left": -1236,
       "replacement": "gpt-4o",
       "source_url": "https://platform.openai.com/docs/deprecations",
-      "observed_at": "2026-08-10T09:16:41+00:00",
+      "observed_at": "2026-08-10T09:20:53+00:00",
       "badge_url": "https://chorddote.github.io/modelwire-site/badge/openai-code-davinci-002.svg"
     },
     {
