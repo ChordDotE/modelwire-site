@@ -1,0 +1,3815 @@
+{
+  "generated_at": "2026-08-10T08:56:45+00:00",
+  "badge_url_template": "https://chorddote.github.io/modelwire-site/badge/{slug}.svg",
+  "count": 544,
+  "badges": [
+    {
+      "slug": "ai21-jamba-large-1.7",
+      "provider": "ai21",
+      "model_id": "ai21/jamba-large-1.7",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "aion-labs-aion-2.0",
+      "provider": "aion-labs",
+      "model_id": "aion-labs/aion-2.0",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "aion-labs-aion-3.0",
+      "provider": "aion-labs",
+      "model_id": "aion-labs/aion-3.0",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "aion-labs-aion-3.0-mini",
+      "provider": "aion-labs",
+      "model_id": "aion-labs/aion-3.0-mini",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "aion-labs-aion-rp-llama-3.1-8b",
+      "provider": "aion-labs",
+      "model_id": "aion-labs/aion-rp-llama-3.1-8b",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "allenai-olmo-3-32b-think",
+      "provider": "allenai",
+      "model_id": "allenai/olmo-3-32b-think",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "amazon-nova-2-lite-v1",
+      "provider": "amazon",
+      "model_id": "amazon/nova-2-lite-v1",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "amazon-nova-lite-v1",
+      "provider": "amazon",
+      "model_id": "amazon/nova-lite-v1",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "amazon-nova-micro-v1",
+      "provider": "amazon",
+      "model_id": "amazon/nova-micro-v1",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "amazon-nova-premier-v1",
+      "provider": "amazon",
+      "model_id": "amazon/nova-premier-v1",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "amazon-nova-pro-v1",
+      "provider": "amazon",
+      "model_id": "amazon/nova-pro-v1",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "anthracite-org-magnum-v4-72b",
+      "provider": "anthracite-org",
+      "model_id": "anthracite-org/magnum-v4-72b",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "anthropic-claude-3-5-haiku-20241022",
+      "provider": "anthropic",
+      "model_id": "claude-3-5-haiku-20241022",
+      "state": "retired",
+      "message": "retired 2026-02-19"
+    },
+    {
+      "slug": "anthropic-claude-3-7-sonnet-20250219",
+      "provider": "anthropic",
+      "model_id": "claude-3-7-sonnet-20250219",
+      "state": "retired",
+      "message": "retired 2026-02-19"
+    },
+    {
+      "slug": "anthropic-claude-3-haiku",
+      "provider": "anthropic",
+      "model_id": "anthropic/claude-3-haiku",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "anthropic-claude-3-haiku-20240307",
+      "provider": "anthropic",
+      "model_id": "claude-3-haiku-20240307",
+      "state": "retired",
+      "message": "retired 2026-04-20"
+    },
+    {
+      "slug": "anthropic-claude-fable-5",
+      "provider": "anthropic",
+      "model_id": "claude-fable-5",
+      "state": "unconfirmed",
+      "message": "not sooner than 2027-06-09"
+    },
+    {
+      "slug": "anthropic-claude-fable-5-batch",
+      "provider": "anthropic",
+      "model_id": "anthropic/claude-fable-5:batch",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "anthropic-claude-fable-latest",
+      "provider": "~anthropic",
+      "model_id": "~anthropic/claude-fable-latest",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "anthropic-claude-haiku-4-5-20251001",
+      "provider": "anthropic",
+      "model_id": "claude-haiku-4-5-20251001",
+      "state": "unconfirmed",
+      "message": "not sooner than 2026-10-15"
+    },
+    {
+      "slug": "anthropic-claude-haiku-4.5",
+      "provider": "anthropic",
+      "model_id": "anthropic/claude-haiku-4.5",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "anthropic-claude-haiku-4.5-batch",
+      "provider": "anthropic",
+      "model_id": "anthropic/claude-haiku-4.5:batch",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "anthropic-claude-haiku-latest",
+      "provider": "~anthropic",
+      "model_id": "~anthropic/claude-haiku-latest",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "anthropic-claude-opus-4",
+      "provider": "anthropic",
+      "model_id": "anthropic/claude-opus-4",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "anthropic-claude-opus-4-1-20250805",
+      "provider": "anthropic",
+      "model_id": "claude-opus-4-1-20250805",
+      "state": "retired",
+      "message": "retired 2026-08-05"
+    },
+    {
+      "slug": "anthropic-claude-opus-4-20250514",
+      "provider": "anthropic",
+      "model_id": "claude-opus-4-20250514",
+      "state": "retired",
+      "message": "retired 2026-06-15"
+    },
+    {
+      "slug": "anthropic-claude-opus-4-5-20251101",
+      "provider": "anthropic",
+      "model_id": "claude-opus-4-5-20251101",
+      "state": "unconfirmed",
+      "message": "not sooner than 2026-11-24"
+    },
+    {
+      "slug": "anthropic-claude-opus-4-6",
+      "provider": "anthropic",
+      "model_id": "claude-opus-4-6",
+      "state": "unconfirmed",
+      "message": "not sooner than 2027-02-05"
+    },
+    {
+      "slug": "anthropic-claude-opus-4-7",
+      "provider": "anthropic",
+      "model_id": "claude-opus-4-7",
+      "state": "unconfirmed",
+      "message": "not sooner than 2027-04-16"
+    },
+    {
+      "slug": "anthropic-claude-opus-4-8",
+      "provider": "anthropic",
+      "model_id": "claude-opus-4-8",
+      "state": "unconfirmed",
+      "message": "not sooner than 2027-05-28"
+    },
+    {
+      "slug": "anthropic-claude-opus-4.1",
+      "provider": "anthropic",
+      "model_id": "anthropic/claude-opus-4.1",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "anthropic-claude-opus-4.1-batch",
+      "provider": "anthropic",
+      "model_id": "anthropic/claude-opus-4.1:batch",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "anthropic-claude-opus-4.5",
+      "provider": "anthropic",
+      "model_id": "anthropic/claude-opus-4.5",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "anthropic-claude-opus-4.5-batch",
+      "provider": "anthropic",
+      "model_id": "anthropic/claude-opus-4.5:batch",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "anthropic-claude-opus-4.6",
+      "provider": "anthropic",
+      "model_id": "anthropic/claude-opus-4.6",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "anthropic-claude-opus-4.6-batch",
+      "provider": "anthropic",
+      "model_id": "anthropic/claude-opus-4.6:batch",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "anthropic-claude-opus-4.7",
+      "provider": "anthropic",
+      "model_id": "anthropic/claude-opus-4.7",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "anthropic-claude-opus-4.7-batch",
+      "provider": "anthropic",
+      "model_id": "anthropic/claude-opus-4.7:batch",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "anthropic-claude-opus-4.7-fast",
+      "provider": "anthropic",
+      "model_id": "anthropic/claude-opus-4.7-fast",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "anthropic-claude-opus-4.8",
+      "provider": "anthropic",
+      "model_id": "anthropic/claude-opus-4.8",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "anthropic-claude-opus-4.8-batch",
+      "provider": "anthropic",
+      "model_id": "anthropic/claude-opus-4.8:batch",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "anthropic-claude-opus-4.8-fast",
+      "provider": "anthropic",
+      "model_id": "anthropic/claude-opus-4.8-fast",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "anthropic-claude-opus-5",
+      "provider": "anthropic",
+      "model_id": "claude-opus-5",
+      "state": "unconfirmed",
+      "message": "not sooner than 2027-07-24"
+    },
+    {
+      "slug": "anthropic-claude-opus-5-batch",
+      "provider": "anthropic",
+      "model_id": "anthropic/claude-opus-5:batch",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "anthropic-claude-opus-5-fast",
+      "provider": "anthropic",
+      "model_id": "anthropic/claude-opus-5-fast",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "anthropic-claude-opus-latest",
+      "provider": "~anthropic",
+      "model_id": "~anthropic/claude-opus-latest",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "anthropic-claude-sonnet-4",
+      "provider": "anthropic",
+      "model_id": "anthropic/claude-sonnet-4",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "anthropic-claude-sonnet-4-20250514",
+      "provider": "anthropic",
+      "model_id": "claude-sonnet-4-20250514",
+      "state": "retired",
+      "message": "retired 2026-06-15"
+    },
+    {
+      "slug": "anthropic-claude-sonnet-4-5-20250929",
+      "provider": "anthropic",
+      "model_id": "claude-sonnet-4-5-20250929",
+      "state": "unconfirmed",
+      "message": "not sooner than 2026-09-29"
+    },
+    {
+      "slug": "anthropic-claude-sonnet-4-6",
+      "provider": "anthropic",
+      "model_id": "claude-sonnet-4-6",
+      "state": "unconfirmed",
+      "message": "not sooner than 2027-02-17"
+    },
+    {
+      "slug": "anthropic-claude-sonnet-4.5",
+      "provider": "anthropic",
+      "model_id": "anthropic/claude-sonnet-4.5",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "anthropic-claude-sonnet-4.5-batch",
+      "provider": "anthropic",
+      "model_id": "anthropic/claude-sonnet-4.5:batch",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "anthropic-claude-sonnet-4.6",
+      "provider": "anthropic",
+      "model_id": "anthropic/claude-sonnet-4.6",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "anthropic-claude-sonnet-4.6-batch",
+      "provider": "anthropic",
+      "model_id": "anthropic/claude-sonnet-4.6:batch",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "anthropic-claude-sonnet-5",
+      "provider": "anthropic",
+      "model_id": "claude-sonnet-5",
+      "state": "unconfirmed",
+      "message": "not sooner than 2027-06-30"
+    },
+    {
+      "slug": "anthropic-claude-sonnet-5-batch",
+      "provider": "anthropic",
+      "model_id": "anthropic/claude-sonnet-5:batch",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "anthropic-claude-sonnet-latest",
+      "provider": "~anthropic",
+      "model_id": "~anthropic/claude-sonnet-latest",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "arcee-ai-trinity-large-thinking",
+      "provider": "arcee-ai",
+      "model_id": "arcee-ai/trinity-large-thinking",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "arcee-ai-virtuoso-large",
+      "provider": "arcee-ai",
+      "model_id": "arcee-ai/virtuoso-large",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "baidu-ernie-4.5-vl-424b-a47b",
+      "provider": "baidu",
+      "model_id": "baidu/ernie-4.5-vl-424b-a47b",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "bytedance-seed-seed-1.6",
+      "provider": "bytedance-seed",
+      "model_id": "bytedance-seed/seed-1.6",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "bytedance-seed-seed-1.6-flash",
+      "provider": "bytedance-seed",
+      "model_id": "bytedance-seed/seed-1.6-flash",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "bytedance-seed-seed-2.0-lite",
+      "provider": "bytedance-seed",
+      "model_id": "bytedance-seed/seed-2.0-lite",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "bytedance-seed-seed-2.0-mini",
+      "provider": "bytedance-seed",
+      "model_id": "bytedance-seed/seed-2.0-mini",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "bytedance-ui-tars-1.5-7b",
+      "provider": "bytedance",
+      "model_id": "bytedance/ui-tars-1.5-7b",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "cognitivecomputations-dolphin-mistral-24b-venice-edition",
+      "provider": "cognitivecomputations",
+      "model_id": "cognitivecomputations/dolphin-mistral-24b-venice-edition",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "cohere-command-a",
+      "provider": "cohere",
+      "model_id": "cohere/command-a",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "cohere-command-r-08-2024",
+      "provider": "cohere",
+      "model_id": "cohere/command-r-08-2024",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "cohere-command-r-plus-08-2024",
+      "provider": "cohere",
+      "model_id": "cohere/command-r-plus-08-2024",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "cohere-command-r7b-12-2024",
+      "provider": "cohere",
+      "model_id": "cohere/command-r7b-12-2024",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "cohere-north-mini-code-free",
+      "provider": "cohere",
+      "model_id": "cohere/north-mini-code:free",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "cohere-rerank-english-v2.0",
+      "provider": "cohere",
+      "model_id": "rerank-english-v2.0",
+      "state": "retired",
+      "message": "retired 2025-04-30"
+    },
+    {
+      "slug": "cohere-rerank-multilingual-v2.0",
+      "provider": "cohere",
+      "model_id": "rerank-multilingual-v2.0",
+      "state": "retired",
+      "message": "retired 2025-04-30"
+    },
+    {
+      "slug": "deepcogito-cogito-v2.1-671b",
+      "provider": "deepcogito",
+      "model_id": "deepcogito/cogito-v2.1-671b",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "deepseek-deepseek-chat",
+      "provider": "deepseek",
+      "model_id": "deepseek/deepseek-chat",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "deepseek-deepseek-chat-v3-0324",
+      "provider": "deepseek",
+      "model_id": "deepseek/deepseek-chat-v3-0324",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "deepseek-deepseek-chat-v3.1",
+      "provider": "deepseek",
+      "model_id": "deepseek/deepseek-chat-v3.1",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "deepseek-deepseek-r1",
+      "provider": "deepseek",
+      "model_id": "deepseek/deepseek-r1",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "deepseek-deepseek-r1-0528",
+      "provider": "deepseek",
+      "model_id": "deepseek/deepseek-r1-0528",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "deepseek-deepseek-r1-distill-llama-70b",
+      "provider": "deepseek",
+      "model_id": "deepseek/deepseek-r1-distill-llama-70b",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "deepseek-deepseek-v3.1-terminus",
+      "provider": "deepseek",
+      "model_id": "deepseek/deepseek-v3.1-terminus",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "deepseek-deepseek-v3.2",
+      "provider": "deepseek",
+      "model_id": "deepseek/deepseek-v3.2",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "deepseek-deepseek-v3.2-exp",
+      "provider": "deepseek",
+      "model_id": "deepseek/deepseek-v3.2-exp",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "deepseek-deepseek-v4-flash",
+      "provider": "deepseek",
+      "model_id": "deepseek/deepseek-v4-flash",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "deepseek-deepseek-v4-flash-0731",
+      "provider": "deepseek",
+      "model_id": "deepseek/deepseek-v4-flash-0731",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "deepseek-deepseek-v4-flash-latest",
+      "provider": "~deepseek",
+      "model_id": "~deepseek/deepseek-v4-flash-latest",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "deepseek-deepseek-v4-pro",
+      "provider": "deepseek",
+      "model_id": "deepseek/deepseek-v4-pro",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "google-gemini-2.5-flash",
+      "provider": "google",
+      "model_id": "google/gemini-2.5-flash",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "google-gemini-2.5-flash-batch",
+      "provider": "google",
+      "model_id": "google/gemini-2.5-flash:batch",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "google-gemini-2.5-flash-image",
+      "provider": "google",
+      "model_id": "google/gemini-2.5-flash-image",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "google-gemini-2.5-flash-lite",
+      "provider": "google",
+      "model_id": "google/gemini-2.5-flash-lite",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "google-gemini-2.5-flash-lite-batch",
+      "provider": "google",
+      "model_id": "google/gemini-2.5-flash-lite:batch",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "google-gemini-2.5-pro",
+      "provider": "google",
+      "model_id": "google/gemini-2.5-pro",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "google-gemini-2.5-pro-batch",
+      "provider": "google",
+      "model_id": "google/gemini-2.5-pro:batch",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "google-gemini-2.5-pro-preview",
+      "provider": "google",
+      "model_id": "google/gemini-2.5-pro-preview",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "google-gemini-2.5-pro-preview-05-06",
+      "provider": "google",
+      "model_id": "google/gemini-2.5-pro-preview-05-06",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "google-gemini-3-flash-preview",
+      "provider": "google",
+      "model_id": "google/gemini-3-flash-preview",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "google-gemini-3-flash-preview-batch",
+      "provider": "google",
+      "model_id": "google/gemini-3-flash-preview:batch",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "google-gemini-3-pro-image",
+      "provider": "google",
+      "model_id": "google/gemini-3-pro-image",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "google-gemini-3-pro-image-preview",
+      "provider": "google",
+      "model_id": "google/gemini-3-pro-image-preview",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "google-gemini-3.1-flash-image",
+      "provider": "google",
+      "model_id": "google/gemini-3.1-flash-image",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "google-gemini-3.1-flash-image-preview",
+      "provider": "google",
+      "model_id": "google/gemini-3.1-flash-image-preview",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "google-gemini-3.1-flash-lite",
+      "provider": "google",
+      "model_id": "google/gemini-3.1-flash-lite",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "google-gemini-3.1-flash-lite-batch",
+      "provider": "google",
+      "model_id": "google/gemini-3.1-flash-lite:batch",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "google-gemini-3.1-flash-lite-image",
+      "provider": "google",
+      "model_id": "google/gemini-3.1-flash-lite-image",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "google-gemini-3.1-flash-lite-preview",
+      "provider": "google",
+      "model_id": "google/gemini-3.1-flash-lite-preview",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "google-gemini-3.1-pro-preview",
+      "provider": "google",
+      "model_id": "google/gemini-3.1-pro-preview",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "google-gemini-3.1-pro-preview-batch",
+      "provider": "google",
+      "model_id": "google/gemini-3.1-pro-preview:batch",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "google-gemini-3.1-pro-preview-customtools",
+      "provider": "google",
+      "model_id": "google/gemini-3.1-pro-preview-customtools",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "google-gemini-3.5-flash",
+      "provider": "google",
+      "model_id": "google/gemini-3.5-flash",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "google-gemini-3.5-flash-batch",
+      "provider": "google",
+      "model_id": "google/gemini-3.5-flash:batch",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "google-gemini-3.5-flash-lite",
+      "provider": "google",
+      "model_id": "google/gemini-3.5-flash-lite",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "google-gemini-3.5-flash-lite-batch",
+      "provider": "google",
+      "model_id": "google/gemini-3.5-flash-lite:batch",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "google-gemini-3.6-flash",
+      "provider": "google",
+      "model_id": "google/gemini-3.6-flash",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "google-gemini-3.6-flash-batch",
+      "provider": "google",
+      "model_id": "google/gemini-3.6-flash:batch",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "google-gemini-flash-latest",
+      "provider": "~google",
+      "model_id": "~google/gemini-flash-latest",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "google-gemini-pro-latest",
+      "provider": "~google",
+      "model_id": "~google/gemini-pro-latest",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "google-gemma-2-27b-it",
+      "provider": "google",
+      "model_id": "google/gemma-2-27b-it",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "google-gemma-3-12b-it",
+      "provider": "google",
+      "model_id": "google/gemma-3-12b-it",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "google-gemma-3-27b-it",
+      "provider": "google",
+      "model_id": "google/gemma-3-27b-it",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "google-gemma-3-4b-it",
+      "provider": "google",
+      "model_id": "google/gemma-3-4b-it",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "google-gemma-3n-e4b-it",
+      "provider": "google",
+      "model_id": "google/gemma-3n-e4b-it",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "google-gemma-4-26b-a4b-it",
+      "provider": "google",
+      "model_id": "google/gemma-4-26b-a4b-it",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "google-gemma-4-26b-a4b-it-free",
+      "provider": "google",
+      "model_id": "google/gemma-4-26b-a4b-it:free",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "google-gemma-4-31b-it",
+      "provider": "google",
+      "model_id": "google/gemma-4-31b-it",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "google-gemma-4-31b-it-free",
+      "provider": "google",
+      "model_id": "google/gemma-4-31b-it:free",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "google-lyria-3-clip-preview",
+      "provider": "google",
+      "model_id": "google/lyria-3-clip-preview",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "google-lyria-3-pro-preview",
+      "provider": "google",
+      "model_id": "google/lyria-3-pro-preview",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "gryphe-mythomax-l2-13b",
+      "provider": "gryphe",
+      "model_id": "gryphe/mythomax-l2-13b",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "ibm-granite-granite-4.0-h-micro",
+      "provider": "ibm-granite",
+      "model_id": "ibm-granite/granite-4.0-h-micro",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "ibm-granite-granite-4.1-8b",
+      "provider": "ibm-granite",
+      "model_id": "ibm-granite/granite-4.1-8b",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "inception-mercury-2",
+      "provider": "inception",
+      "model_id": "inception/mercury-2",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "inclusionai-ling-2.6-1t",
+      "provider": "inclusionai",
+      "model_id": "inclusionai/ling-2.6-1t",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "inclusionai-ling-2.6-flash",
+      "provider": "inclusionai",
+      "model_id": "inclusionai/ling-2.6-flash",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "inclusionai-ling-3.0-flash",
+      "provider": "inclusionai",
+      "model_id": "inclusionai/ling-3.0-flash",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "inclusionai-ling-3.0-tiny-free",
+      "provider": "inclusionai",
+      "model_id": "inclusionai/ling-3.0-tiny:free",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "inclusionai-ring-2.6-1t",
+      "provider": "inclusionai",
+      "model_id": "inclusionai/ring-2.6-1t",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "kwaipilot-kat-coder-air-v2.5",
+      "provider": "kwaipilot",
+      "model_id": "kwaipilot/kat-coder-air-v2.5",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "kwaipilot-kat-coder-pro-v2",
+      "provider": "kwaipilot",
+      "model_id": "kwaipilot/kat-coder-pro-v2",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "kwaipilot-kat-coder-pro-v2.5",
+      "provider": "kwaipilot",
+      "model_id": "kwaipilot/kat-coder-pro-v2.5",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "mancer-weaver",
+      "provider": "mancer",
+      "model_id": "mancer/weaver",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "meituan-longcat-2.0",
+      "provider": "meituan",
+      "model_id": "meituan/longcat-2.0",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "meta-llama-llama-3.1-70b-instruct",
+      "provider": "meta-llama",
+      "model_id": "meta-llama/llama-3.1-70b-instruct",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "meta-llama-llama-3.1-8b-instruct",
+      "provider": "meta-llama",
+      "model_id": "meta-llama/llama-3.1-8b-instruct",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "meta-llama-llama-3.2-1b-instruct",
+      "provider": "meta-llama",
+      "model_id": "meta-llama/llama-3.2-1b-instruct",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "meta-llama-llama-3.2-3b-instruct",
+      "provider": "meta-llama",
+      "model_id": "meta-llama/llama-3.2-3b-instruct",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "meta-llama-llama-3.3-70b-instruct",
+      "provider": "meta-llama",
+      "model_id": "meta-llama/llama-3.3-70b-instruct",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "meta-llama-llama-4-maverick",
+      "provider": "meta-llama",
+      "model_id": "meta-llama/llama-4-maverick",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "meta-llama-llama-4-scout",
+      "provider": "meta-llama",
+      "model_id": "meta-llama/llama-4-scout",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "meta-llama-llama-guard-4-12b",
+      "provider": "meta-llama",
+      "model_id": "meta-llama/llama-guard-4-12b",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "meta-muse-spark-1.1",
+      "provider": "meta",
+      "model_id": "meta/muse-spark-1.1",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "meta-muse-spark-1.2",
+      "provider": "meta",
+      "model_id": "meta/muse-spark-1.2",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "microsoft-phi-4",
+      "provider": "microsoft",
+      "model_id": "microsoft/phi-4",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "microsoft-wizardlm-2-8x22b",
+      "provider": "microsoft",
+      "model_id": "microsoft/wizardlm-2-8x22b",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "minimax-minimax-01",
+      "provider": "minimax",
+      "model_id": "minimax/minimax-01",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "minimax-minimax-m1",
+      "provider": "minimax",
+      "model_id": "minimax/minimax-m1",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "minimax-minimax-m2",
+      "provider": "minimax",
+      "model_id": "minimax/minimax-m2",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "minimax-minimax-m2-her",
+      "provider": "minimax",
+      "model_id": "minimax/minimax-m2-her",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "minimax-minimax-m2.1",
+      "provider": "minimax",
+      "model_id": "minimax/minimax-m2.1",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "minimax-minimax-m2.5",
+      "provider": "minimax",
+      "model_id": "minimax/minimax-m2.5",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "minimax-minimax-m2.7",
+      "provider": "minimax",
+      "model_id": "minimax/minimax-m2.7",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "minimax-minimax-m3",
+      "provider": "minimax",
+      "model_id": "minimax/minimax-m3",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "minimax-minimax-m3-batch",
+      "provider": "minimax",
+      "model_id": "minimax/minimax-m3:batch",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "mistralai-codestral-2508",
+      "provider": "mistralai",
+      "model_id": "mistralai/codestral-2508",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "mistralai-ministral-14b-2512",
+      "provider": "mistralai",
+      "model_id": "mistralai/ministral-14b-2512",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "mistralai-ministral-3b-2512",
+      "provider": "mistralai",
+      "model_id": "mistralai/ministral-3b-2512",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "mistralai-ministral-8b-2512",
+      "provider": "mistralai",
+      "model_id": "mistralai/ministral-8b-2512",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "mistralai-mistral-large",
+      "provider": "mistralai",
+      "model_id": "mistralai/mistral-large",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "mistralai-mistral-large-2407",
+      "provider": "mistralai",
+      "model_id": "mistralai/mistral-large-2407",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "mistralai-mistral-large-2512",
+      "provider": "mistralai",
+      "model_id": "mistralai/mistral-large-2512",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "mistralai-mistral-medium-3",
+      "provider": "mistralai",
+      "model_id": "mistralai/mistral-medium-3",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "mistralai-mistral-medium-3-5",
+      "provider": "mistralai",
+      "model_id": "mistralai/mistral-medium-3-5",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "mistralai-mistral-medium-3.1",
+      "provider": "mistralai",
+      "model_id": "mistralai/mistral-medium-3.1",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "mistralai-mistral-nemo",
+      "provider": "mistralai",
+      "model_id": "mistralai/mistral-nemo",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "mistralai-mistral-saba",
+      "provider": "mistralai",
+      "model_id": "mistralai/mistral-saba",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "mistralai-mistral-small-24b-instruct-2501",
+      "provider": "mistralai",
+      "model_id": "mistralai/mistral-small-24b-instruct-2501",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "mistralai-mistral-small-2603",
+      "provider": "mistralai",
+      "model_id": "mistralai/mistral-small-2603",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "mistralai-mistral-small-3.1-24b-instruct",
+      "provider": "mistralai",
+      "model_id": "mistralai/mistral-small-3.1-24b-instruct",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "mistralai-mistral-small-3.2-24b-instruct",
+      "provider": "mistralai",
+      "model_id": "mistralai/mistral-small-3.2-24b-instruct",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "mistralai-mixtral-8x22b-instruct",
+      "provider": "mistralai",
+      "model_id": "mistralai/mixtral-8x22b-instruct",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "mistralai-voxtral-small-24b-2507",
+      "provider": "mistralai",
+      "model_id": "mistralai/voxtral-small-24b-2507",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "moonshotai-kimi-k2",
+      "provider": "moonshotai",
+      "model_id": "moonshotai/kimi-k2",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "moonshotai-kimi-k2-0905",
+      "provider": "moonshotai",
+      "model_id": "moonshotai/kimi-k2-0905",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "moonshotai-kimi-k2-thinking",
+      "provider": "moonshotai",
+      "model_id": "moonshotai/kimi-k2-thinking",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "moonshotai-kimi-k2.5",
+      "provider": "moonshotai",
+      "model_id": "moonshotai/kimi-k2.5",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "moonshotai-kimi-k2.6",
+      "provider": "moonshotai",
+      "model_id": "moonshotai/kimi-k2.6",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "moonshotai-kimi-k2.7-code",
+      "provider": "moonshotai",
+      "model_id": "moonshotai/kimi-k2.7-code",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "moonshotai-kimi-k2.7-code-batch",
+      "provider": "moonshotai",
+      "model_id": "moonshotai/kimi-k2.7-code:batch",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "moonshotai-kimi-k3",
+      "provider": "moonshotai",
+      "model_id": "moonshotai/kimi-k3",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "moonshotai-kimi-latest",
+      "provider": "~moonshotai",
+      "model_id": "~moonshotai/kimi-latest",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "morph-morph-v3-fast",
+      "provider": "morph",
+      "model_id": "morph/morph-v3-fast",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "morph-morph-v3-large",
+      "provider": "morph",
+      "model_id": "morph/morph-v3-large",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "nex-agi-nex-n2-mini",
+      "provider": "nex-agi",
+      "model_id": "nex-agi/nex-n2-mini",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "nex-agi-nex-n2-pro",
+      "provider": "nex-agi",
+      "model_id": "nex-agi/nex-n2-pro",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "nousresearch-hermes-3-llama-3.1-405b",
+      "provider": "nousresearch",
+      "model_id": "nousresearch/hermes-3-llama-3.1-405b",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "nousresearch-hermes-3-llama-3.1-70b",
+      "provider": "nousresearch",
+      "model_id": "nousresearch/hermes-3-llama-3.1-70b",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "nousresearch-hermes-4-405b",
+      "provider": "nousresearch",
+      "model_id": "nousresearch/hermes-4-405b",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "nousresearch-hermes-4-70b",
+      "provider": "nousresearch",
+      "model_id": "nousresearch/hermes-4-70b",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "nvidia-nemotron-3-nano-30b-a3b",
+      "provider": "nvidia",
+      "model_id": "nvidia/nemotron-3-nano-30b-a3b",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "nvidia-nemotron-3-nano-30b-a3b-free",
+      "provider": "nvidia",
+      "model_id": "nvidia/nemotron-3-nano-30b-a3b:free",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "nvidia-nemotron-3-nano-omni-30b-a3b-reasoning-free",
+      "provider": "nvidia",
+      "model_id": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "nvidia-nemotron-3-super-120b-a12b",
+      "provider": "nvidia",
+      "model_id": "nvidia/nemotron-3-super-120b-a12b",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "nvidia-nemotron-3-super-120b-a12b-free",
+      "provider": "nvidia",
+      "model_id": "nvidia/nemotron-3-super-120b-a12b:free",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "nvidia-nemotron-3-ultra-550b-a55b",
+      "provider": "nvidia",
+      "model_id": "nvidia/nemotron-3-ultra-550b-a55b",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "nvidia-nemotron-3-ultra-550b-a55b-batch",
+      "provider": "nvidia",
+      "model_id": "nvidia/nemotron-3-ultra-550b-a55b:batch",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "nvidia-nemotron-3-ultra-550b-a55b-free",
+      "provider": "nvidia",
+      "model_id": "nvidia/nemotron-3-ultra-550b-a55b:free",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "nvidia-nemotron-3.5-content-safety-free",
+      "provider": "nvidia",
+      "model_id": "nvidia/nemotron-3.5-content-safety:free",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "nvidia-nemotron-nano-12b-v2-vl-free",
+      "provider": "nvidia",
+      "model_id": "nvidia/nemotron-nano-12b-v2-vl:free",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "nvidia-nemotron-nano-9b-v2-free",
+      "provider": "nvidia",
+      "model_id": "nvidia/nemotron-nano-9b-v2:free",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openai-ada",
+      "provider": "openai",
+      "model_id": "ada",
+      "state": "retired",
+      "message": "retired 2024-01-04"
+    },
+    {
+      "slug": "openai-assistants-api",
+      "provider": "openai",
+      "model_id": "Assistants API",
+      "state": "upcoming",
+      "message": "16 days left (2026-08-26)"
+    },
+    {
+      "slug": "openai-babbage",
+      "provider": "openai",
+      "model_id": "babbage",
+      "state": "retired",
+      "message": "retired 2024-01-04"
+    },
+    {
+      "slug": "openai-babbage-002",
+      "provider": "openai",
+      "model_id": "babbage-002",
+      "state": "upcoming",
+      "message": "49 days left (2026-09-28)"
+    },
+    {
+      "slug": "openai-chatgpt-4o-latest",
+      "provider": "openai",
+      "model_id": "chatgpt-4o-latest",
+      "state": "retired",
+      "message": "retired 2026-02-17"
+    },
+    {
+      "slug": "openai-chatgpt-image-latest",
+      "provider": "openai",
+      "model_id": "chatgpt-image-latest",
+      "state": "upcoming",
+      "message": "113 days left (2026-12-01)"
+    },
+    {
+      "slug": "openai-code-cushman-001",
+      "provider": "openai",
+      "model_id": "code-cushman-001",
+      "state": "retired",
+      "message": "retired 2023-03-23"
+    },
+    {
+      "slug": "openai-code-cushman-002",
+      "provider": "openai",
+      "model_id": "code-cushman-002",
+      "state": "retired",
+      "message": "retired 2023-03-23"
+    },
+    {
+      "slug": "openai-code-davinci-001",
+      "provider": "openai",
+      "model_id": "code-davinci-001",
+      "state": "retired",
+      "message": "retired 2023-03-23"
+    },
+    {
+      "slug": "openai-code-davinci-002",
+      "provider": "openai",
+      "model_id": "code-davinci-002",
+      "state": "retired",
+      "message": "retired 2023-03-23"
+    },
+    {
+      "slug": "openai-code-davinci-edit-001",
+      "provider": "openai",
+      "model_id": "code-davinci-edit-001",
+      "state": "retired",
+      "message": "retired 2024-01-04"
+    },
+    {
+      "slug": "openai-code-search-ada-code-001",
+      "provider": "openai",
+      "model_id": "code-search-ada-code-001",
+      "state": "retired",
+      "message": "retired 2024-01-04"
+    },
+    {
+      "slug": "openai-code-search-ada-text-001",
+      "provider": "openai",
+      "model_id": "code-search-ada-text-001",
+      "state": "retired",
+      "message": "retired 2024-01-04"
+    },
+    {
+      "slug": "openai-code-search-babbage-code-001",
+      "provider": "openai",
+      "model_id": "code-search-babbage-code-001",
+      "state": "retired",
+      "message": "retired 2024-01-04"
+    },
+    {
+      "slug": "openai-code-search-babbage-text-001",
+      "provider": "openai",
+      "model_id": "code-search-babbage-text-001",
+      "state": "retired",
+      "message": "retired 2024-01-04"
+    },
+    {
+      "slug": "openai-codex-mini-latest",
+      "provider": "openai",
+      "model_id": "codex-mini-latest",
+      "state": "retired",
+      "message": "retired 2026-02-12"
+    },
+    {
+      "slug": "openai-computer-use-preview-2025-03-11",
+      "provider": "openai",
+      "model_id": "computer-use-preview-2025-03-11",
+      "state": "retired",
+      "message": "retired 2026-07-23"
+    },
+    {
+      "slug": "openai-curie",
+      "provider": "openai",
+      "model_id": "curie",
+      "state": "retired",
+      "message": "retired 2024-01-04"
+    },
+    {
+      "slug": "openai-dall-e-2",
+      "provider": "openai",
+      "model_id": "dall-e-2",
+      "state": "retired",
+      "message": "retired 2026-05-12"
+    },
+    {
+      "slug": "openai-dall-e-3",
+      "provider": "openai",
+      "model_id": "dall-e-3",
+      "state": "retired",
+      "message": "retired 2026-05-12"
+    },
+    {
+      "slug": "openai-davinci",
+      "provider": "openai",
+      "model_id": "davinci",
+      "state": "retired",
+      "message": "retired 2024-01-04"
+    },
+    {
+      "slug": "openai-davinci-002",
+      "provider": "openai",
+      "model_id": "davinci-002",
+      "state": "upcoming",
+      "message": "49 days left (2026-09-28)"
+    },
+    {
+      "slug": "openai-ft-babbage-002",
+      "provider": "openai",
+      "model_id": "ft-babbage-002",
+      "state": "upcoming",
+      "message": "74 days left (2026-10-23)"
+    },
+    {
+      "slug": "openai-ft-davinci-002",
+      "provider": "openai",
+      "model_id": "ft-davinci-002",
+      "state": "upcoming",
+      "message": "74 days left (2026-10-23)"
+    },
+    {
+      "slug": "openai-ft-gpt-3.5-turbo",
+      "provider": "openai",
+      "model_id": "ft-gpt-3.5-turbo",
+      "state": "upcoming",
+      "message": "74 days left (2026-10-23)"
+    },
+    {
+      "slug": "openai-ft-gpt-4",
+      "provider": "openai",
+      "model_id": "ft-gpt-4",
+      "state": "upcoming",
+      "message": "74 days left (2026-10-23)"
+    },
+    {
+      "slug": "openai-ft-gpt-4.1-nano-2025-04-14",
+      "provider": "openai",
+      "model_id": "ft-gpt-4.1-nano-2025-04-14",
+      "state": "upcoming",
+      "message": "74 days left (2026-10-23)"
+    },
+    {
+      "slug": "openai-ft-o4-mini-2025-04-16",
+      "provider": "openai",
+      "model_id": "ft-o4-mini-2025-04-16",
+      "state": "upcoming",
+      "message": "74 days left (2026-10-23)"
+    },
+    {
+      "slug": "openai-gpt-3.5-turbo",
+      "provider": "openai",
+      "model_id": "openai/gpt-3.5-turbo",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openai-gpt-3.5-turbo-0125",
+      "provider": "openai",
+      "model_id": "gpt-3.5-turbo-0125",
+      "state": "upcoming",
+      "message": "74 days left (2026-10-23)"
+    },
+    {
+      "slug": "openai-gpt-3.5-turbo-0301",
+      "provider": "openai",
+      "model_id": "gpt-3.5-turbo-0301",
+      "state": "retired",
+      "message": "retired 2024-09-13"
+    },
+    {
+      "slug": "openai-gpt-3.5-turbo-0613",
+      "provider": "openai",
+      "model_id": "gpt-3.5-turbo-0613",
+      "state": "retired",
+      "message": "retired 2024-09-13"
+    },
+    {
+      "slug": "openai-gpt-3.5-turbo-1106",
+      "provider": "openai",
+      "model_id": "gpt-3.5-turbo-1106",
+      "state": "upcoming",
+      "message": "49 days left (2026-09-28)"
+    },
+    {
+      "slug": "openai-gpt-3.5-turbo-16k",
+      "provider": "openai",
+      "model_id": "openai/gpt-3.5-turbo-16k",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openai-gpt-3.5-turbo-16k-0613",
+      "provider": "openai",
+      "model_id": "gpt-3.5-turbo-16k-0613",
+      "state": "retired",
+      "message": "retired 2024-09-13"
+    },
+    {
+      "slug": "openai-gpt-3.5-turbo-batch",
+      "provider": "openai",
+      "model_id": "openai/gpt-3.5-turbo:batch",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openai-gpt-3.5-turbo-instruct",
+      "provider": "openai",
+      "model_id": "gpt-3.5-turbo-instruct",
+      "state": "upcoming",
+      "message": "49 days left (2026-09-28)"
+    },
+    {
+      "slug": "openai-gpt-4",
+      "provider": "openai",
+      "model_id": "openai/gpt-4",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openai-gpt-4-0125-preview-including-gpt-4-turbo-preview-and-gpt-4-turbo-preview-completions-which-point-to-this-snapshot",
+      "provider": "openai",
+      "model_id": "gpt-4-0125-preview (including gpt-4-turbo-preview and gpt-4-turbo-preview-completions, which point to this snapshot)",
+      "state": "retired",
+      "message": "retired 2026-03-26"
+    },
+    {
+      "slug": "openai-gpt-4-0314",
+      "provider": "openai",
+      "model_id": "gpt-4-0314",
+      "state": "retired",
+      "message": "retired 2024-06-13"
+    },
+    {
+      "slug": "openai-gpt-4-0613",
+      "provider": "openai",
+      "model_id": "gpt-4-0613",
+      "state": "upcoming",
+      "message": "74 days left (2026-10-23)"
+    },
+    {
+      "slug": "openai-gpt-4-1106-preview",
+      "provider": "openai",
+      "model_id": "gpt-4-1106-preview",
+      "state": "retired",
+      "message": "retired 2026-03-26"
+    },
+    {
+      "slug": "openai-gpt-4-1106-vision-preview",
+      "provider": "openai",
+      "model_id": "gpt-4-1106-vision-preview",
+      "state": "retired",
+      "message": "retired 2024-12-06"
+    },
+    {
+      "slug": "openai-gpt-4-32k",
+      "provider": "openai",
+      "model_id": "gpt-4-32k",
+      "state": "retired",
+      "message": "retired 2025-06-06"
+    },
+    {
+      "slug": "openai-gpt-4-32k-0314",
+      "provider": "openai",
+      "model_id": "gpt-4-32k-0314",
+      "state": "retired",
+      "message": "retired 2025-06-06"
+    },
+    {
+      "slug": "openai-gpt-4-32k-0613",
+      "provider": "openai",
+      "model_id": "gpt-4-32k-0613",
+      "state": "retired",
+      "message": "retired 2025-06-06"
+    },
+    {
+      "slug": "openai-gpt-4-turbo",
+      "provider": "openai",
+      "model_id": "gpt-4-turbo",
+      "state": "upcoming",
+      "message": "74 days left (2026-10-23)"
+    },
+    {
+      "slug": "openai-gpt-4-turbo-batch",
+      "provider": "openai",
+      "model_id": "openai/gpt-4-turbo:batch",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openai-gpt-4-turbo-preview",
+      "provider": "openai",
+      "model_id": "openai/gpt-4-turbo-preview",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openai-gpt-4-vision-preview",
+      "provider": "openai",
+      "model_id": "gpt-4-vision-preview",
+      "state": "retired",
+      "message": "retired 2024-12-06"
+    },
+    {
+      "slug": "openai-gpt-4.1",
+      "provider": "openai",
+      "model_id": "openai/gpt-4.1",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openai-gpt-4.1-batch",
+      "provider": "openai",
+      "model_id": "openai/gpt-4.1:batch",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openai-gpt-4.1-mini",
+      "provider": "openai",
+      "model_id": "openai/gpt-4.1-mini",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openai-gpt-4.1-mini-batch",
+      "provider": "openai",
+      "model_id": "openai/gpt-4.1-mini:batch",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openai-gpt-4.1-nano",
+      "provider": "openai",
+      "model_id": "gpt-4.1-nano",
+      "state": "upcoming",
+      "message": "74 days left (2026-10-23)"
+    },
+    {
+      "slug": "openai-gpt-4.1-nano-batch",
+      "provider": "openai",
+      "model_id": "openai/gpt-4.1-nano:batch",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openai-gpt-4.5-preview",
+      "provider": "openai",
+      "model_id": "gpt-4.5-preview",
+      "state": "retired",
+      "message": "retired 2025-07-14"
+    },
+    {
+      "slug": "openai-gpt-4o",
+      "provider": "openai",
+      "model_id": "openai/gpt-4o",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openai-gpt-4o-2024-05-13",
+      "provider": "openai",
+      "model_id": "gpt-4o-2024-05-13",
+      "state": "upcoming",
+      "message": "74 days left (2026-10-23)"
+    },
+    {
+      "slug": "openai-gpt-4o-2024-08-06",
+      "provider": "openai",
+      "model_id": "openai/gpt-4o-2024-08-06",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openai-gpt-4o-2024-11-20",
+      "provider": "openai",
+      "model_id": "openai/gpt-4o-2024-11-20",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openai-gpt-4o-audio",
+      "provider": "openai",
+      "model_id": "gpt-4o-audio",
+      "state": "upcoming",
+      "message": "163 days left (2027-01-20)"
+    },
+    {
+      "slug": "openai-gpt-4o-audio-preview",
+      "provider": "openai",
+      "model_id": "gpt-4o-audio-preview",
+      "state": "retired",
+      "message": "retired 2026-05-07"
+    },
+    {
+      "slug": "openai-gpt-4o-audio-preview-2024-10-01",
+      "provider": "openai",
+      "model_id": "gpt-4o-audio-preview-2024-10-01",
+      "state": "retired",
+      "message": "retired 2025-10-10"
+    },
+    {
+      "slug": "openai-gpt-4o-batch",
+      "provider": "openai",
+      "model_id": "openai/gpt-4o:batch",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openai-gpt-4o-mini",
+      "provider": "openai",
+      "model_id": "openai/gpt-4o-mini",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openai-gpt-4o-mini-2024-07-18",
+      "provider": "openai",
+      "model_id": "openai/gpt-4o-mini-2024-07-18",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openai-gpt-4o-mini-audio",
+      "provider": "openai",
+      "model_id": "gpt-4o-mini-audio",
+      "state": "upcoming",
+      "message": "163 days left (2027-01-20)"
+    },
+    {
+      "slug": "openai-gpt-4o-mini-audio-preview",
+      "provider": "openai",
+      "model_id": "gpt-4o-mini-audio-preview",
+      "state": "retired",
+      "message": "retired 2026-05-07"
+    },
+    {
+      "slug": "openai-gpt-4o-mini-batch",
+      "provider": "openai",
+      "model_id": "openai/gpt-4o-mini:batch",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openai-gpt-4o-mini-realtime",
+      "provider": "openai",
+      "model_id": "gpt-4o-mini-realtime",
+      "state": "upcoming",
+      "message": "163 days left (2027-01-20)"
+    },
+    {
+      "slug": "openai-gpt-4o-mini-realtime-preview",
+      "provider": "openai",
+      "model_id": "gpt-4o-mini-realtime-preview",
+      "state": "retired",
+      "message": "retired 2026-05-07"
+    },
+    {
+      "slug": "openai-gpt-4o-mini-search-preview-2025-03-11",
+      "provider": "openai",
+      "model_id": "gpt-4o-mini-search-preview-2025-03-11",
+      "state": "retired",
+      "message": "retired 2026-07-23"
+    },
+    {
+      "slug": "openai-gpt-4o-mini-transcribe-2025-03-20",
+      "provider": "openai",
+      "model_id": "gpt-4o-mini-transcribe-2025-03-20",
+      "state": "upcoming",
+      "message": "163 days left (2027-01-20)"
+    },
+    {
+      "slug": "openai-gpt-4o-realtime",
+      "provider": "openai",
+      "model_id": "gpt-4o-realtime",
+      "state": "upcoming",
+      "message": "163 days left (2027-01-20)"
+    },
+    {
+      "slug": "openai-gpt-4o-realtime-preview",
+      "provider": "openai",
+      "model_id": "gpt-4o-realtime-preview",
+      "state": "retired",
+      "message": "retired 2026-05-07"
+    },
+    {
+      "slug": "openai-gpt-4o-realtime-preview-2024-10-01",
+      "provider": "openai",
+      "model_id": "gpt-4o-realtime-preview-2024-10-01",
+      "state": "retired",
+      "message": "retired 2025-10-10"
+    },
+    {
+      "slug": "openai-gpt-4o-realtime-preview-2024-12-17",
+      "provider": "openai",
+      "model_id": "gpt-4o-realtime-preview-2024-12-17",
+      "state": "retired",
+      "message": "retired 2026-05-07"
+    },
+    {
+      "slug": "openai-gpt-4o-realtime-preview-2025-06-03",
+      "provider": "openai",
+      "model_id": "gpt-4o-realtime-preview-2025-06-03",
+      "state": "retired",
+      "message": "retired 2026-05-07"
+    },
+    {
+      "slug": "openai-gpt-4o-search-preview-2025-03-11",
+      "provider": "openai",
+      "model_id": "gpt-4o-search-preview-2025-03-11",
+      "state": "retired",
+      "message": "retired 2026-07-23"
+    },
+    {
+      "slug": "openai-gpt-5",
+      "provider": "openai",
+      "model_id": "openai/gpt-5",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openai-gpt-5-2025-08-07",
+      "provider": "openai",
+      "model_id": "gpt-5-2025-08-07",
+      "state": "upcoming",
+      "message": "123 days left (2026-12-11)"
+    },
+    {
+      "slug": "openai-gpt-5-batch",
+      "provider": "openai",
+      "model_id": "openai/gpt-5:batch",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openai-gpt-5-chat-latest",
+      "provider": "openai",
+      "model_id": "gpt-5-chat-latest",
+      "state": "retired",
+      "message": "retired 2026-07-23"
+    },
+    {
+      "slug": "openai-gpt-5-codex",
+      "provider": "openai",
+      "model_id": "gpt-5-codex",
+      "state": "retired",
+      "message": "retired 2026-07-23"
+    },
+    {
+      "slug": "openai-gpt-5-codex-batch",
+      "provider": "openai",
+      "model_id": "openai/gpt-5-codex:batch",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openai-gpt-5-image",
+      "provider": "openai",
+      "model_id": "openai/gpt-5-image",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openai-gpt-5-image-mini",
+      "provider": "openai",
+      "model_id": "openai/gpt-5-image-mini",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openai-gpt-5-mini",
+      "provider": "openai",
+      "model_id": "openai/gpt-5-mini",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openai-gpt-5-mini-2025-08-07",
+      "provider": "openai",
+      "model_id": "gpt-5-mini-2025-08-07",
+      "state": "upcoming",
+      "message": "123 days left (2026-12-11)"
+    },
+    {
+      "slug": "openai-gpt-5-mini-batch",
+      "provider": "openai",
+      "model_id": "openai/gpt-5-mini:batch",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openai-gpt-5-nano",
+      "provider": "openai",
+      "model_id": "openai/gpt-5-nano",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openai-gpt-5-nano-2025-08-07",
+      "provider": "openai",
+      "model_id": "gpt-5-nano-2025-08-07",
+      "state": "upcoming",
+      "message": "123 days left (2026-12-11)"
+    },
+    {
+      "slug": "openai-gpt-5-nano-batch",
+      "provider": "openai",
+      "model_id": "openai/gpt-5-nano:batch",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openai-gpt-5-pro",
+      "provider": "openai",
+      "model_id": "openai/gpt-5-pro",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openai-gpt-5-pro-2025-10-06",
+      "provider": "openai",
+      "model_id": "gpt-5-pro-2025-10-06",
+      "state": "upcoming",
+      "message": "123 days left (2026-12-11)"
+    },
+    {
+      "slug": "openai-gpt-5-pro-batch",
+      "provider": "openai",
+      "model_id": "openai/gpt-5-pro:batch",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openai-gpt-5.1",
+      "provider": "openai",
+      "model_id": "openai/gpt-5.1",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openai-gpt-5.1-batch",
+      "provider": "openai",
+      "model_id": "openai/gpt-5.1:batch",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openai-gpt-5.1-chat-latest",
+      "provider": "openai",
+      "model_id": "gpt-5.1-chat-latest",
+      "state": "retired",
+      "message": "retired 2026-07-23"
+    },
+    {
+      "slug": "openai-gpt-5.1-codex",
+      "provider": "openai",
+      "model_id": "gpt-5.1-codex",
+      "state": "retired",
+      "message": "retired 2026-07-23"
+    },
+    {
+      "slug": "openai-gpt-5.1-codex-max",
+      "provider": "openai",
+      "model_id": "gpt-5.1-codex-max",
+      "state": "retired",
+      "message": "retired 2026-07-23"
+    },
+    {
+      "slug": "openai-gpt-5.1-codex-mini",
+      "provider": "openai",
+      "model_id": "gpt-5.1-codex-mini",
+      "state": "retired",
+      "message": "retired 2026-07-23"
+    },
+    {
+      "slug": "openai-gpt-5.2",
+      "provider": "openai",
+      "model_id": "openai/gpt-5.2",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openai-gpt-5.2-batch",
+      "provider": "openai",
+      "model_id": "openai/gpt-5.2:batch",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openai-gpt-5.2-chat",
+      "provider": "openai",
+      "model_id": "openai/gpt-5.2-chat",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openai-gpt-5.2-chat-latest",
+      "provider": "openai",
+      "model_id": "gpt-5.2-chat-latest",
+      "state": "upcoming",
+      "message": "today 2026-08-10"
+    },
+    {
+      "slug": "openai-gpt-5.2-codex",
+      "provider": "openai",
+      "model_id": "gpt-5.2-codex",
+      "state": "retired",
+      "message": "retired 2026-07-23"
+    },
+    {
+      "slug": "openai-gpt-5.2-pro",
+      "provider": "openai",
+      "model_id": "openai/gpt-5.2-pro",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openai-gpt-5.2-pro-batch",
+      "provider": "openai",
+      "model_id": "openai/gpt-5.2-pro:batch",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openai-gpt-5.3-chat",
+      "provider": "openai",
+      "model_id": "openai/gpt-5.3-chat",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openai-gpt-5.3-chat-latest",
+      "provider": "openai",
+      "model_id": "gpt-5.3-chat-latest",
+      "state": "upcoming",
+      "message": "today 2026-08-10"
+    },
+    {
+      "slug": "openai-gpt-5.3-codex",
+      "provider": "openai",
+      "model_id": "openai/gpt-5.3-codex",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openai-gpt-5.4",
+      "provider": "openai",
+      "model_id": "openai/gpt-5.4",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openai-gpt-5.4-batch",
+      "provider": "openai",
+      "model_id": "openai/gpt-5.4:batch",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openai-gpt-5.4-image-2",
+      "provider": "openai",
+      "model_id": "openai/gpt-5.4-image-2",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openai-gpt-5.4-mini",
+      "provider": "openai",
+      "model_id": "openai/gpt-5.4-mini",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openai-gpt-5.4-mini-batch",
+      "provider": "openai",
+      "model_id": "openai/gpt-5.4-mini:batch",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openai-gpt-5.4-nano",
+      "provider": "openai",
+      "model_id": "openai/gpt-5.4-nano",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openai-gpt-5.4-nano-batch",
+      "provider": "openai",
+      "model_id": "openai/gpt-5.4-nano:batch",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openai-gpt-5.4-pro",
+      "provider": "openai",
+      "model_id": "openai/gpt-5.4-pro",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openai-gpt-5.4-pro-batch",
+      "provider": "openai",
+      "model_id": "openai/gpt-5.4-pro:batch",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openai-gpt-5.5",
+      "provider": "openai",
+      "model_id": "openai/gpt-5.5",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openai-gpt-5.5-batch",
+      "provider": "openai",
+      "model_id": "openai/gpt-5.5:batch",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openai-gpt-5.5-pro",
+      "provider": "openai",
+      "model_id": "openai/gpt-5.5-pro",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openai-gpt-5.5-pro-batch",
+      "provider": "openai",
+      "model_id": "openai/gpt-5.5-pro:batch",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openai-gpt-5.6-luna",
+      "provider": "openai",
+      "model_id": "openai/gpt-5.6-luna",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openai-gpt-5.6-luna-batch",
+      "provider": "openai",
+      "model_id": "openai/gpt-5.6-luna:batch",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openai-gpt-5.6-luna-pro",
+      "provider": "openai",
+      "model_id": "openai/gpt-5.6-luna-pro",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openai-gpt-5.6-luna-pro-batch",
+      "provider": "openai",
+      "model_id": "openai/gpt-5.6-luna-pro:batch",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openai-gpt-5.6-sol",
+      "provider": "openai",
+      "model_id": "openai/gpt-5.6-sol",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openai-gpt-5.6-sol-batch",
+      "provider": "openai",
+      "model_id": "openai/gpt-5.6-sol:batch",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openai-gpt-5.6-sol-pro",
+      "provider": "openai",
+      "model_id": "openai/gpt-5.6-sol-pro",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openai-gpt-5.6-sol-pro-batch",
+      "provider": "openai",
+      "model_id": "openai/gpt-5.6-sol-pro:batch",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openai-gpt-5.6-terra",
+      "provider": "openai",
+      "model_id": "openai/gpt-5.6-terra",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openai-gpt-5.6-terra-batch",
+      "provider": "openai",
+      "model_id": "openai/gpt-5.6-terra:batch",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openai-gpt-5.6-terra-pro",
+      "provider": "openai",
+      "model_id": "openai/gpt-5.6-terra-pro",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openai-gpt-5.6-terra-pro-batch",
+      "provider": "openai",
+      "model_id": "openai/gpt-5.6-terra-pro:batch",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openai-gpt-audio",
+      "provider": "openai",
+      "model_id": "gpt-audio",
+      "state": "upcoming",
+      "message": "163 days left (2027-01-20)"
+    },
+    {
+      "slug": "openai-gpt-audio-mini",
+      "provider": "openai",
+      "model_id": "gpt-audio-mini",
+      "state": "upcoming",
+      "message": "163 days left (2027-01-20)"
+    },
+    {
+      "slug": "openai-gpt-audio-mini-2025-10-06",
+      "provider": "openai",
+      "model_id": "gpt-audio-mini-2025-10-06",
+      "state": "retired",
+      "message": "retired 2026-07-23"
+    },
+    {
+      "slug": "openai-gpt-chat-latest",
+      "provider": "openai",
+      "model_id": "openai/gpt-chat-latest",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openai-gpt-image-1",
+      "provider": "openai",
+      "model_id": "gpt-image-1",
+      "state": "upcoming",
+      "message": "74 days left (2026-10-23)"
+    },
+    {
+      "slug": "openai-gpt-image-1-mini",
+      "provider": "openai",
+      "model_id": "gpt-image-1-mini",
+      "state": "upcoming",
+      "message": "113 days left (2026-12-01)"
+    },
+    {
+      "slug": "openai-gpt-image-1.5",
+      "provider": "openai",
+      "model_id": "gpt-image-1.5",
+      "state": "upcoming",
+      "message": "113 days left (2026-12-01)"
+    },
+    {
+      "slug": "openai-gpt-latest",
+      "provider": "~openai",
+      "model_id": "~openai/gpt-latest",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openai-gpt-mini-latest",
+      "provider": "~openai",
+      "model_id": "~openai/gpt-mini-latest",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openai-gpt-oss-120b",
+      "provider": "openai",
+      "model_id": "openai/gpt-oss-120b",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openai-gpt-oss-20b",
+      "provider": "openai",
+      "model_id": "openai/gpt-oss-20b",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openai-gpt-oss-20b-free",
+      "provider": "openai",
+      "model_id": "openai/gpt-oss-20b:free",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openai-gpt-oss-safeguard-20b",
+      "provider": "openai",
+      "model_id": "openai/gpt-oss-safeguard-20b",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openai-gpt-realtime",
+      "provider": "openai",
+      "model_id": "gpt-realtime",
+      "state": "upcoming",
+      "message": "163 days left (2027-01-20)"
+    },
+    {
+      "slug": "openai-gpt-realtime-mini",
+      "provider": "openai",
+      "model_id": "gpt-realtime-mini",
+      "state": "upcoming",
+      "message": "163 days left (2027-01-20)"
+    },
+    {
+      "slug": "openai-gpt-realtime-mini-2025-10-06",
+      "provider": "openai",
+      "model_id": "gpt-realtime-mini-2025-10-06",
+      "state": "retired",
+      "message": "retired 2026-07-23"
+    },
+    {
+      "slug": "openai-new-fine-tuning-training-on-babbage-002",
+      "provider": "openai",
+      "model_id": "New fine-tuning training on babbage-002",
+      "state": "retired",
+      "message": "retired 2024-10-28"
+    },
+    {
+      "slug": "openai-new-fine-tuning-training-on-davinci-002",
+      "provider": "openai",
+      "model_id": "New fine-tuning training on davinci-002",
+      "state": "retired",
+      "message": "retired 2024-10-28"
+    },
+    {
+      "slug": "openai-o1",
+      "provider": "openai",
+      "model_id": "openai/o1",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openai-o1-2024-12-17",
+      "provider": "openai",
+      "model_id": "o1-2024-12-17",
+      "state": "upcoming",
+      "message": "74 days left (2026-10-23)"
+    },
+    {
+      "slug": "openai-o1-batch",
+      "provider": "openai",
+      "model_id": "openai/o1:batch",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openai-o1-mini",
+      "provider": "openai",
+      "model_id": "o1-mini",
+      "state": "retired",
+      "message": "retired 2025-10-27"
+    },
+    {
+      "slug": "openai-o1-preview",
+      "provider": "openai",
+      "model_id": "o1-preview",
+      "state": "retired",
+      "message": "retired 2025-07-28"
+    },
+    {
+      "slug": "openai-o1-pro",
+      "provider": "openai",
+      "model_id": "openai/o1-pro",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openai-o1-pro-2025-03-19",
+      "provider": "openai",
+      "model_id": "o1-pro-2025-03-19",
+      "state": "upcoming",
+      "message": "74 days left (2026-10-23)"
+    },
+    {
+      "slug": "openai-o1-pro-batch",
+      "provider": "openai",
+      "model_id": "openai/o1-pro:batch",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openai-o3",
+      "provider": "openai",
+      "model_id": "openai/o3",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openai-o3-2025-04-16",
+      "provider": "openai",
+      "model_id": "o3-2025-04-16",
+      "state": "upcoming",
+      "message": "123 days left (2026-12-11)"
+    },
+    {
+      "slug": "openai-o3-batch",
+      "provider": "openai",
+      "model_id": "openai/o3:batch",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openai-o3-deep-research-2025-06-26",
+      "provider": "openai",
+      "model_id": "o3-deep-research-2025-06-26",
+      "state": "retired",
+      "message": "retired 2026-07-23"
+    },
+    {
+      "slug": "openai-o3-mini",
+      "provider": "openai",
+      "model_id": "openai/o3-mini",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openai-o3-mini-2025-01-31",
+      "provider": "openai",
+      "model_id": "o3-mini-2025-01-31",
+      "state": "upcoming",
+      "message": "74 days left (2026-10-23)"
+    },
+    {
+      "slug": "openai-o3-mini-batch",
+      "provider": "openai",
+      "model_id": "openai/o3-mini:batch",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openai-o3-mini-high",
+      "provider": "openai",
+      "model_id": "openai/o3-mini-high",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openai-o3-mini-high-batch",
+      "provider": "openai",
+      "model_id": "openai/o3-mini-high:batch",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openai-o3-pro",
+      "provider": "openai",
+      "model_id": "openai/o3-pro",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openai-o3-pro-2025-06-10",
+      "provider": "openai",
+      "model_id": "o3-pro-2025-06-10",
+      "state": "upcoming",
+      "message": "123 days left (2026-12-11)"
+    },
+    {
+      "slug": "openai-o3-pro-batch",
+      "provider": "openai",
+      "model_id": "openai/o3-pro:batch",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openai-o4-mini",
+      "provider": "openai",
+      "model_id": "openai/o4-mini",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openai-o4-mini-2025-04-16",
+      "provider": "openai",
+      "model_id": "o4-mini-2025-04-16",
+      "state": "upcoming",
+      "message": "74 days left (2026-10-23)"
+    },
+    {
+      "slug": "openai-o4-mini-batch",
+      "provider": "openai",
+      "model_id": "openai/o4-mini:batch",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openai-o4-mini-deep-research-2025-06-26",
+      "provider": "openai",
+      "model_id": "o4-mini-deep-research-2025-06-26",
+      "state": "retired",
+      "message": "retired 2026-07-23"
+    },
+    {
+      "slug": "openai-o4-mini-high",
+      "provider": "openai",
+      "model_id": "openai/o4-mini-high",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openai-o4-mini-high-batch",
+      "provider": "openai",
+      "model_id": "openai/o4-mini-high:batch",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openai-openai-beta-assistants-v1",
+      "provider": "openai",
+      "model_id": "OpenAI-Beta: assistants=v1",
+      "state": "retired",
+      "message": "retired 2024-12-18"
+    },
+    {
+      "slug": "openai-openai-beta-realtime-v1",
+      "provider": "openai",
+      "model_id": "OpenAI-Beta: realtime=v1",
+      "state": "retired",
+      "message": "retired 2026-05-12"
+    },
+    {
+      "slug": "openai-sora-2",
+      "provider": "openai",
+      "model_id": "sora-2",
+      "state": "upcoming",
+      "message": "45 days left (2026-09-24)"
+    },
+    {
+      "slug": "openai-sora-2-2025-10-06",
+      "provider": "openai",
+      "model_id": "sora-2-2025-10-06",
+      "state": "upcoming",
+      "message": "45 days left (2026-09-24)"
+    },
+    {
+      "slug": "openai-sora-2-2025-12-08",
+      "provider": "openai",
+      "model_id": "sora-2-2025-12-08",
+      "state": "upcoming",
+      "message": "45 days left (2026-09-24)"
+    },
+    {
+      "slug": "openai-sora-2-pro",
+      "provider": "openai",
+      "model_id": "sora-2-pro",
+      "state": "upcoming",
+      "message": "45 days left (2026-09-24)"
+    },
+    {
+      "slug": "openai-sora-2-pro-2025-10-06",
+      "provider": "openai",
+      "model_id": "sora-2-pro-2025-10-06",
+      "state": "upcoming",
+      "message": "45 days left (2026-09-24)"
+    },
+    {
+      "slug": "openai-text-ada-001",
+      "provider": "openai",
+      "model_id": "text-ada-001",
+      "state": "retired",
+      "message": "retired 2024-01-04"
+    },
+    {
+      "slug": "openai-text-babbage-001",
+      "provider": "openai",
+      "model_id": "text-babbage-001",
+      "state": "retired",
+      "message": "retired 2024-01-04"
+    },
+    {
+      "slug": "openai-text-curie-001",
+      "provider": "openai",
+      "model_id": "text-curie-001",
+      "state": "retired",
+      "message": "retired 2024-01-04"
+    },
+    {
+      "slug": "openai-text-davinci-001",
+      "provider": "openai",
+      "model_id": "text-davinci-001",
+      "state": "retired",
+      "message": "retired 2024-01-04"
+    },
+    {
+      "slug": "openai-text-davinci-002",
+      "provider": "openai",
+      "model_id": "text-davinci-002",
+      "state": "retired",
+      "message": "retired 2024-01-04"
+    },
+    {
+      "slug": "openai-text-davinci-003",
+      "provider": "openai",
+      "model_id": "text-davinci-003",
+      "state": "retired",
+      "message": "retired 2024-01-04"
+    },
+    {
+      "slug": "openai-text-davinci-edit-001",
+      "provider": "openai",
+      "model_id": "text-davinci-edit-001",
+      "state": "retired",
+      "message": "retired 2024-01-04"
+    },
+    {
+      "slug": "openai-text-moderation-007",
+      "provider": "openai",
+      "model_id": "text-moderation-007",
+      "state": "retired",
+      "message": "retired 2025-10-27"
+    },
+    {
+      "slug": "openai-text-moderation-latest",
+      "provider": "openai",
+      "model_id": "text-moderation-latest",
+      "state": "retired",
+      "message": "retired 2025-10-27"
+    },
+    {
+      "slug": "openai-text-moderation-stable",
+      "provider": "openai",
+      "model_id": "text-moderation-stable",
+      "state": "retired",
+      "message": "retired 2025-10-27"
+    },
+    {
+      "slug": "openai-text-search-ada-doc-001",
+      "provider": "openai",
+      "model_id": "text-search-ada-doc-001",
+      "state": "retired",
+      "message": "retired 2024-01-04"
+    },
+    {
+      "slug": "openai-text-search-ada-query-001",
+      "provider": "openai",
+      "model_id": "text-search-ada-query-001",
+      "state": "retired",
+      "message": "retired 2024-01-04"
+    },
+    {
+      "slug": "openai-text-search-babbage-doc-001",
+      "provider": "openai",
+      "model_id": "text-search-babbage-doc-001",
+      "state": "retired",
+      "message": "retired 2024-01-04"
+    },
+    {
+      "slug": "openai-text-search-babbage-query-001",
+      "provider": "openai",
+      "model_id": "text-search-babbage-query-001",
+      "state": "retired",
+      "message": "retired 2024-01-04"
+    },
+    {
+      "slug": "openai-text-search-curie-doc-001",
+      "provider": "openai",
+      "model_id": "text-search-curie-doc-001",
+      "state": "retired",
+      "message": "retired 2024-01-04"
+    },
+    {
+      "slug": "openai-text-search-curie-query-001",
+      "provider": "openai",
+      "model_id": "text-search-curie-query-001",
+      "state": "retired",
+      "message": "retired 2024-01-04"
+    },
+    {
+      "slug": "openai-text-search-davinci-doc-001",
+      "provider": "openai",
+      "model_id": "text-search-davinci-doc-001",
+      "state": "retired",
+      "message": "retired 2024-01-04"
+    },
+    {
+      "slug": "openai-text-search-davinci-query-001",
+      "provider": "openai",
+      "model_id": "text-search-davinci-query-001",
+      "state": "retired",
+      "message": "retired 2024-01-04"
+    },
+    {
+      "slug": "openai-text-similarity-ada-001",
+      "provider": "openai",
+      "model_id": "text-similarity-ada-001",
+      "state": "retired",
+      "message": "retired 2024-01-04"
+    },
+    {
+      "slug": "openai-text-similarity-babbage-001",
+      "provider": "openai",
+      "model_id": "text-similarity-babbage-001",
+      "state": "retired",
+      "message": "retired 2024-01-04"
+    },
+    {
+      "slug": "openai-text-similarity-curie-001",
+      "provider": "openai",
+      "model_id": "text-similarity-curie-001",
+      "state": "retired",
+      "message": "retired 2024-01-04"
+    },
+    {
+      "slug": "openai-text-similarity-davinci-001",
+      "provider": "openai",
+      "model_id": "text-similarity-davinci-001",
+      "state": "retired",
+      "message": "retired 2024-01-04"
+    },
+    {
+      "slug": "openai-v1-answers",
+      "provider": "openai",
+      "model_id": "/v1/answers",
+      "state": "retired",
+      "message": "retired 2022-12-03"
+    },
+    {
+      "slug": "openai-v1-classifications",
+      "provider": "openai",
+      "model_id": "/v1/classifications",
+      "state": "retired",
+      "message": "retired 2022-12-03"
+    },
+    {
+      "slug": "openai-v1-edits",
+      "provider": "openai",
+      "model_id": "/v1/edits",
+      "state": "retired",
+      "message": "retired 2024-01-04"
+    },
+    {
+      "slug": "openai-v1-engines",
+      "provider": "openai",
+      "model_id": "/v1/engines",
+      "state": "retired",
+      "message": "retired 2022-12-03"
+    },
+    {
+      "slug": "openai-v1-fine-tunes",
+      "provider": "openai",
+      "model_id": "/v1/fine-tunes",
+      "state": "retired",
+      "message": "retired 2024-01-04"
+    },
+    {
+      "slug": "openai-v1-search",
+      "provider": "openai",
+      "model_id": "/v1/search",
+      "state": "retired",
+      "message": "retired 2022-12-03"
+    },
+    {
+      "slug": "openai-videos-api",
+      "provider": "openai",
+      "model_id": "Videos API",
+      "state": "upcoming",
+      "message": "45 days left (2026-09-24)"
+    },
+    {
+      "slug": "openrouter-auto",
+      "provider": "openrouter",
+      "model_id": "openrouter/auto",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openrouter-auto-beta",
+      "provider": "openrouter",
+      "model_id": "openrouter/auto-beta",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openrouter-bodybuilder",
+      "provider": "openrouter",
+      "model_id": "openrouter/bodybuilder",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openrouter-free",
+      "provider": "openrouter",
+      "model_id": "openrouter/free",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openrouter-fusion",
+      "provider": "openrouter",
+      "model_id": "openrouter/fusion",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openrouter-pareto-code",
+      "provider": "openrouter",
+      "model_id": "openrouter/pareto-code",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "perceptron-perceptron-mk1",
+      "provider": "perceptron",
+      "model_id": "perceptron/perceptron-mk1",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "perplexity-sonar",
+      "provider": "perplexity",
+      "model_id": "perplexity/sonar",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "perplexity-sonar-deep-research",
+      "provider": "perplexity",
+      "model_id": "perplexity/sonar-deep-research",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "perplexity-sonar-pro",
+      "provider": "perplexity",
+      "model_id": "perplexity/sonar-pro",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "perplexity-sonar-pro-search",
+      "provider": "perplexity",
+      "model_id": "perplexity/sonar-pro-search",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "perplexity-sonar-reasoning-pro",
+      "provider": "perplexity",
+      "model_id": "perplexity/sonar-reasoning-pro",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "poolside-laguna-s-2.1",
+      "provider": "poolside",
+      "model_id": "poolside/laguna-s-2.1",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "poolside-laguna-s-2.1-free",
+      "provider": "poolside",
+      "model_id": "poolside/laguna-s-2.1:free",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "poolside-laguna-xs-2.1",
+      "provider": "poolside",
+      "model_id": "poolside/laguna-xs-2.1",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "poolside-laguna-xs-2.1-free",
+      "provider": "poolside",
+      "model_id": "poolside/laguna-xs-2.1:free",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "qwen-qwen-2.5-72b-instruct",
+      "provider": "qwen",
+      "model_id": "qwen/qwen-2.5-72b-instruct",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "qwen-qwen-2.5-7b-instruct",
+      "provider": "qwen",
+      "model_id": "qwen/qwen-2.5-7b-instruct",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "qwen-qwen-2.5-coder-32b-instruct",
+      "provider": "qwen",
+      "model_id": "qwen/qwen-2.5-coder-32b-instruct",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "qwen-qwen-plus",
+      "provider": "qwen",
+      "model_id": "qwen/qwen-plus",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "qwen-qwen-plus-2025-07-28",
+      "provider": "qwen",
+      "model_id": "qwen/qwen-plus-2025-07-28",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "qwen-qwen-plus-2025-07-28-thinking",
+      "provider": "qwen",
+      "model_id": "qwen/qwen-plus-2025-07-28:thinking",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "qwen-qwen2.5-vl-72b-instruct",
+      "provider": "qwen",
+      "model_id": "qwen/qwen2.5-vl-72b-instruct",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "qwen-qwen3-14b",
+      "provider": "qwen",
+      "model_id": "qwen/qwen3-14b",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "qwen-qwen3-235b-a22b",
+      "provider": "qwen",
+      "model_id": "qwen/qwen3-235b-a22b",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "qwen-qwen3-235b-a22b-2507",
+      "provider": "qwen",
+      "model_id": "qwen/qwen3-235b-a22b-2507",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "qwen-qwen3-235b-a22b-thinking-2507",
+      "provider": "qwen",
+      "model_id": "qwen/qwen3-235b-a22b-thinking-2507",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "qwen-qwen3-30b-a3b",
+      "provider": "qwen",
+      "model_id": "qwen/qwen3-30b-a3b",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "qwen-qwen3-30b-a3b-instruct-2507",
+      "provider": "qwen",
+      "model_id": "qwen/qwen3-30b-a3b-instruct-2507",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "qwen-qwen3-30b-a3b-thinking-2507",
+      "provider": "qwen",
+      "model_id": "qwen/qwen3-30b-a3b-thinking-2507",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "qwen-qwen3-32b",
+      "provider": "qwen",
+      "model_id": "qwen/qwen3-32b",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "qwen-qwen3-8b",
+      "provider": "qwen",
+      "model_id": "qwen/qwen3-8b",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "qwen-qwen3-coder",
+      "provider": "qwen",
+      "model_id": "qwen/qwen3-coder",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "qwen-qwen3-coder-30b-a3b-instruct",
+      "provider": "qwen",
+      "model_id": "qwen/qwen3-coder-30b-a3b-instruct",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "qwen-qwen3-coder-flash",
+      "provider": "qwen",
+      "model_id": "qwen/qwen3-coder-flash",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "qwen-qwen3-coder-next",
+      "provider": "qwen",
+      "model_id": "qwen/qwen3-coder-next",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "qwen-qwen3-coder-plus",
+      "provider": "qwen",
+      "model_id": "qwen/qwen3-coder-plus",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "qwen-qwen3-max",
+      "provider": "qwen",
+      "model_id": "qwen/qwen3-max",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "qwen-qwen3-max-thinking",
+      "provider": "qwen",
+      "model_id": "qwen/qwen3-max-thinking",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "qwen-qwen3-next-80b-a3b-instruct",
+      "provider": "qwen",
+      "model_id": "qwen/qwen3-next-80b-a3b-instruct",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "qwen-qwen3-next-80b-a3b-thinking",
+      "provider": "qwen",
+      "model_id": "qwen/qwen3-next-80b-a3b-thinking",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "qwen-qwen3-vl-235b-a22b-instruct",
+      "provider": "qwen",
+      "model_id": "qwen/qwen3-vl-235b-a22b-instruct",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "qwen-qwen3-vl-235b-a22b-thinking",
+      "provider": "qwen",
+      "model_id": "qwen/qwen3-vl-235b-a22b-thinking",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "qwen-qwen3-vl-30b-a3b-instruct",
+      "provider": "qwen",
+      "model_id": "qwen/qwen3-vl-30b-a3b-instruct",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "qwen-qwen3-vl-30b-a3b-thinking",
+      "provider": "qwen",
+      "model_id": "qwen/qwen3-vl-30b-a3b-thinking",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "qwen-qwen3-vl-32b-instruct",
+      "provider": "qwen",
+      "model_id": "qwen/qwen3-vl-32b-instruct",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "qwen-qwen3-vl-8b-instruct",
+      "provider": "qwen",
+      "model_id": "qwen/qwen3-vl-8b-instruct",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "qwen-qwen3-vl-8b-thinking",
+      "provider": "qwen",
+      "model_id": "qwen/qwen3-vl-8b-thinking",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "qwen-qwen3.5-122b-a10b",
+      "provider": "qwen",
+      "model_id": "qwen/qwen3.5-122b-a10b",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "qwen-qwen3.5-27b",
+      "provider": "qwen",
+      "model_id": "qwen/qwen3.5-27b",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "qwen-qwen3.5-35b-a3b",
+      "provider": "qwen",
+      "model_id": "qwen/qwen3.5-35b-a3b",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "qwen-qwen3.5-397b-a17b",
+      "provider": "qwen",
+      "model_id": "qwen/qwen3.5-397b-a17b",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "qwen-qwen3.5-9b",
+      "provider": "qwen",
+      "model_id": "qwen/qwen3.5-9b",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "qwen-qwen3.5-flash-02-23",
+      "provider": "qwen",
+      "model_id": "qwen/qwen3.5-flash-02-23",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "qwen-qwen3.5-plus-02-15",
+      "provider": "qwen",
+      "model_id": "qwen/qwen3.5-plus-02-15",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "qwen-qwen3.5-plus-20260420",
+      "provider": "qwen",
+      "model_id": "qwen/qwen3.5-plus-20260420",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "qwen-qwen3.6-27b",
+      "provider": "qwen",
+      "model_id": "qwen/qwen3.6-27b",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "qwen-qwen3.6-35b-a3b",
+      "provider": "qwen",
+      "model_id": "qwen/qwen3.6-35b-a3b",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "qwen-qwen3.6-flash",
+      "provider": "qwen",
+      "model_id": "qwen/qwen3.6-flash",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "qwen-qwen3.6-max-preview",
+      "provider": "qwen",
+      "model_id": "qwen/qwen3.6-max-preview",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "qwen-qwen3.6-plus",
+      "provider": "qwen",
+      "model_id": "qwen/qwen3.6-plus",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "qwen-qwen3.7-flash",
+      "provider": "qwen",
+      "model_id": "qwen/qwen3.7-flash",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "qwen-qwen3.7-max",
+      "provider": "qwen",
+      "model_id": "qwen/qwen3.7-max",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "qwen-qwen3.7-plus",
+      "provider": "qwen",
+      "model_id": "qwen/qwen3.7-plus",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "qwen-qwen3.8-max",
+      "provider": "qwen",
+      "model_id": "qwen/qwen3.8-max",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "rekaai-reka-edge",
+      "provider": "rekaai",
+      "model_id": "rekaai/reka-edge",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "rekaai-reka-flash-3",
+      "provider": "rekaai",
+      "model_id": "rekaai/reka-flash-3",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "relace-relace-apply-3",
+      "provider": "relace",
+      "model_id": "relace/relace-apply-3",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "relace-relace-search",
+      "provider": "relace",
+      "model_id": "relace/relace-search",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "sakana-fugu-ultra",
+      "provider": "sakana",
+      "model_id": "sakana/fugu-ultra",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "sao10k-l3-lunaris-8b",
+      "provider": "sao10k",
+      "model_id": "sao10k/l3-lunaris-8b",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "sao10k-l3.1-euryale-70b",
+      "provider": "sao10k",
+      "model_id": "sao10k/l3.1-euryale-70b",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "sao10k-l3.3-euryale-70b",
+      "provider": "sao10k",
+      "model_id": "sao10k/l3.3-euryale-70b",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "stepfun-step-3.5-flash",
+      "provider": "stepfun",
+      "model_id": "stepfun/step-3.5-flash",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "stepfun-step-3.7-flash",
+      "provider": "stepfun",
+      "model_id": "stepfun/step-3.7-flash",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "tencent-hunyuan-a13b-instruct",
+      "provider": "tencent",
+      "model_id": "tencent/hunyuan-a13b-instruct",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "tencent-hy3",
+      "provider": "tencent",
+      "model_id": "tencent/hy3",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "tencent-hy3-preview",
+      "provider": "tencent",
+      "model_id": "tencent/hy3-preview",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "thedrummer-cydonia-24b-v4.1",
+      "provider": "thedrummer",
+      "model_id": "thedrummer/cydonia-24b-v4.1",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "thedrummer-rocinante-12b",
+      "provider": "thedrummer",
+      "model_id": "thedrummer/rocinante-12b",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "thedrummer-skyfall-36b-v2",
+      "provider": "thedrummer",
+      "model_id": "thedrummer/skyfall-36b-v2",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "thedrummer-unslopnemo-12b",
+      "provider": "thedrummer",
+      "model_id": "thedrummer/unslopnemo-12b",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "thinkingmachines-inkling",
+      "provider": "thinkingmachines",
+      "model_id": "thinkingmachines/inkling",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "thinkingmachines-inkling-batch",
+      "provider": "thinkingmachines",
+      "model_id": "thinkingmachines/inkling:batch",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "thinkingmachines-inkling-small",
+      "provider": "thinkingmachines",
+      "model_id": "thinkingmachines/inkling-small",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "undi95-remm-slerp-l2-13b",
+      "provider": "undi95",
+      "model_id": "undi95/remm-slerp-l2-13b",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "upstage-solar-pro-3",
+      "provider": "upstage",
+      "model_id": "upstage/solar-pro-3",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "writer-palmyra-x5",
+      "provider": "writer",
+      "model_id": "writer/palmyra-x5",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "x-ai-grok-3",
+      "provider": "x-ai",
+      "model_id": "grok-3",
+      "state": "retired",
+      "message": "retired 2026-05-15"
+    },
+    {
+      "slug": "x-ai-grok-4-0709",
+      "provider": "x-ai",
+      "model_id": "grok-4-0709",
+      "state": "retired",
+      "message": "retired 2026-05-15"
+    },
+    {
+      "slug": "x-ai-grok-4-1-fast-non-reasoning",
+      "provider": "x-ai",
+      "model_id": "grok-4-1-fast-non-reasoning",
+      "state": "retired",
+      "message": "retired 2026-05-15"
+    },
+    {
+      "slug": "x-ai-grok-4-1-fast-reasoning",
+      "provider": "x-ai",
+      "model_id": "grok-4-1-fast-reasoning",
+      "state": "retired",
+      "message": "retired 2026-05-15"
+    },
+    {
+      "slug": "x-ai-grok-4-fast-non-reasoning",
+      "provider": "x-ai",
+      "model_id": "grok-4-fast-non-reasoning",
+      "state": "retired",
+      "message": "retired 2026-05-15"
+    },
+    {
+      "slug": "x-ai-grok-4-fast-reasoning",
+      "provider": "x-ai",
+      "model_id": "grok-4-fast-reasoning",
+      "state": "retired",
+      "message": "retired 2026-05-15"
+    },
+    {
+      "slug": "x-ai-grok-4.20",
+      "provider": "x-ai",
+      "model_id": "x-ai/grok-4.20",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "x-ai-grok-4.20-multi-agent",
+      "provider": "x-ai",
+      "model_id": "x-ai/grok-4.20-multi-agent",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "x-ai-grok-4.3",
+      "provider": "x-ai",
+      "model_id": "x-ai/grok-4.3",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "x-ai-grok-4.5",
+      "provider": "x-ai",
+      "model_id": "x-ai/grok-4.5",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "x-ai-grok-build-0.1",
+      "provider": "x-ai",
+      "model_id": "x-ai/grok-build-0.1",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "x-ai-grok-code-fast-1",
+      "provider": "x-ai",
+      "model_id": "grok-code-fast-1",
+      "state": "retired",
+      "message": "retired 2026-05-15"
+    },
+    {
+      "slug": "x-ai-grok-imagine-image-pro",
+      "provider": "x-ai",
+      "model_id": "grok-imagine-image-pro",
+      "state": "retired",
+      "message": "retired 2026-05-15"
+    },
+    {
+      "slug": "x-ai-grok-latest",
+      "provider": "~x-ai",
+      "model_id": "~x-ai/grok-latest",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "xiaomi-mimo-v2.5",
+      "provider": "xiaomi",
+      "model_id": "xiaomi/mimo-v2.5",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "xiaomi-mimo-v2.5-pro",
+      "provider": "xiaomi",
+      "model_id": "xiaomi/mimo-v2.5-pro",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "z-ai-glm-4.5",
+      "provider": "z-ai",
+      "model_id": "z-ai/glm-4.5",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "z-ai-glm-4.5-air",
+      "provider": "z-ai",
+      "model_id": "z-ai/glm-4.5-air",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "z-ai-glm-4.5v",
+      "provider": "z-ai",
+      "model_id": "z-ai/glm-4.5v",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "z-ai-glm-4.6",
+      "provider": "z-ai",
+      "model_id": "z-ai/glm-4.6",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "z-ai-glm-4.6v",
+      "provider": "z-ai",
+      "model_id": "z-ai/glm-4.6v",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "z-ai-glm-4.7",
+      "provider": "z-ai",
+      "model_id": "z-ai/glm-4.7",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "z-ai-glm-4.7-flash",
+      "provider": "z-ai",
+      "model_id": "z-ai/glm-4.7-flash",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "z-ai-glm-5",
+      "provider": "z-ai",
+      "model_id": "z-ai/glm-5",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "z-ai-glm-5-turbo",
+      "provider": "z-ai",
+      "model_id": "z-ai/glm-5-turbo",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "z-ai-glm-5.1",
+      "provider": "z-ai",
+      "model_id": "z-ai/glm-5.1",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "z-ai-glm-5.2",
+      "provider": "z-ai",
+      "model_id": "z-ai/glm-5.2",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "z-ai-glm-5.2-batch",
+      "provider": "z-ai",
+      "model_id": "z-ai/glm-5.2:batch",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "z-ai-glm-5v-turbo",
+      "provider": "z-ai",
+      "model_id": "z-ai/glm-5v-turbo",
+      "state": "not_announced",
+      "message": "none announced"
+    }
+  ]
+}

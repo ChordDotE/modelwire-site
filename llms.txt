@@ -5,12 +5,13 @@
 ## Models with an announced end of life
 
 Source: the official deprecation pages of openai, anthropic, x-ai and cohere.
-169 lifecycle records are tracked; 61 have a retirement date still
+158 lifecycle records are tracked; 57 have a retirement date still
 in the future. A qualifier such as "not sooner than" means the provider has NOT committed to
 that date — it is reproduced as published and never converted into a firm date.
 
 - openai/gpt-5.2-chat-latest: end of life 2026-08-10 → replacement: gpt-5.6-sol
 - openai/gpt-5.3-chat-latest: end of life 2026-08-10 → replacement: gpt-5.6-sol
+- openai/Assistants API: end of life 2026-08-26 → replacement: Responses API and Conversations API
 - openai/Videos API: end of life 2026-09-24
 - openai/sora-2: end of life 2026-09-24
 - openai/sora-2-2025-10-06: end of life 2026-09-24
@@ -39,26 +40,15 @@ that date — it is reproduced as published and never converted into a firm date
 - openai/o1-pro-2025-03-19: end of life 2026-10-23 → replacement: o1-pro
 - openai/o3-mini-2025-01-31: end of life 2026-10-23 → replacement: o3-mini
 - openai/o4-mini-2025-04-16: end of life 2026-10-23 → replacement: o4-mini
-- openai/Existing evals become read-only.: end of life 2026-10-31
 - anthropic/claude-opus-4-5-20251101: end of life not sooner than 2026-11-24
-- openai/Agent Builder is scheduled to shut down.: end of life 2026-11-30
-- openai/The Evals dashboard and API are scheduled to shut down.: end of life 2026-11-30
-- openai/The v1/prompts API and reusable prompt objects are scheduled to shut down.: end of life 2026-11-30
 - openai/chatgpt-image-latest: end of life 2026-12-01 → replacement: gpt-image-2
 - openai/gpt-image-1-mini: end of life 2026-12-01 → replacement: gpt-image-2
 - openai/gpt-image-1.5: end of life 2026-12-01 → replacement: gpt-image-2
 - openai/gpt-5-2025-08-07: end of life 2026-12-11 → replacement: gpt-5.6-sol
 - openai/gpt-5-mini-2025-08-07: end of life 2026-12-11 → replacement: gpt-5.6-terra
-
-## Announced but with no confirmed date
-
-The provider put something in the date column that is not a calendar date. Shown verbatim; no date is inferred.
-
-- openai/Assistants API: end of life as published: "2026‑08‑26" → replacement: Responses API and Conversations API
-- openai/OpenAI-Beta: realtime=v1: end of life as published: "2026‑05‑12" → replacement: Realtime API
-- openai/Update: end of life as published: "Date"
-- openai/gpt-4-0125-preview (including gpt-4-turbo-preview and gpt-4-turbo-preview-completions, which point to this snapshot): end of life as published: "2026‑03‑26" → replacement: gpt-5 or gpt-4.1
-- openai/gpt-4-1106-preview: end of life as published: "2026‑03‑26" → replacement: gpt-5 or gpt-4.1
+- openai/gpt-5-nano-2025-08-07: end of life 2026-12-11 → replacement: gpt-5.6-luna
+- openai/gpt-5-pro-2025-10-06: end of life 2026-12-11 → replacement: gpt-5.6-sol (reasoning.mode: pro)
+- openai/o3-2025-04-16: end of life 2026-12-11 → replacement: gpt-5.6-sol
 
 ## Models that have already been retired
 
@@ -77,11 +67,11 @@ The provider put something in the date column that is not a calendar date. Shown
 - openai/gpt-4o-search-preview-2025-03-11: end of life 2026-07-23 → replacement: gpt-5.6-terra
 - openai/gpt-4o-mini-search-preview-2025-03-11: end of life 2026-07-23 → replacement: gpt-5.6-terra
 - openai/computer-use-preview-2025-03-11: end of life 2026-07-23 → replacement: computer-use-preview
-- openai/Creating fine-tuning jobs is no longer available to organizations that have not run inference on a fine-tuned model in the past 60 days.: end of life 2026-07-02
 - anthropic/claude-sonnet-4-20250514: end of life 2026-06-15
 - anthropic/claude-opus-4-20250514: end of life 2026-06-15
-- openai/Deprecation announced for the Evals platform.: end of life 2026-06-03
-- openai/Deprecation announced for Agent Builder.: end of life 2026-06-03
+- x-ai/grok-imagine-image-pro: end of life 2026-05-15 → replacement: grok-imagine-image-quality
+- x-ai/grok-code-fast-1: end of life 2026-05-15 → replacement: grok-build-0.1
+- x-ai/grok-4-fast-reasoning: end of life 2026-05-15 → replacement: grok-4.3 with low reasoning effort
 
 ## What this site can answer
 
@@ -93,10 +83,10 @@ The provider put something in the date column that is not a calendar date. Shown
 ## Facts
 
 - Tracking started: 2026-08-09
-- Days of coverage: 1
+- Days of coverage: 2
 - Models tracked: 400
-- Change events recorded: 13
-- End-of-life records tracked: 169
+- Change events recorded: 42
+- End-of-life records tracked: 158
 - Collection frequency: twice daily
 - Price and catalog source: OpenRouter public API (https://openrouter.ai/api/v1/models)
 - End-of-life source: provider deprecation pages (openai, anthropic, x-ai, cohere)

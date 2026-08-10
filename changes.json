@@ -1,6 +1,296 @@
 [
   {
     "kind": "PRICE_CHANGED",
+    "model_id": "meta-llama/llama-4-maverick",
+    "provider": "meta-llama",
+    "at": "2026-08-10T06:39:13+00:00",
+    "field": "出力単価",
+    "before": 0.8,
+    "after": 0.696,
+    "summary": "meta-llama/llama-4-maverick output price $0.8 → $0.696 (decrease -13.0%)"
+  },
+  {
+    "kind": "CONTEXT_CHANGED",
+    "model_id": "meta-llama/llama-4-maverick",
+    "provider": "meta-llama",
+    "at": "2026-08-10T06:39:13+00:00",
+    "field": "最大出力トークン",
+    "before": 16384,
+    "after": null,
+    "summary": "meta-llama/llama-4-maverick max output tokens 16384 → None"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "qwen/qwen3-14b",
+    "provider": "qwen",
+    "at": "2026-08-10T06:39:11+00:00",
+    "field": "入力単価",
+    "before": 0.2275,
+    "after": 0.12,
+    "summary": "qwen/qwen3-14b input price $0.2275 → $0.12 (decrease -47.3%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "qwen/qwen3-14b",
+    "provider": "qwen",
+    "at": "2026-08-10T06:39:11+00:00",
+    "field": "出力単価",
+    "before": 0.91,
+    "after": 0.24,
+    "summary": "qwen/qwen3-14b output price $0.91 → $0.24 (decrease -73.6%)"
+  },
+  {
+    "kind": "CONTEXT_CHANGED",
+    "model_id": "qwen/qwen3-14b",
+    "provider": "qwen",
+    "at": "2026-08-10T06:39:11+00:00",
+    "field": "最大出力トークン",
+    "before": 8192,
+    "after": 16384,
+    "summary": "qwen/qwen3-14b max output tokens 8192 → 16384"
+  },
+  {
+    "kind": "CONTEXT_CHANGED",
+    "model_id": "qwen/qwen3-next-80b-a3b-thinking",
+    "provider": "qwen",
+    "at": "2026-08-10T06:39:01+00:00",
+    "field": "最大出力トークン",
+    "before": 262144,
+    "after": 32768,
+    "summary": "qwen/qwen3-next-80b-a3b-thinking max output tokens 262144 → 32768"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "qwen/qwen3.5-397b-a17b",
+    "provider": "qwen",
+    "at": "2026-08-10T06:38:47+00:00",
+    "field": "キャッシュ読取単価",
+    "before": 0.3,
+    "after": null,
+    "summary": "qwen/qwen3.5-397b-a17b cache read price 0.3 → None"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "qwen/qwen3.5-397b-a17b",
+    "provider": "qwen",
+    "at": "2026-08-10T06:38:47+00:00",
+    "field": "入力単価",
+    "before": 0.5,
+    "after": 0.39,
+    "summary": "qwen/qwen3.5-397b-a17b input price $0.5 → $0.39 (decrease -22.0%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "qwen/qwen3.5-397b-a17b",
+    "provider": "qwen",
+    "at": "2026-08-10T06:38:47+00:00",
+    "field": "出力単価",
+    "before": 3.6,
+    "after": 2.34,
+    "summary": "qwen/qwen3.5-397b-a17b output price $3.6 → $2.34 (decrease -35.0%)"
+  },
+  {
+    "kind": "CONTEXT_CHANGED",
+    "model_id": "qwen/qwen3.5-397b-a17b",
+    "provider": "qwen",
+    "at": "2026-08-10T06:38:47+00:00",
+    "field": "最大出力トークン",
+    "before": 262144,
+    "after": 65536,
+    "summary": "qwen/qwen3.5-397b-a17b max output tokens 262144 → 65536"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "nvidia/nemotron-3-super-120b-a12b",
+    "provider": "nvidia",
+    "at": "2026-08-10T06:38:42+00:00",
+    "field": "入力単価",
+    "before": 0.3,
+    "after": 0.085,
+    "summary": "nvidia/nemotron-3-super-120b-a12b input price $0.3 → $0.085 (decrease -71.7%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "nvidia/nemotron-3-super-120b-a12b",
+    "provider": "nvidia",
+    "at": "2026-08-10T06:38:42+00:00",
+    "field": "出力単価",
+    "before": 0.9,
+    "after": 0.4,
+    "summary": "nvidia/nemotron-3-super-120b-a12b output price $0.9 → $0.4 (decrease -55.6%)"
+  },
+  {
+    "kind": "CONTEXT_CHANGED",
+    "model_id": "nvidia/nemotron-3-super-120b-a12b",
+    "provider": "nvidia",
+    "at": "2026-08-10T06:38:42+00:00",
+    "field": "最大出力トークン",
+    "before": null,
+    "after": 16384,
+    "summary": "nvidia/nemotron-3-super-120b-a12b max output tokens None → 16384"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "z-ai/glm-5.1",
+    "provider": "z-ai",
+    "at": "2026-08-10T06:38:39+00:00",
+    "field": "キャッシュ読取単価",
+    "before": 0.1768,
+    "after": 0.26,
+    "summary": "z-ai/glm-5.1 cache read price $0.1768 → $0.26 (increase +47.1%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "z-ai/glm-5.1",
+    "provider": "z-ai",
+    "at": "2026-08-10T06:38:39+00:00",
+    "field": "入力単価",
+    "before": 0.952,
+    "after": 1.4,
+    "summary": "z-ai/glm-5.1 input price $0.952 → $1.4 (increase +47.1%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "z-ai/glm-5.1",
+    "provider": "z-ai",
+    "at": "2026-08-10T06:38:39+00:00",
+    "field": "出力単価",
+    "before": 2.992,
+    "after": 4.4,
+    "summary": "z-ai/glm-5.1 output price $2.992 → $4.4 (increase +47.1%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "moonshotai/kimi-k2.6",
+    "provider": "moonshotai",
+    "at": "2026-08-10T06:38:38+00:00",
+    "field": "キャッシュ読取単価",
+    "before": 0.0976,
+    "after": 0.16,
+    "summary": "moonshotai/kimi-k2.6 cache read price $0.0976 → $0.16 (increase +63.9%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "moonshotai/kimi-k2.6",
+    "provider": "moonshotai",
+    "at": "2026-08-10T06:38:38+00:00",
+    "field": "入力単価",
+    "before": 0.5795,
+    "after": 0.95,
+    "summary": "moonshotai/kimi-k2.6 input price $0.5795 → $0.95 (increase +63.9%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "moonshotai/kimi-k2.6",
+    "provider": "moonshotai",
+    "at": "2026-08-10T06:38:38+00:00",
+    "field": "出力単価",
+    "before": 2.44,
+    "after": 4.0,
+    "summary": "moonshotai/kimi-k2.6 output price $2.44 → $4.0 (increase +63.9%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "z-ai/glm-5.2",
+    "provider": "z-ai",
+    "at": "2026-08-10T06:38:30+00:00",
+    "field": "キャッシュ読取単価",
+    "before": 0.013,
+    "after": 0.14,
+    "summary": "z-ai/glm-5.2 cache read price $0.013 → $0.14 (increase +976.9%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "z-ai/glm-5.2",
+    "provider": "z-ai",
+    "at": "2026-08-10T06:38:30+00:00",
+    "field": "入力単価",
+    "before": 0.07,
+    "after": 0.76,
+    "summary": "z-ai/glm-5.2 input price $0.07 → $0.76 (increase +985.7%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "z-ai/glm-5.2",
+    "provider": "z-ai",
+    "at": "2026-08-10T06:38:30+00:00",
+    "field": "出力単価",
+    "before": 0.22,
+    "after": 2.42,
+    "summary": "z-ai/glm-5.2 output price $0.22 → $2.42 (increase +1000.0%)"
+  },
+  {
+    "kind": "CONTEXT_CHANGED",
+    "model_id": "z-ai/glm-5.2",
+    "provider": "z-ai",
+    "at": "2026-08-10T06:38:30+00:00",
+    "field": "最大出力トークン",
+    "before": 128000,
+    "after": 262144,
+    "summary": "z-ai/glm-5.2 max output tokens 128000 → 262144"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "nvidia/nemotron-3-nano-30b-a3b",
+    "provider": "nvidia",
+    "at": "2026-08-10T00:02:47+00:00",
+    "field": "キャッシュ読取単価",
+    "before": 0.03,
+    "after": 0.025,
+    "summary": "nvidia/nemotron-3-nano-30b-a3b cache read price $0.03 → $0.025 (decrease -16.7%)"
+  },
+  {
+    "kind": "CONTEXT_CHANGED",
+    "model_id": "nvidia/nemotron-3-nano-30b-a3b",
+    "provider": "nvidia",
+    "at": "2026-08-10T00:02:47+00:00",
+    "field": "最大出力トークン",
+    "before": 262144,
+    "after": 228000,
+    "summary": "nvidia/nemotron-3-nano-30b-a3b max output tokens 262144 → 228000"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "google/gemma-4-26b-a4b-it",
+    "provider": "google",
+    "at": "2026-08-10T00:02:34+00:00",
+    "field": "キャッシュ読取単価",
+    "before": null,
+    "after": 0.05,
+    "summary": "google/gemma-4-26b-a4b-it cache read price None → 0.05"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "google/gemma-4-26b-a4b-it",
+    "provider": "google",
+    "at": "2026-08-10T00:02:34+00:00",
+    "field": "入力単価",
+    "before": 0.07,
+    "after": 0.12,
+    "summary": "google/gemma-4-26b-a4b-it input price $0.07 → $0.12 (increase +71.4%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "google/gemma-4-26b-a4b-it",
+    "provider": "google",
+    "at": "2026-08-10T00:02:34+00:00",
+    "field": "出力単価",
+    "before": 0.34,
+    "after": 0.4,
+    "summary": "google/gemma-4-26b-a4b-it output price $0.34 → $0.4 (increase +17.6%)"
+  },
+  {
+    "kind": "CONTEXT_CHANGED",
+    "model_id": "google/gemma-4-26b-a4b-it",
+    "provider": "google",
+    "at": "2026-08-10T00:02:34+00:00",
+    "field": "最大出力トークン",
+    "before": 16384,
+    "after": 262144,
+    "summary": "google/gemma-4-26b-a4b-it max output tokens 16384 → 262144"
+  },
+  {
+    "kind": "PRICE_CHANGED",
     "model_id": "gryphe/mythomax-l2-13b",
     "provider": "gryphe",
     "at": "2026-08-09T14:39:53+00:00",
