@@ -85,7 +85,7 @@ that date — it is reproduced as published and never converted into a firm date
 - Tracking started: 2026-08-09
 - Days of coverage: 2
 - Models tracked: 400
-- Change events recorded: 62
+- Change events recorded: 82
 - End-of-life records tracked: 158
 - Collection frequency: twice daily
 - Price and catalog source: OpenRouter public API (https://openrouter.ai/api/v1/models)

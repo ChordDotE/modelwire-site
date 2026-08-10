@@ -1,5 +1,205 @@
 [
   {
+    "kind": "MODEL_REMOVED",
+    "model_id": "openai/gpt-5.3-chat",
+    "provider": "openai",
+    "at": "2026-08-10T22:01:12+00:00",
+    "field": null,
+    "before": null,
+    "after": null,
+    "summary": "openai/gpt-5.3-chat disappeared from the catalog"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "meta-llama/llama-4-maverick",
+    "provider": "meta-llama",
+    "at": "2026-08-10T22:00:55+00:00",
+    "field": "出力単価",
+    "before": 0.696,
+    "after": 0.8,
+    "summary": "meta-llama/llama-4-maverick output price $0.696 → $0.8 (increase +14.9%)"
+  },
+  {
+    "kind": "CONTEXT_CHANGED",
+    "model_id": "meta-llama/llama-4-maverick",
+    "provider": "meta-llama",
+    "at": "2026-08-10T22:00:55+00:00",
+    "field": "最大出力トークン",
+    "before": null,
+    "after": 16384,
+    "summary": "meta-llama/llama-4-maverick max output tokens None → 16384"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "qwen/qwen3-coder-30b-a3b-instruct",
+    "provider": "qwen",
+    "at": "2026-08-10T22:00:47+00:00",
+    "field": "出力単価",
+    "before": 0.27,
+    "after": 0.28,
+    "summary": "qwen/qwen3-coder-30b-a3b-instruct output price $0.27 → $0.28 (increase +3.7%)"
+  },
+  {
+    "kind": "CONTEXT_CHANGED",
+    "model_id": "qwen/qwen3-coder-30b-a3b-instruct",
+    "provider": "qwen",
+    "at": "2026-08-10T22:00:47+00:00",
+    "field": "最大出力トークン",
+    "before": 32768,
+    "after": 262144,
+    "summary": "qwen/qwen3-coder-30b-a3b-instruct max output tokens 32768 → 262144"
+  },
+  {
+    "kind": "CONTEXT_CHANGED",
+    "model_id": "openai/gpt-5.2-chat",
+    "provider": "openai",
+    "at": "2026-08-10T22:00:34+00:00",
+    "field": "最大出力トークン",
+    "before": 16384,
+    "after": 32000,
+    "summary": "openai/gpt-5.2-chat max output tokens 16384 → 32000"
+  },
+  {
+    "kind": "STATUS_CHANGED",
+    "model_id": "openai/gpt-5.2-chat",
+    "provider": "openai",
+    "at": "2026-08-10T22:00:34+00:00",
+    "field": "提供状態",
+    "before": "moderated",
+    "after": "available",
+    "summary": "openai/gpt-5.2-chat status moderated → available"
+  },
+  {
+    "kind": "EOL_ANNOUNCED",
+    "model_id": "openai/gpt-5.2-chat",
+    "provider": "openai",
+    "at": "2026-08-10T22:00:34+00:00",
+    "field": "提供終了日",
+    "before": "2026-08-10",
+    "after": null,
+    "summary": "openai/gpt-5.2-chat — end-of-life notice withdrawn"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "~moonshotai/kimi-latest",
+    "provider": "~moonshotai",
+    "at": "2026-08-10T22:00:17+00:00",
+    "field": "入力単価",
+    "before": 2.5,
+    "after": 2.8,
+    "summary": "~moonshotai/kimi-latest input price $2.5 → $2.8 (increase +12.0%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "z-ai/glm-5.2",
+    "provider": "z-ai",
+    "at": "2026-08-10T22:00:12+00:00",
+    "field": "キャッシュ読取単価",
+    "before": 0.07228,
+    "after": 0.09334,
+    "summary": "z-ai/glm-5.2 cache read price $0.07228 → $0.09334 (increase +29.1%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "z-ai/glm-5.2",
+    "provider": "z-ai",
+    "at": "2026-08-10T22:00:12+00:00",
+    "field": "入力単価",
+    "before": 0.3892,
+    "after": 0.5026,
+    "summary": "z-ai/glm-5.2 input price $0.3892 → $0.5026 (increase +29.1%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "z-ai/glm-5.2",
+    "provider": "z-ai",
+    "at": "2026-08-10T22:00:12+00:00",
+    "field": "出力単価",
+    "before": 1.2232,
+    "after": 1.5796,
+    "summary": "z-ai/glm-5.2 output price $1.2232 → $1.5796 (increase +29.1%)"
+  },
+  {
+    "kind": "CONTEXT_CHANGED",
+    "model_id": "z-ai/glm-5.2",
+    "provider": "z-ai",
+    "at": "2026-08-10T22:00:12+00:00",
+    "field": "最大出力トークン",
+    "before": 128000,
+    "after": 131072,
+    "summary": "z-ai/glm-5.2 max output tokens 128000 → 131072"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "~deepseek/deepseek-v4-flash-latest",
+    "provider": "~deepseek",
+    "at": "2026-08-10T22:00:04+00:00",
+    "field": "キャッシュ読取単価",
+    "before": 0.018,
+    "after": 0.01596,
+    "summary": "~deepseek/deepseek-v4-flash-latest cache read price $0.018 → $0.01596 (decrease -11.3%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "~deepseek/deepseek-v4-flash-latest",
+    "provider": "~deepseek",
+    "at": "2026-08-10T22:00:04+00:00",
+    "field": "入力単価",
+    "before": 0.09,
+    "after": 0.0798,
+    "summary": "~deepseek/deepseek-v4-flash-latest input price $0.09 → $0.0798 (decrease -11.3%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "~deepseek/deepseek-v4-flash-latest",
+    "provider": "~deepseek",
+    "at": "2026-08-10T22:00:04+00:00",
+    "field": "出力単価",
+    "before": 0.18,
+    "after": 0.1596,
+    "summary": "~deepseek/deepseek-v4-flash-latest output price $0.18 → $0.1596 (decrease -11.3%)"
+  },
+  {
+    "kind": "CONTEXT_CHANGED",
+    "model_id": "~deepseek/deepseek-v4-flash-latest",
+    "provider": "~deepseek",
+    "at": "2026-08-10T22:00:04+00:00",
+    "field": "最大出力トークン",
+    "before": 65536,
+    "after": 131072,
+    "summary": "~deepseek/deepseek-v4-flash-latest max output tokens 65536 → 131072"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "deepseek/deepseek-v4-flash-0731",
+    "provider": "deepseek",
+    "at": "2026-08-10T22:00:04+00:00",
+    "field": "キャッシュ読取単価",
+    "before": 0.018,
+    "after": 0.016,
+    "summary": "deepseek/deepseek-v4-flash-0731 cache read price $0.018 → $0.016 (decrease -11.1%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "deepseek/deepseek-v4-flash-0731",
+    "provider": "deepseek",
+    "at": "2026-08-10T22:00:04+00:00",
+    "field": "入力単価",
+    "before": 0.09,
+    "after": 0.08,
+    "summary": "deepseek/deepseek-v4-flash-0731 input price $0.09 → $0.08 (decrease -11.1%)"
+  },
+  {
+    "kind": "CONTEXT_CHANGED",
+    "model_id": "deepseek/deepseek-v4-flash-0731",
+    "provider": "deepseek",
+    "at": "2026-08-10T22:00:04+00:00",
+    "field": "最大出力トークン",
+    "before": 65536,
+    "after": 384000,
+    "summary": "deepseek/deepseek-v4-flash-0731 max output tokens 65536 → 384000"
+  },
+  {
     "kind": "PRICE_CHANGED",
     "model_id": "z-ai/glm-5.1",
     "provider": "z-ai",
