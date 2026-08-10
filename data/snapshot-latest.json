@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T08:56:44+00:00",
+  "generated_at": "2026-08-10T09:12:55+00:00",
   "tracking_since": "2026-08-09T05:11:07+00:00",
   "coverage_days": 2,
   "source": "https://openrouter.ai/api/v1/models",
@@ -1508,14 +1508,14 @@
       "live": true
     },
     {
-      "obs_id": 407,
+      "obs_id": 813,
       "source": "openrouter",
       "provider": "deepseek",
       "model_id": "deepseek/deepseek-v4-flash-0731",
-      "observed_at": "2026-08-09T14:38:22+00:00",
-      "price_in": 0.09,
+      "observed_at": "2026-08-10T09:10:41+00:00",
+      "price_in": 0.08,
       "price_out": 0.18,
-      "price_cache_read": 0.018,
+      "price_cache_read": 0.016,
       "price_cache_write": null,
       "context_window": 1048576,
       "max_output": 384000,
@@ -1524,7 +1524,7 @@
       ],
       "status": "available",
       "source_url": "https://openrouter.ai/api/v1/models",
-      "content_hash": "040f5bea4abde23a5e20c83c574c7910d8761b1ecf9ac80a0e7be04aaa4df2ba",
+      "content_hash": "6e06303d3209662c82dccfbe054cc9e4c1353a13a882ce89d25abbe80a315915",
       "expiration_date": null,
       "knowledge_cutoff": null,
       "live": true
