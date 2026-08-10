@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T10:02:17+00:00",
+  "as_of": "2026-08-10T14:14:35+00:00",
   "source": "official deprecation pages of openai, anthropic, x-ai and cohere",
   "note": "date_confirmed=false means the provider has not committed to the date. The provider's own wording is kept in date_qualifier and is never converted into a firm date.",
   "disclaimer": "Unofficial. Not affiliated with any listed provider.",
@@ -326,6 +326,20 @@
       "source_url": "https://platform.openai.com/docs/deprecations",
       "observed_at": "2026-08-09T15:01:01+00:00",
       "badge_url": "https://chorddote.github.io/modelwire-site/badge/openai-gpt-4-0613.svg"
+    },
+    {
+      "provider": "openai",
+      "model_id": "gpt-4-1106-preview",
+      "state": "Deprecated",
+      "deprecated_at": null,
+      "retirement_at": "2026-10-23",
+      "date_qualifier": null,
+      "date_confirmed": true,
+      "days_left": 74,
+      "replacement": "gpt-5.6-sol",
+      "source_url": "https://platform.openai.com/docs/deprecations",
+      "observed_at": "2026-08-10T14:14:35+00:00",
+      "badge_url": "https://chorddote.github.io/modelwire-site/badge/openai-gpt-4-1106-preview.svg"
     },
     {
       "provider": "openai",
@@ -1295,7 +1309,7 @@
     },
     {
       "provider": "openai",
-      "model_id": "gpt-4-1106-preview",
+      "model_id": "gpt-4-0314",
       "state": "Deprecated",
       "deprecated_at": null,
       "retirement_at": "2026-03-26",
@@ -1304,8 +1318,8 @@
       "days_left": -137,
       "replacement": "gpt-5 or gpt-4.1",
       "source_url": "https://platform.openai.com/docs/deprecations",
-      "observed_at": "2026-08-10T10:02:11+00:00",
-      "badge_url": "https://chorddote.github.io/modelwire-site/badge/openai-gpt-4-1106-preview.svg"
+      "observed_at": "2026-08-10T14:14:35+00:00",
+      "badge_url": "https://chorddote.github.io/modelwire-site/badge/openai-gpt-4-0314.svg"
     },
     {
       "provider": "openai",
@@ -1673,20 +1687,6 @@
     },
     {
       "provider": "openai",
-      "model_id": "gpt-4-0314",
-      "state": "Deprecated",
-      "deprecated_at": null,
-      "retirement_at": "2024-06-13",
-      "date_qualifier": null,
-      "date_confirmed": true,
-      "days_left": -788,
-      "replacement": "gpt-4o",
-      "source_url": "https://platform.openai.com/docs/deprecations",
-      "observed_at": "2026-08-10T10:02:12+00:00",
-      "badge_url": "https://chorddote.github.io/modelwire-site/badge/openai-gpt-4-0314.svg"
-    },
-    {
-      "provider": "openai",
       "model_id": "text-similarity-davinci-001",
       "state": "Deprecated",
       "deprecated_at": null,
@@ -2051,6 +2051,20 @@
     },
     {
       "provider": "openai",
+      "model_id": "code-davinci-002",
+      "state": "Deprecated",
+      "deprecated_at": null,
+      "retirement_at": "2024-01-04",
+      "date_qualifier": null,
+      "date_confirmed": true,
+      "days_left": -949,
+      "replacement": "gpt-3.5-turbo-instruct",
+      "source_url": "https://platform.openai.com/docs/deprecations",
+      "observed_at": "2026-08-10T14:14:35+00:00",
+      "badge_url": "https://chorddote.github.io/modelwire-site/badge/openai-code-davinci-002.svg"
+    },
+    {
+      "provider": "openai",
       "model_id": "babbage",
       "state": "Deprecated",
       "deprecated_at": null,
@@ -2104,20 +2118,6 @@
       "source_url": "https://platform.openai.com/docs/deprecations",
       "observed_at": "2026-08-09T14:58:19+00:00",
       "badge_url": "https://chorddote.github.io/modelwire-site/badge/openai-v1-edits.svg"
-    },
-    {
-      "provider": "openai",
-      "model_id": "code-davinci-002",
-      "state": "Deprecated",
-      "deprecated_at": null,
-      "retirement_at": "2023-03-23",
-      "date_qualifier": null,
-      "date_confirmed": true,
-      "days_left": -1236,
-      "replacement": "gpt-4o",
-      "source_url": "https://platform.openai.com/docs/deprecations",
-      "observed_at": "2026-08-10T10:02:12+00:00",
-      "badge_url": "https://chorddote.github.io/modelwire-site/badge/openai-code-davinci-002.svg"
     },
     {
       "provider": "openai",

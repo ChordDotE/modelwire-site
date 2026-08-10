@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T10:02:18+00:00",
+  "as_of": "2026-08-10T14:14:35+00:00",
   "badge_url_template": "https://chorddote.github.io/modelwire-site/badge/{slug}.svg",
   "count": 544,
   "badges": [
@@ -1534,7 +1534,7 @@
       "provider": "openai",
       "model_id": "code-davinci-002",
       "state": "retired",
-      "message": "retired 2023-03-23"
+      "message": "retired 2024-01-04"
     },
     {
       "slug": "openai-code-davinci-edit-001",
@@ -1744,7 +1744,7 @@
       "provider": "openai",
       "model_id": "gpt-4-0314",
       "state": "retired",
-      "message": "retired 2024-06-13"
+      "message": "retired 2026-03-26"
     },
     {
       "slug": "openai-gpt-4-0613",
@@ -1757,8 +1757,8 @@
       "slug": "openai-gpt-4-1106-preview",
       "provider": "openai",
       "model_id": "gpt-4-1106-preview",
-      "state": "retired",
-      "message": "retired 2026-03-26"
+      "state": "upcoming",
+      "message": "74 days left (2026-10-23)"
     },
     {
       "slug": "openai-gpt-4-1106-vision-preview",

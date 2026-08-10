@@ -5,7 +5,7 @@
 ## Models with an announced end of life
 
 Source: the official deprecation pages of openai, anthropic, x-ai and cohere.
-158 lifecycle records are tracked; 57 have a retirement date still
+158 lifecycle records are tracked; 58 have a retirement date still
 in the future. A qualifier such as "not sooner than" means the provider has NOT committed to
 that date — it is reproduced as published and never converted into a firm date.
 
@@ -32,6 +32,7 @@ that date — it is reproduced as published and never converted into a firm date
 - openai/ft-o4-mini-2025-04-16: end of life 2026-10-23 → replacement: gpt-5.6-terra
 - openai/gpt-3.5-turbo-0125: end of life 2026-10-23 → replacement: gpt-3.5-turbo, gpt-3.5-turbo-completions
 - openai/gpt-4-0613: end of life 2026-10-23 → replacement: gpt-4, gpt-4-0613-completions, gpt-4-completions
+- openai/gpt-4-1106-preview: end of life 2026-10-23 → replacement: gpt-5.6-sol
 - openai/gpt-4-turbo: end of life 2026-10-23 → replacement: gpt-4-turbo-2024-04-09, gpt-4-turbo-completions
 - openai/gpt-4.1-nano: end of life 2026-10-23 → replacement: gpt-4.1-nano-2025-04-14
 - openai/gpt-4o-2024-05-13: end of life 2026-10-23 → replacement: gpt-5.6-sol
@@ -48,7 +49,6 @@ that date — it is reproduced as published and never converted into a firm date
 - openai/gpt-5-mini-2025-08-07: end of life 2026-12-11 → replacement: gpt-5.6-terra
 - openai/gpt-5-nano-2025-08-07: end of life 2026-12-11 → replacement: gpt-5.6-luna
 - openai/gpt-5-pro-2025-10-06: end of life 2026-12-11 → replacement: gpt-5.6-sol (reasoning.mode: pro)
-- openai/o3-2025-04-16: end of life 2026-12-11 → replacement: gpt-5.6-sol
 
 ## Models that have already been retired
 
@@ -85,7 +85,7 @@ that date — it is reproduced as published and never converted into a firm date
 - Tracking started: 2026-08-09
 - Days of coverage: 2
 - Models tracked: 400
-- Change events recorded: 44
+- Change events recorded: 62
 - End-of-life records tracked: 158
 - Collection frequency: twice daily
 - Price and catalog source: OpenRouter public API (https://openrouter.ai/api/v1/models)
