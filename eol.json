@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-10T22:00:55+00:00",
+  "as_of": "2026-08-11T10:00:58+00:00",
   "source": "official deprecation pages of openai, anthropic, x-ai and cohere",
   "note": "date_confirmed=false means the provider has not committed to the date. The provider's own wording is kept in date_qualifier and is never converted into a firm date.",
   "disclaimer": "Unofficial. Not affiliated with any listed provider.",
