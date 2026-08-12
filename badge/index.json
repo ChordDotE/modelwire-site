@@ -1,7 +1,7 @@
 {
-  "as_of": "2026-08-12T10:00:48+00:00",
+  "as_of": "2026-08-12T22:00:23+00:00",
   "badge_url_template": "https://chorddote.github.io/modelwire-site/badge/{slug}.svg",
-  "count": 551,
+  "count": 555,
   "badges": [
     {
       "slug": "ai21-jamba-large-1.7",
@@ -438,6 +438,13 @@
       "message": "none announced"
     },
     {
+      "slug": "bytedance-seed-seed-2-1-turbo",
+      "provider": "bytedance-seed",
+      "model_id": "bytedance-seed/seed-2-1-turbo",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
       "slug": "bytedance-seed-seed-2.0-code",
       "provider": "bytedance-seed",
       "model_id": "bytedance-seed/seed-2.0-code",
@@ -616,6 +623,13 @@
       "slug": "deepseek-deepseek-v4-pro",
       "provider": "deepseek",
       "model_id": "deepseek/deepseek-v4-pro",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "deepseek-deepseek-v4-pro-0813",
+      "provider": "deepseek",
+      "model_id": "deepseek/deepseek-v4-pro-0813",
       "state": "not_announced",
       "message": "none announced"
     },
@@ -3476,6 +3490,13 @@
       "message": "none announced"
     },
     {
+      "slug": "qwen-qwen3.8-2.4t-a95b",
+      "provider": "qwen",
+      "model_id": "qwen/qwen3.8-2.4t-a95b",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
       "slug": "qwen-qwen3.8-max",
       "provider": "qwen",
       "model_id": "qwen/qwen3.8-max",
@@ -3724,6 +3745,13 @@
       "slug": "x-ai-grok-4.5",
       "provider": "x-ai",
       "model_id": "x-ai/grok-4.5",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "x-ai-grok-4.6",
+      "provider": "x-ai",
+      "model_id": "x-ai/grok-4.6",
       "state": "not_announced",
       "message": "none announced"
     },

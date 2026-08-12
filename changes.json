@@ -1,6 +1,126 @@
 [
   {
     "kind": "PRICE_CHANGED",
+    "model_id": "z-ai/glm-5.1",
+    "provider": "z-ai",
+    "at": "2026-08-12T22:00:23+00:00",
+    "field": "キャッシュ読取単価",
+    "before": 0.26,
+    "after": 0.1768,
+    "summary": "z-ai/glm-5.1 cache read price $0.26 → $0.1768 (decrease -32.0%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "z-ai/glm-5.1",
+    "provider": "z-ai",
+    "at": "2026-08-12T22:00:23+00:00",
+    "field": "入力単価",
+    "before": 1.4,
+    "after": 0.952,
+    "summary": "z-ai/glm-5.1 input price $1.4 → $0.952 (decrease -32.0%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "z-ai/glm-5.1",
+    "provider": "z-ai",
+    "at": "2026-08-12T22:00:23+00:00",
+    "field": "出力単価",
+    "before": 4.4,
+    "after": 2.992,
+    "summary": "z-ai/glm-5.1 output price $4.4 → $2.992 (decrease -32.0%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "moonshotai/kimi-k2.6",
+    "provider": "moonshotai",
+    "at": "2026-08-12T22:00:23+00:00",
+    "field": "キャッシュ読取単価",
+    "before": 0.16,
+    "after": 0.0976,
+    "summary": "moonshotai/kimi-k2.6 cache read price $0.16 → $0.0976 (decrease -39.0%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "moonshotai/kimi-k2.6",
+    "provider": "moonshotai",
+    "at": "2026-08-12T22:00:23+00:00",
+    "field": "入力単価",
+    "before": 0.95,
+    "after": 0.5795,
+    "summary": "moonshotai/kimi-k2.6 input price $0.95 → $0.5795 (decrease -39.0%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "moonshotai/kimi-k2.6",
+    "provider": "moonshotai",
+    "at": "2026-08-12T22:00:23+00:00",
+    "field": "出力単価",
+    "before": 4.0,
+    "after": 2.44,
+    "summary": "moonshotai/kimi-k2.6 output price $4.0 → $2.44 (decrease -39.0%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "z-ai/glm-5.2",
+    "provider": "z-ai",
+    "at": "2026-08-12T22:00:14+00:00",
+    "field": "キャッシュ読取単価",
+    "before": 0.1,
+    "after": 0.091,
+    "summary": "z-ai/glm-5.2 cache read price $0.1 → $0.091 (decrease -9.0%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "z-ai/glm-5.2",
+    "provider": "z-ai",
+    "at": "2026-08-12T22:00:14+00:00",
+    "field": "入力単価",
+    "before": 0.5,
+    "after": 0.49,
+    "summary": "z-ai/glm-5.2 input price $0.5 → $0.49 (decrease -2.0%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "z-ai/glm-5.2",
+    "provider": "z-ai",
+    "at": "2026-08-12T22:00:14+00:00",
+    "field": "出力単価",
+    "before": 3.15,
+    "after": 1.54,
+    "summary": "z-ai/glm-5.2 output price $3.15 → $1.54 (decrease -51.1%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "moonshotai/kimi-k2.7-code",
+    "provider": "moonshotai",
+    "at": "2026-08-12T22:00:14+00:00",
+    "field": "入力単価",
+    "before": 0.7,
+    "after": 0.67,
+    "summary": "moonshotai/kimi-k2.7-code input price $0.7 → $0.67 (decrease -4.3%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "moonshotai/kimi-k2.7-code",
+    "provider": "moonshotai",
+    "at": "2026-08-12T22:00:14+00:00",
+    "field": "出力単価",
+    "before": 3.5,
+    "after": 3.4,
+    "summary": "moonshotai/kimi-k2.7-code output price $3.5 → $3.4 (decrease -2.9%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "~x-ai/grok-latest",
+    "provider": "~x-ai",
+    "at": "2026-08-12T22:00:11+00:00",
+    "field": "キャッシュ読取単価",
+    "before": 0.3,
+    "after": 0.5,
+    "summary": "~x-ai/grok-latest cache read price $0.3 → $0.5 (increase +66.7%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
     "model_id": "openai/gpt-oss-120b",
     "provider": "openai",
     "at": "2026-08-12T10:00:48+00:00",
