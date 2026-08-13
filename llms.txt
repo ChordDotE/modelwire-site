@@ -9,69 +9,69 @@ Source: the official deprecation pages of openai, anthropic, x-ai and cohere.
 in the future. A qualifier such as "not sooner than" means the provider has NOT committed to
 that date — it is reproduced as published and never converted into a firm date.
 
-- openai/Assistants API: end of life 2026-08-26 → replacement: Responses API and Conversations API
-- openai/Videos API: end of life 2026-09-24
-- openai/sora-2: end of life 2026-09-24
-- openai/sora-2-2025-10-06: end of life 2026-09-24
-- openai/sora-2-2025-12-08: end of life 2026-09-24
-- openai/sora-2-pro: end of life 2026-09-24
-- openai/sora-2-pro-2025-10-06: end of life 2026-09-24
-- openai/babbage-002: end of life 2026-09-28 → replacement: gpt-5.6-terra
-- openai/davinci-002: end of life 2026-09-28 → replacement: gpt-5.6-terra
-- openai/gpt-3.5-turbo-1106: end of life 2026-09-28 → replacement: gpt-5.6-terra
-- openai/gpt-3.5-turbo-instruct: end of life 2026-09-28 → replacement: gpt-5.6-terra
-- anthropic/claude-sonnet-4-5-20250929: end of life not sooner than 2026-09-29
-- anthropic/claude-haiku-4-5-20251001: end of life not sooner than 2026-10-15
-- openai/ft-babbage-002: end of life 2026-10-23 → replacement: gpt-5.6-terra
-- openai/ft-davinci-002: end of life 2026-10-23 → replacement: gpt-5.6-terra
-- openai/ft-gpt-3.5-turbo: end of life 2026-10-23 → replacement: gpt-5.6-terra
-- openai/ft-gpt-4: end of life 2026-10-23 → replacement: gpt-5.6-sol
-- openai/ft-gpt-4.1-nano-2025-04-14: end of life 2026-10-23 → replacement: gpt-5.6-luna
-- openai/ft-o4-mini-2025-04-16: end of life 2026-10-23 → replacement: gpt-5.6-terra
-- openai/gpt-3.5-turbo-0125: end of life 2026-10-23 → replacement: gpt-3.5-turbo, gpt-3.5-turbo-completions
-- openai/gpt-4-0613: end of life 2026-10-23 → replacement: gpt-4, gpt-4-0613-completions, gpt-4-completions
-- openai/gpt-4-1106-preview: end of life 2026-10-23 → replacement: gpt-5.6-sol
-- openai/gpt-4-turbo: end of life 2026-10-23 → replacement: gpt-4-turbo-2024-04-09, gpt-4-turbo-completions
-- openai/gpt-4.1-nano: end of life 2026-10-23 → replacement: gpt-4.1-nano-2025-04-14
-- openai/gpt-4o-2024-05-13: end of life 2026-10-23 → replacement: gpt-5.6-sol
-- openai/gpt-image-1: end of life 2026-10-23 → replacement: gpt-image-2
-- openai/o1-2024-12-17: end of life 2026-10-23 → replacement: o1
-- openai/o1-pro-2025-03-19: end of life 2026-10-23 → replacement: o1-pro
-- openai/o3-mini-2025-01-31: end of life 2026-10-23 → replacement: o3-mini
-- openai/o4-mini-2025-04-16: end of life 2026-10-23 → replacement: o4-mini
-- anthropic/claude-opus-4-5-20251101: end of life not sooner than 2026-11-24
-- openai/chatgpt-image-latest: end of life 2026-12-01 → replacement: gpt-image-2
-- openai/gpt-image-1-mini: end of life 2026-12-01 → replacement: gpt-image-2
-- openai/gpt-image-1.5: end of life 2026-12-01 → replacement: gpt-image-2
-- openai/gpt-5-2025-08-07: end of life 2026-12-11 → replacement: gpt-5.6-sol
-- openai/gpt-5-mini-2025-08-07: end of life 2026-12-11 → replacement: gpt-5.6-terra
-- openai/gpt-5-nano-2025-08-07: end of life 2026-12-11 → replacement: gpt-5.6-luna
-- openai/gpt-5-pro-2025-10-06: end of life 2026-12-11 → replacement: gpt-5.6-sol (reasoning.mode: pro)
-- openai/o3-2025-04-16: end of life 2026-12-11 → replacement: gpt-5.6-sol
-- openai/o3-pro-2025-06-10: end of life 2026-12-11 → replacement: gpt-5.6-sol (reasoning.mode: pro)
+- openai/Assistants API: end of life 2026-08-26 → replacement: Responses API and Conversations API [last confirmed on the provider's page 2026-08-13]
+- openai/Videos API: end of life 2026-09-24 [last confirmed on the provider's page 2026-08-13]
+- openai/sora-2: end of life 2026-09-24 [last confirmed on the provider's page 2026-08-13]
+- openai/sora-2-2025-10-06: end of life 2026-09-24 [last confirmed on the provider's page 2026-08-13]
+- openai/sora-2-2025-12-08: end of life 2026-09-24 [last confirmed on the provider's page 2026-08-13]
+- openai/sora-2-pro: end of life 2026-09-24 [last confirmed on the provider's page 2026-08-13]
+- openai/sora-2-pro-2025-10-06: end of life 2026-09-24 [last confirmed on the provider's page 2026-08-13]
+- openai/babbage-002: end of life 2026-09-28 → replacement: gpt-5.6-terra [last confirmed on the provider's page 2026-08-13]
+- openai/davinci-002: end of life 2026-09-28 → replacement: gpt-5.6-terra [last confirmed on the provider's page 2026-08-13]
+- openai/gpt-3.5-turbo-1106: end of life 2026-09-28 → replacement: gpt-5.6-terra [last confirmed on the provider's page 2026-08-13]
+- openai/gpt-3.5-turbo-instruct: end of life 2026-09-28 → replacement: gpt-5.6-terra [last confirmed on the provider's page 2026-08-13]
+- anthropic/claude-sonnet-4-5-20250929: end of life not sooner than 2026-09-29 [last confirmed on the provider's page 2026-08-13]
+- anthropic/claude-haiku-4-5-20251001: end of life not sooner than 2026-10-15 [last confirmed on the provider's page 2026-08-13]
+- openai/ft-babbage-002: end of life 2026-10-23 → replacement: gpt-5.6-terra [last confirmed on the provider's page 2026-08-13]
+- openai/ft-davinci-002: end of life 2026-10-23 → replacement: gpt-5.6-terra [last confirmed on the provider's page 2026-08-13]
+- openai/ft-gpt-3.5-turbo: end of life 2026-10-23 → replacement: gpt-5.6-terra [last confirmed on the provider's page 2026-08-13]
+- openai/ft-gpt-4: end of life 2026-10-23 → replacement: gpt-5.6-sol [last confirmed on the provider's page 2026-08-13]
+- openai/ft-gpt-4.1-nano-2025-04-14: end of life 2026-10-23 → replacement: gpt-5.6-luna [last confirmed on the provider's page 2026-08-13]
+- openai/ft-o4-mini-2025-04-16: end of life 2026-10-23 → replacement: gpt-5.6-terra [last confirmed on the provider's page 2026-08-13]
+- openai/gpt-3.5-turbo-0125: end of life 2026-10-23 → replacement: gpt-3.5-turbo, gpt-3.5-turbo-completions [last confirmed on the provider's page 2026-08-13]
+- openai/gpt-4-0613: end of life 2026-10-23 → replacement: gpt-4, gpt-4-0613-completions, gpt-4-completions [last confirmed on the provider's page 2026-08-13]
+- openai/gpt-4-1106-preview: end of life 2026-10-23 → replacement: gpt-5.6-sol [last confirmed on the provider's page 2026-08-13]
+- openai/gpt-4-turbo: end of life 2026-10-23 → replacement: gpt-4-turbo-2024-04-09, gpt-4-turbo-completions [last confirmed on the provider's page 2026-08-13]
+- openai/gpt-4.1-nano: end of life 2026-10-23 → replacement: gpt-4.1-nano-2025-04-14 [last confirmed on the provider's page 2026-08-13]
+- openai/gpt-4o-2024-05-13: end of life 2026-10-23 → replacement: gpt-5.6-sol [last confirmed on the provider's page 2026-08-13]
+- openai/gpt-image-1: end of life 2026-10-23 → replacement: gpt-image-2 [last confirmed on the provider's page 2026-08-13]
+- openai/o1-2024-12-17: end of life 2026-10-23 → replacement: o1 [last confirmed on the provider's page 2026-08-13]
+- openai/o1-pro-2025-03-19: end of life 2026-10-23 → replacement: o1-pro [last confirmed on the provider's page 2026-08-13]
+- openai/o3-mini-2025-01-31: end of life 2026-10-23 → replacement: o3-mini [last confirmed on the provider's page 2026-08-13]
+- openai/o4-mini-2025-04-16: end of life 2026-10-23 → replacement: o4-mini [last confirmed on the provider's page 2026-08-13]
+- anthropic/claude-opus-4-5-20251101: end of life not sooner than 2026-11-24 [last confirmed on the provider's page 2026-08-13]
+- openai/chatgpt-image-latest: end of life 2026-12-01 → replacement: gpt-image-2 [last confirmed on the provider's page 2026-08-13]
+- openai/gpt-image-1-mini: end of life 2026-12-01 → replacement: gpt-image-2 [last confirmed on the provider's page 2026-08-13]
+- openai/gpt-image-1.5: end of life 2026-12-01 → replacement: gpt-image-2 [last confirmed on the provider's page 2026-08-13]
+- openai/gpt-5-2025-08-07: end of life 2026-12-11 → replacement: gpt-5.6-sol [last confirmed on the provider's page 2026-08-13]
+- openai/gpt-5-mini-2025-08-07: end of life 2026-12-11 → replacement: gpt-5.6-terra [last confirmed on the provider's page 2026-08-13]
+- openai/gpt-5-nano-2025-08-07: end of life 2026-12-11 → replacement: gpt-5.6-luna [last confirmed on the provider's page 2026-08-13]
+- openai/gpt-5-pro-2025-10-06: end of life 2026-12-11 → replacement: gpt-5.6-sol (reasoning.mode: pro) [last confirmed on the provider's page 2026-08-13]
+- openai/o3-2025-04-16: end of life 2026-12-11 → replacement: gpt-5.6-sol [last confirmed on the provider's page 2026-08-13]
+- openai/o3-pro-2025-06-10: end of life 2026-12-11 → replacement: gpt-5.6-sol (reasoning.mode: pro) [last confirmed on the provider's page 2026-08-13]
 
 ## Models that have already been retired
 
-- openai/gpt-5.3-chat-latest: end of life 2026-08-10 → replacement: gpt-5.6-sol
-- openai/gpt-5.2-chat-latest: end of life 2026-08-10 → replacement: gpt-5.6-sol
-- anthropic/claude-opus-4-1-20250805: end of life 2026-08-05
-- openai/o4-mini-deep-research-2025-06-26: end of life 2026-07-23 → replacement: o4-mini-deep-research
-- openai/o3-deep-research-2025-06-26: end of life 2026-07-23 → replacement: o3-deep-research
-- openai/gpt-realtime-mini-2025-10-06: end of life 2026-07-23 → replacement: gpt-realtime-2.1-mini
-- openai/gpt-audio-mini-2025-10-06: end of life 2026-07-23 → replacement: gpt-audio-1.5
-- openai/gpt-5.2-codex: end of life 2026-07-23 → replacement: gpt-5.6-sol
-- openai/gpt-5.1-codex-mini: end of life 2026-07-23 → replacement: gpt-5.6-terra
-- openai/gpt-5.1-codex-max: end of life 2026-07-23 → replacement: gpt-5.6-sol
-- openai/gpt-5.1-codex: end of life 2026-07-23 → replacement: gpt-5.6-sol
-- openai/gpt-5.1-chat-latest: end of life 2026-07-23 → replacement: gpt-5.6-sol
-- openai/gpt-5-codex: end of life 2026-07-23 → replacement: gpt-5.6-sol
-- openai/gpt-5-chat-latest: end of life 2026-07-23 → replacement: gpt-5.6-sol
-- openai/gpt-4o-search-preview-2025-03-11: end of life 2026-07-23 → replacement: gpt-5.6-terra
-- openai/gpt-4o-mini-search-preview-2025-03-11: end of life 2026-07-23 → replacement: gpt-5.6-terra
-- openai/computer-use-preview-2025-03-11: end of life 2026-07-23 → replacement: computer-use-preview
-- anthropic/claude-sonnet-4-20250514: end of life 2026-06-15
-- anthropic/claude-opus-4-20250514: end of life 2026-06-15
-- x-ai/grok-imagine-image-pro: end of life 2026-05-15 → replacement: grok-imagine-image-quality
+- openai/gpt-5.3-chat-latest: end of life 2026-08-10 → replacement: gpt-5.6-sol [last confirmed on the provider's page 2026-08-13]
+- openai/gpt-5.2-chat-latest: end of life 2026-08-10 → replacement: gpt-5.6-sol [last confirmed on the provider's page 2026-08-13]
+- anthropic/claude-opus-4-1-20250805: end of life 2026-08-05 [last confirmed on the provider's page 2026-08-13]
+- openai/o4-mini-deep-research-2025-06-26: end of life 2026-07-23 → replacement: o4-mini-deep-research [last confirmed on the provider's page 2026-08-13]
+- openai/o3-deep-research-2025-06-26: end of life 2026-07-23 → replacement: o3-deep-research [last confirmed on the provider's page 2026-08-13]
+- openai/gpt-realtime-mini-2025-10-06: end of life 2026-07-23 → replacement: gpt-realtime-2.1-mini [last confirmed on the provider's page 2026-08-13]
+- openai/gpt-audio-mini-2025-10-06: end of life 2026-07-23 → replacement: gpt-audio-1.5 [last confirmed on the provider's page 2026-08-13]
+- openai/gpt-5.2-codex: end of life 2026-07-23 → replacement: gpt-5.6-sol [last confirmed on the provider's page 2026-08-13]
+- openai/gpt-5.1-codex-mini: end of life 2026-07-23 → replacement: gpt-5.6-terra [last confirmed on the provider's page 2026-08-13]
+- openai/gpt-5.1-codex-max: end of life 2026-07-23 → replacement: gpt-5.6-sol [last confirmed on the provider's page 2026-08-13]
+- openai/gpt-5.1-codex: end of life 2026-07-23 → replacement: gpt-5.6-sol [last confirmed on the provider's page 2026-08-13]
+- openai/gpt-5.1-chat-latest: end of life 2026-07-23 → replacement: gpt-5.6-sol [last confirmed on the provider's page 2026-08-13]
+- openai/gpt-5-codex: end of life 2026-07-23 → replacement: gpt-5.6-sol [last confirmed on the provider's page 2026-08-13]
+- openai/gpt-5-chat-latest: end of life 2026-07-23 → replacement: gpt-5.6-sol [last confirmed on the provider's page 2026-08-13]
+- openai/gpt-4o-search-preview-2025-03-11: end of life 2026-07-23 → replacement: gpt-5.6-terra [last confirmed on the provider's page 2026-08-13]
+- openai/gpt-4o-mini-search-preview-2025-03-11: end of life 2026-07-23 → replacement: gpt-5.6-terra [last confirmed on the provider's page 2026-08-13]
+- openai/computer-use-preview-2025-03-11: end of life 2026-07-23 → replacement: computer-use-preview [last confirmed on the provider's page 2026-08-13]
+- anthropic/claude-sonnet-4-20250514: end of life 2026-06-15 [last confirmed on the provider's page 2026-08-13]
+- anthropic/claude-opus-4-20250514: end of life 2026-06-15 [last confirmed on the provider's page 2026-08-13]
+- x-ai/grok-imagine-image-pro: end of life 2026-05-15 → replacement: grok-imagine-image-quality [last confirmed on the provider's page 2026-08-13]
 
 ## What this site can answer
 
@@ -83,9 +83,9 @@ that date — it is reproduced as published and never converted into a firm date
 ## Facts
 
 - Tracking started: 2026-08-09
-- Days of coverage: 4
-- Models tracked: 410
-- Change events recorded: 174
+- Days of coverage: 5
+- Models tracked: 409
+- Change events recorded: 201
 - End-of-life records tracked: 158
 - Collection frequency: twice daily
 - Price and catalog source: OpenRouter public API (https://openrouter.ai/api/v1/models)
