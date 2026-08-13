@@ -1,5 +1,395 @@
 [
   {
+    "kind": "CONTEXT_CHANGED",
+    "model_id": "deepseek/deepseek-r1",
+    "provider": "deepseek",
+    "at": "2026-08-13T22:00:52+00:00",
+    "field": "context窓",
+    "before": 163840,
+    "after": 64000,
+    "summary": "deepseek/deepseek-r1 context window 163840 → 64000"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "moonshotai/kimi-k2.6",
+    "provider": "moonshotai",
+    "at": "2026-08-13T22:00:20+00:00",
+    "field": "キャッシュ読取単価",
+    "before": 0.1088,
+    "after": 0.0944,
+    "summary": "moonshotai/kimi-k2.6 cache read price $0.1088 → $0.0944 (decrease -13.2%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "moonshotai/kimi-k2.6",
+    "provider": "moonshotai",
+    "at": "2026-08-13T22:00:20+00:00",
+    "field": "入力単価",
+    "before": 0.646,
+    "after": 0.5605,
+    "summary": "moonshotai/kimi-k2.6 input price $0.646 → $0.5605 (decrease -13.2%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "moonshotai/kimi-k2.6",
+    "provider": "moonshotai",
+    "at": "2026-08-13T22:00:20+00:00",
+    "field": "出力単価",
+    "before": 2.72,
+    "after": 2.36,
+    "summary": "moonshotai/kimi-k2.6 output price $2.72 → $2.36 (decrease -13.2%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "~moonshotai/kimi-latest",
+    "provider": "~moonshotai",
+    "at": "2026-08-13T22:00:16+00:00",
+    "field": "キャッシュ読取単価",
+    "before": 0.29,
+    "after": 0.24,
+    "summary": "~moonshotai/kimi-latest cache read price $0.29 → $0.24 (decrease -17.2%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "~moonshotai/kimi-latest",
+    "provider": "~moonshotai",
+    "at": "2026-08-13T22:00:16+00:00",
+    "field": "入力単価",
+    "before": 2.8,
+    "after": 2.4,
+    "summary": "~moonshotai/kimi-latest input price $2.8 → $2.4 (decrease -14.3%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "~moonshotai/kimi-latest",
+    "provider": "~moonshotai",
+    "at": "2026-08-13T22:00:16+00:00",
+    "field": "出力単価",
+    "before": 14.0,
+    "after": 12.0,
+    "summary": "~moonshotai/kimi-latest output price $14.0 → $12.0 (decrease -14.3%)"
+  },
+  {
+    "kind": "CONTEXT_CHANGED",
+    "model_id": "~moonshotai/kimi-latest",
+    "provider": "~moonshotai",
+    "at": "2026-08-13T22:00:16+00:00",
+    "field": "最大出力トークン",
+    "before": 1048576,
+    "after": 974842,
+    "summary": "~moonshotai/kimi-latest max output tokens 1048576 → 974842"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "~google/gemini-flash-latest",
+    "provider": "~google",
+    "at": "2026-08-13T22:00:16+00:00",
+    "field": "キャッシュ読取単価",
+    "before": 0.15,
+    "after": 0.0375,
+    "summary": "~google/gemini-flash-latest cache read price $0.15 → $0.0375 (decrease -75.0%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "~google/gemini-flash-latest",
+    "provider": "~google",
+    "at": "2026-08-13T22:00:16+00:00",
+    "field": "キャッシュ書込単価",
+    "before": 0.083333,
+    "after": 0.020833,
+    "summary": "~google/gemini-flash-latest cache write price $0.083333 → $0.020833 (decrease -75.0%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "~google/gemini-flash-latest",
+    "provider": "~google",
+    "at": "2026-08-13T22:00:16+00:00",
+    "field": "入力単価",
+    "before": 1.5,
+    "after": 0.375,
+    "summary": "~google/gemini-flash-latest input price $1.5 → $0.375 (decrease -75.0%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "~google/gemini-flash-latest",
+    "provider": "~google",
+    "at": "2026-08-13T22:00:16+00:00",
+    "field": "出力単価",
+    "before": 7.5,
+    "after": 1.875,
+    "summary": "~google/gemini-flash-latest output price $7.5 → $1.875 (decrease -75.0%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "z-ai/glm-5.2",
+    "provider": "z-ai",
+    "at": "2026-08-13T22:00:12+00:00",
+    "field": "キャッシュ読取単価",
+    "before": 0.0945,
+    "after": 0.0728,
+    "summary": "z-ai/glm-5.2 cache read price $0.0945 → $0.0728 (decrease -23.0%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "z-ai/glm-5.2",
+    "provider": "z-ai",
+    "at": "2026-08-13T22:00:12+00:00",
+    "field": "入力単価",
+    "before": 0.63,
+    "after": 0.392,
+    "summary": "z-ai/glm-5.2 input price $0.63 → $0.392 (decrease -37.8%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "z-ai/glm-5.2",
+    "provider": "z-ai",
+    "at": "2026-08-13T22:00:12+00:00",
+    "field": "出力単価",
+    "before": 1.98,
+    "after": 1.232,
+    "summary": "z-ai/glm-5.2 output price $1.98 → $1.232 (decrease -37.8%)"
+  },
+  {
+    "kind": "CONTEXT_CHANGED",
+    "model_id": "z-ai/glm-5.2",
+    "provider": "z-ai",
+    "at": "2026-08-13T22:00:12+00:00",
+    "field": "最大出力トークン",
+    "before": null,
+    "after": 131072,
+    "summary": "z-ai/glm-5.2 max output tokens None → 131072"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "google/gemini-3.6-flash:batch",
+    "provider": "google",
+    "at": "2026-08-13T22:00:07+00:00",
+    "field": "キャッシュ読取単価",
+    "before": 0.075,
+    "after": 0.0375,
+    "summary": "google/gemini-3.6-flash:batch cache read price $0.075 → $0.0375 (decrease -50.0%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "google/gemini-3.6-flash:batch",
+    "provider": "google",
+    "at": "2026-08-13T22:00:07+00:00",
+    "field": "キャッシュ書込単価",
+    "before": 0.083333,
+    "after": 0.041667,
+    "summary": "google/gemini-3.6-flash:batch cache write price $0.083333 → $0.041667 (decrease -50.0%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "google/gemini-3.6-flash:batch",
+    "provider": "google",
+    "at": "2026-08-13T22:00:07+00:00",
+    "field": "入力単価",
+    "before": 0.75,
+    "after": 0.375,
+    "summary": "google/gemini-3.6-flash:batch input price $0.75 → $0.375 (decrease -50.0%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "google/gemini-3.6-flash:batch",
+    "provider": "google",
+    "at": "2026-08-13T22:00:07+00:00",
+    "field": "出力単価",
+    "before": 3.75,
+    "after": 1.875,
+    "summary": "google/gemini-3.6-flash:batch output price $3.75 → $1.875 (decrease -50.0%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "google/gemini-3.6-flash",
+    "provider": "google",
+    "at": "2026-08-13T22:00:07+00:00",
+    "field": "キャッシュ読取単価",
+    "before": 0.15,
+    "after": 0.075,
+    "summary": "google/gemini-3.6-flash cache read price $0.15 → $0.075 (decrease -50.0%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "google/gemini-3.6-flash",
+    "provider": "google",
+    "at": "2026-08-13T22:00:07+00:00",
+    "field": "キャッシュ書込単価",
+    "before": 0.083333,
+    "after": 0.041667,
+    "summary": "google/gemini-3.6-flash cache write price $0.083333 → $0.041667 (decrease -50.0%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "google/gemini-3.6-flash",
+    "provider": "google",
+    "at": "2026-08-13T22:00:07+00:00",
+    "field": "入力単価",
+    "before": 1.5,
+    "after": 0.75,
+    "summary": "google/gemini-3.6-flash input price $1.5 → $0.75 (decrease -50.0%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "google/gemini-3.6-flash",
+    "provider": "google",
+    "at": "2026-08-13T22:00:07+00:00",
+    "field": "出力単価",
+    "before": 7.5,
+    "after": 3.75,
+    "summary": "google/gemini-3.6-flash output price $7.5 → $3.75 (decrease -50.0%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "~deepseek/deepseek-v4-flash-latest",
+    "provider": "~deepseek",
+    "at": "2026-08-13T22:00:05+00:00",
+    "field": "キャッシュ読取単価",
+    "before": 0.0252,
+    "after": 0.016,
+    "summary": "~deepseek/deepseek-v4-flash-latest cache read price $0.0252 → $0.016 (decrease -36.5%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "~deepseek/deepseek-v4-flash-latest",
+    "provider": "~deepseek",
+    "at": "2026-08-13T22:00:05+00:00",
+    "field": "入力単価",
+    "before": 0.079996,
+    "after": 0.072,
+    "summary": "~deepseek/deepseek-v4-flash-latest input price $0.079996 → $0.072 (decrease -10.0%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "~deepseek/deepseek-v4-flash-latest",
+    "provider": "~deepseek",
+    "at": "2026-08-13T22:00:05+00:00",
+    "field": "出力単価",
+    "before": 0.252,
+    "after": 0.144,
+    "summary": "~deepseek/deepseek-v4-flash-latest output price $0.252 → $0.144 (decrease -42.9%)"
+  },
+  {
+    "kind": "CONTEXT_CHANGED",
+    "model_id": "~deepseek/deepseek-v4-flash-latest",
+    "provider": "~deepseek",
+    "at": "2026-08-13T22:00:05+00:00",
+    "field": "最大出力トークン",
+    "before": null,
+    "after": 262144,
+    "summary": "~deepseek/deepseek-v4-flash-latest max output tokens None → 262144"
+  },
+  {
+    "kind": "CONTEXT_CHANGED",
+    "model_id": "nvidia/nemotron-3.5-lightning",
+    "provider": "nvidia",
+    "at": "2026-08-13T22:00:04+00:00",
+    "field": "context窓",
+    "before": 1048576,
+    "after": 1000000,
+    "summary": "nvidia/nemotron-3.5-lightning context window 1048576 → 1000000"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "z-ai/glm-5.1",
+    "provider": "z-ai",
+    "at": "2026-08-13T14:08:42+00:00",
+    "field": "キャッシュ読取単価",
+    "before": 0.26,
+    "after": 0.1768,
+    "summary": "z-ai/glm-5.1 cache read price $0.26 → $0.1768 (decrease -32.0%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "z-ai/glm-5.1",
+    "provider": "z-ai",
+    "at": "2026-08-13T14:08:42+00:00",
+    "field": "入力単価",
+    "before": 1.4,
+    "after": 0.952,
+    "summary": "z-ai/glm-5.1 input price $1.4 → $0.952 (decrease -32.0%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "z-ai/glm-5.1",
+    "provider": "z-ai",
+    "at": "2026-08-13T14:08:42+00:00",
+    "field": "出力単価",
+    "before": 4.4,
+    "after": 2.992,
+    "summary": "z-ai/glm-5.1 output price $4.4 → $2.992 (decrease -32.0%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "moonshotai/kimi-k2.6",
+    "provider": "moonshotai",
+    "at": "2026-08-13T14:08:41+00:00",
+    "field": "キャッシュ読取単価",
+    "before": 0.16,
+    "after": 0.1088,
+    "summary": "moonshotai/kimi-k2.6 cache read price $0.16 → $0.1088 (decrease -32.0%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "moonshotai/kimi-k2.6",
+    "provider": "moonshotai",
+    "at": "2026-08-13T14:08:41+00:00",
+    "field": "入力単価",
+    "before": 0.95,
+    "after": 0.646,
+    "summary": "moonshotai/kimi-k2.6 input price $0.95 → $0.646 (decrease -32.0%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "moonshotai/kimi-k2.6",
+    "provider": "moonshotai",
+    "at": "2026-08-13T14:08:41+00:00",
+    "field": "出力単価",
+    "before": 4.0,
+    "after": 2.72,
+    "summary": "moonshotai/kimi-k2.6 output price $4.0 → $2.72 (decrease -32.0%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "z-ai/glm-5.2",
+    "provider": "z-ai",
+    "at": "2026-08-13T14:08:32+00:00",
+    "field": "キャッシュ読取単価",
+    "before": 0.1,
+    "after": 0.0945,
+    "summary": "z-ai/glm-5.2 cache read price $0.1 → $0.0945 (decrease -5.5%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "z-ai/glm-5.2",
+    "provider": "z-ai",
+    "at": "2026-08-13T14:08:32+00:00",
+    "field": "入力単価",
+    "before": 0.5,
+    "after": 0.63,
+    "summary": "z-ai/glm-5.2 input price $0.5 → $0.63 (increase +26.0%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "z-ai/glm-5.2",
+    "provider": "z-ai",
+    "at": "2026-08-13T14:08:32+00:00",
+    "field": "出力単価",
+    "before": 3.15,
+    "after": 1.98,
+    "summary": "z-ai/glm-5.2 output price $3.15 → $1.98 (decrease -37.1%)"
+  },
+  {
+    "kind": "CONTEXT_CHANGED",
+    "model_id": "z-ai/glm-5.2",
+    "provider": "z-ai",
+    "at": "2026-08-13T14:08:32+00:00",
+    "field": "最大出力トークン",
+    "before": 131072,
+    "after": null,
+    "summary": "z-ai/glm-5.2 max output tokens 131072 → None"
+  },
+  {
     "kind": "MODEL_REMOVED",
     "model_id": "inclusionai/ling-3.0-tiny:free",
     "provider": "inclusionai",

@@ -1,7 +1,7 @@
 {
-  "as_of": "2026-08-13T13:30:17+00:00",
+  "as_of": "2026-08-13T22:00:52+00:00",
   "badge_url_template": "https://chorddote.github.io/modelwire-site/badge/{slug}.svg",
-  "count": 555,
+  "count": 557,
   "badges": [
     {
       "slug": "ai21-jamba-large-1.7",
@@ -826,6 +826,20 @@
       "slug": "google-gemini-3.6-flash-batch",
       "provider": "google",
       "model_id": "google/gemini-3.6-flash:batch",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "google-gemini-3.7-flash",
+      "provider": "google",
+      "model_id": "google/gemini-3.7-flash",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "google-gemini-3.7-flash-batch",
+      "provider": "google",
+      "model_id": "google/gemini-3.7-flash:batch",
       "state": "not_announced",
       "message": "none announced"
     },
