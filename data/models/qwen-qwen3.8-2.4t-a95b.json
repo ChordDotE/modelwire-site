@@ -1,0 +1,29 @@
+{
+  "model_id": "qwen/qwen3.8-2.4t-a95b",
+  "provider": "qwen",
+  "in_current_catalog": true,
+  "record_type": "catalog",
+  "price_input_usd_per_1m_tokens": 2.0,
+  "price_output_usd_per_1m_tokens": 6.0,
+  "context_window": 1048576,
+  "max_output": 262144,
+  "modalities": [
+    "text"
+  ],
+  "status": "available",
+  "retirement_date": null,
+  "retirement_date_qualifier": null,
+  "retirement_announced_without_date": false,
+  "retirement_date_is_committed": false,
+  "replacement_as_published": null,
+  "replacement_page": null,
+  "observations_recorded": 4,
+  "first_recorded": "2026-08-12",
+  "last_changed": "2026-08-14",
+  "page": "https://chorddote.github.io/modelwire-site/models/qwen-qwen3.8-2.4t-a95b.html",
+  "page_ja": "https://chorddote.github.io/modelwire-site/ja/models/qwen-qwen3.8-2.4t-a95b.html",
+  "provider_page": "https://chorddote.github.io/modelwire-site/providers/qwen.html",
+  "primary_source": "https://openrouter.ai/api/v1/models",
+  "price_unit": "USD per 1,000,000 tokens",
+  "disclaimer": "Unofficial. Not affiliated with any listed provider. The absence of a retirement date means no notice was recorded, not that the model will keep running."
+}
