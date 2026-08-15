@@ -1,13 +1,14 @@
 <!doctype html>
 <html lang="en"><head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>openai/gpt-5.2-codex — ModelWire</title>
-<meta name="description" content="Historical record of large language model pricing, context windows and deprecation notices. Providers publish only current prices — we keep the history.">
+<title>openai/gpt-5.2-codex retired 2026-07-23 — announced date and replacement | ModelWire</title>
+<meta name="description" content="openai/gpt-5.2-codex passed the shutdown date openai published for it, 2026-07-23 (23 days ago). We record the date the provider published; we do not call the endpoint to check. Recommended replacement: gpt-5.6-sol.">
 <link rel="canonical" href="https://chorddote.github.io/modelwire-site/models/openai-gpt-5.2-codex.html">
 <link rel="alternate" hreflang="en" href="https://chorddote.github.io/modelwire-site/index.html">
 <link rel="alternate" hreflang="ja" href="https://chorddote.github.io/modelwire-site/ja/index.html">
 <link rel="alternate" hreflang="x-default" href="https://chorddote.github.io/modelwire-site/index.html">
 <link rel="alternate" type="application/rss+xml" title="ModelWire changes" href="../changes.xml"><link rel="alternate" type="application/rss+xml" title="ModelWire end-of-life" href="https://chorddote.github.io/modelwire-site/eol.xml">
+<script type="application/ld+json">[{"@context":"https://schema.org","@type":"FAQPage","url":"https://chorddote.github.io/modelwire-site/models/openai-gpt-5.2-codex.html","mainEntity":[{"@type":"Question","name":"Is openai/gpt-5.2-codex deprecated, and when does it stop working?","acceptedAnswer":{"@type":"Answer","text":"openai/gpt-5.2-codex passed the shutdown date openai published for it, 2026-07-23 (23 days ago). We record the date the provider published; we do not call the endpoint to check. Recommended replacement: gpt-5.6-sol."}},{"@type":"Question","name":"What should openai/gpt-5.2-codex be replaced with?","acceptedAnswer":{"@type":"Answer","text":"openai names openai/gpt-5.6-sol as the replacement. The comparison below uses our own last reading of the public catalog (2026-08-14), in USD per 1M tokens. Input, USD / 1M tokens: $1.75 → $5; Output, USD / 1M tokens: $14 → $30; Context window, tokens: 400,000 → 1,050,000; Max output, tokens: 128,000 → 128,000."}}]},{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ModelWire","item":"https://chorddote.github.io/modelwire-site/"},{"@type":"ListItem","position":2,"name":"Is openai/gpt-5.2-codex deprecated, and when does it stop working?","item":"https://chorddote.github.io/modelwire-site/models/openai-gpt-5.2-codex.html"}]}]</script>
 <style>
 :root{--bg:#fbfbfa;--fg:#1a1a19;--mut:#6b6b66;--line:#e4e4e0;--card:#fff;--acc:#b8562f;--up:#c0392b;--down:#1e7a4d}
 @media(prefers-color-scheme:dark){:root:not([data-theme=light]){--bg:#161614;--fg:#eceae5;--mut:#9a9a92;--line:#2e2e2a;--card:#1d1d1b;--acc:#e07a52;--up:#e5766a;--down:#4fbf87}}
@@ -47,19 +48,34 @@ pre code{background:none;border:0;padding:0;font-size:1em}
 img{max-width:100%}
 .bimg{vertical-align:middle;margin:.3rem 0}
 .mean li{margin:.45rem 0}
+.brand{font-size:1.15rem;font-weight:650;margin:0 0 .3rem;letter-spacing:-.01em}
+.brand a{color:inherit;text-decoration:none}
+.lead{font-size:1.12rem;line-height:1.6;background:var(--card);border:1px solid var(--line);
+border-left:4px solid var(--acc);border-radius:6px;padding:1rem 1.2rem;margin:1.1rem 0 .6rem}
+.lead code{font-size:.95em}
+.nav{display:flex;justify-content:space-between;gap:1rem;font-size:.88rem;margin:2rem 0 0}
 </style>
 </head><body><div class="wrap">
 <header>
 <div>
-<h1><a href="../index.html">ModelWire</a></h1>
+<p class="brand"><a href="../index.html">ModelWire</a></p>
 <p class="sub">An append-only record of LLM pricing, context limits and deprecations</p>
 </div>
 <a class="lang" href="https://chorddote.github.io/modelwire-site/ja/models/openai-gpt-5.2-codex.html">日本語</a>
 </header>
 
-<h2>openai/gpt-5.2-codex</h2>
+<h1>openai/gpt-5.2-codex</h1>
 <p class="sub">Provider <strong>openai</strong> · tracked ·
 Modalities: image / text</p>
+<h2 id="answer">Is openai/gpt-5.2-codex deprecated, and when does it stop working?</h2><p class="lead"><strong><code>openai/gpt-5.2-codex</code> passed the shutdown date openai published for it, 2026-07-23</strong> (23 days ago). We record the date the provider published; we do not call the endpoint to check. Recommended replacement: <code>gpt-5.6-sol</code>.</p><p class="sub">Facts on this page come from the append-only ledger; last change recorded 2026-08-14. Primary source is linked at the bottom of the page.</p>
+<h2>What should openai/gpt-5.2-codex be replaced with?</h2>
+<p class="sub">openai names <strong><code>openai/gpt-5.6-sol</code></strong> as the replacement. The comparison below uses our own last reading of the public catalog (2026-08-14), in USD per 1M tokens.</p>
+
+<div class="scroll"><table><thead><tr><th></th>
+<th>This model</th><th><a href='../models/openai-gpt-5.6-sol.html'><code>openai/gpt-5.6-sol</code></a></th><th>Difference</th></tr></thead>
+<tbody><tr><th>Input, USD / 1M tokens</th><td class='num'>$1.75</td><td class='num'>$5</td><td><span class='up'>+186% (more expensive)</span></td></tr><tr><th>Output, USD / 1M tokens</th><td class='num'>$14</td><td class='num'>$30</td><td><span class='up'>+114% (more expensive)</span></td></tr><tr><th>Context window, tokens</th><td class='num'>400,000</td><td class='num'>1,050,000</td><td>+162% (larger)</td></tr><tr><th>Max output, tokens</th><td class='num'>128,000</td><td class='num'>128,000</td><td><span class="muted">same</span></td></tr></tbody></table></div>
+<p class="sub">These are the numbers our last reading of the public catalog returned. Billing is set by the provider, not by this page. <strong>A lower output price is not automatically a lower bill</strong> — compare the context and output limits in the same table before switching, because a smaller context window can force more calls.</p>
+
 
 <div class="grid">
 <div class="stat"><div class="v">$1.75</div><div class="k">Input / 1M tokens</div></div>
@@ -95,7 +111,10 @@ Modalities: image / text</p>
 <p><strong>ModelWire</strong> is an unofficial project. It is not affiliated with, or endorsed by, any listed provider.</p>
 <p>Only facts obtained from public APIs are stored and redistributed — numbers, dates, identifiers. Each value links to its primary source.</p>
 <p>Last observed change: 2026-08-14T22:00:40+00:00 ·
-<a href="../changes.xml">RSS</a> · <a href="../llms.txt">llms.txt</a></p>
+<a href="../changes.xml">RSS</a> ·
+<a href="../llms.txt">llms.txt</a> ·
+<a href="../changes/index.html">Weekly changes</a> ·
+<a href="../privacy/index.html">Privacy</a></p>
 <p>This page is rebuilt after every collection run, but the timestamp above only moves when a recorded value actually changed.</p>
 </footer>
 </div></body></html>
