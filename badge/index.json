@@ -1,7 +1,7 @@
 {
-  "as_of": "2026-08-18T10:00:20+00:00",
+  "as_of": "2026-08-18T22:00:41+00:00",
   "badge_url_template": "https://chorddote.github.io/modelwire-site/badge/{slug}.svg",
-  "count": 560,
+  "count": 561,
   "badges": [
     {
       "slug": "ai21-jamba-large-1.7",
@@ -3913,6 +3913,13 @@
       "slug": "z-ai-glm-5.2-free",
       "provider": "z-ai",
       "model_id": "z-ai/glm-5.2:free",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "z-ai-glm-5.3",
+      "provider": "z-ai",
+      "model_id": "z-ai/glm-5.3",
       "state": "not_announced",
       "message": "none announced"
     },
