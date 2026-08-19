@@ -91,7 +91,7 @@ is the direct answer.
 
 ## One model, as JSON
 
-Each of the 561 model pages has a machine-readable record at the same slug:
+Each of the 562 model pages has a machine-readable record at the same slug:
 
     https://chorddote.github.io/modelwire-site/data/models/<slug>.json
 
@@ -127,7 +127,7 @@ have left the catalog:
 - perplexity (5 records): https://chorddote.github.io/modelwire-site/providers/perplexity.html
 - aion-labs (4 records): https://chorddote.github.io/modelwire-site/providers/aion-labs.html
 - nousresearch (4 records): https://chorddote.github.io/modelwire-site/providers/nousresearch.html
-- ...and 40 more, all listed in the index below
+- ...and 41 more, all listed in the index below
 
 Index of all providers: https://chorddote.github.io/modelwire-site/providers/index.html
 
@@ -146,8 +146,8 @@ Index of all weeks: https://chorddote.github.io/modelwire-site/changes/
 
 - Tracking started: 2026-08-09
 - Days of coverage: 11
-- Models tracked: 415
-- Change events recorded: 527
+- Models tracked: 416
+- Change events recorded: 554
 - End-of-life records tracked: 158
 - Collection frequency: twice daily
 - Price and catalog source: OpenRouter public API (https://openrouter.ai/api/v1/models)
