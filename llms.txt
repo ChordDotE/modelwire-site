@@ -91,7 +91,7 @@ is the direct answer.
 
 ## One model, as JSON
 
-Each of the 562 model pages has a machine-readable record at the same slug:
+Each of the 566 model pages has a machine-readable record at the same slug:
 
     https://chorddote.github.io/modelwire-site/data/models/<slug>.json
 
@@ -111,7 +111,7 @@ have left the catalog:
 - qwen (51 records): https://chorddote.github.io/modelwire-site/providers/qwen.html
 - anthropic (41 records): https://chorddote.github.io/modelwire-site/providers/anthropic.html
 - google (41 records): https://chorddote.github.io/modelwire-site/providers/google.html
-- mistralai (18 records): https://chorddote.github.io/modelwire-site/providers/mistralai.html
+- mistralai (19 records): https://chorddote.github.io/modelwire-site/providers/mistralai.html
 - z-ai (15 records): https://chorddote.github.io/modelwire-site/providers/z-ai.html
 - x-ai (14 records): https://chorddote.github.io/modelwire-site/providers/x-ai.html
 - deepseek (13 records): https://chorddote.github.io/modelwire-site/providers/deepseek.html
@@ -125,9 +125,9 @@ have left the catalog:
 - amazon (5 records): https://chorddote.github.io/modelwire-site/providers/amazon.html
 - inclusionai (5 records): https://chorddote.github.io/modelwire-site/providers/inclusionai.html
 - perplexity (5 records): https://chorddote.github.io/modelwire-site/providers/perplexity.html
+- tencent (5 records): https://chorddote.github.io/modelwire-site/providers/tencent.html
 - aion-labs (4 records): https://chorddote.github.io/modelwire-site/providers/aion-labs.html
-- nousresearch (4 records): https://chorddote.github.io/modelwire-site/providers/nousresearch.html
-- ...and 41 more, all listed in the index below
+- ...and 42 more, all listed in the index below
 
 Index of all providers: https://chorddote.github.io/modelwire-site/providers/index.html
 
@@ -146,8 +146,8 @@ Index of all weeks: https://chorddote.github.io/modelwire-site/changes/
 
 - Tracking started: 2026-08-09
 - Days of coverage: 12
-- Models tracked: 414
-- Change events recorded: 579
+- Models tracked: 418
+- Change events recorded: 593
 - End-of-life records tracked: 158
 - Collection frequency: twice daily
 - Price and catalog source: OpenRouter public API (https://openrouter.ai/api/v1/models)
