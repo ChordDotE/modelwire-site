@@ -6,7 +6,7 @@
   "price_input_usd_per_1m_tokens": 2.0,
   "price_output_usd_per_1m_tokens": 6.0,
   "context_window": 1048576,
-  "max_output": 262144,
+  "max_output": 131072,
   "modalities": [
     "text"
   ],
@@ -17,9 +17,9 @@
   "retirement_date_is_committed": false,
   "replacement_as_published": null,
   "replacement_page": null,
-  "observations_recorded": 4,
+  "observations_recorded": 5,
   "first_recorded": "2026-08-12",
-  "last_changed": "2026-08-14",
+  "last_changed": "2026-08-21",
   "page": "https://chorddote.github.io/modelwire-site/models/qwen-qwen3.8-2.4t-a95b.html",
   "page_ja": "https://chorddote.github.io/modelwire-site/ja/models/qwen-qwen3.8-2.4t-a95b.html",
   "provider_page": "https://chorddote.github.io/modelwire-site/providers/qwen.html",
