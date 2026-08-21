@@ -1,7 +1,7 @@
 {
   "model_id": "mancer/weaver",
   "provider": "mancer",
-  "in_current_catalog": false,
+  "in_current_catalog": true,
   "record_type": "catalog",
   "price_input_usd_per_1m_tokens": 0.5,
   "price_output_usd_per_1m_tokens": 0.75,

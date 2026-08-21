@@ -5,7 +5,7 @@
   "record_type": "catalog",
   "price_input_usd_per_1m_tokens": 0.0,
   "price_output_usd_per_1m_tokens": 0.0,
-  "context_window": 128000,
+  "context_window": 65536,
   "max_output": 8192,
   "modalities": [
     "text"
@@ -17,9 +17,9 @@
   "retirement_date_is_committed": false,
   "replacement_as_published": null,
   "replacement_page": null,
-  "observations_recorded": 2,
+  "observations_recorded": 3,
   "first_recorded": "2026-08-11",
-  "last_changed": "2026-08-14",
+  "last_changed": "2026-08-21",
   "page": "https://chorddote.github.io/modelwire-site/models/liquid-lfm-2.5-2.6b-free.html",
   "page_ja": "https://chorddote.github.io/modelwire-site/ja/models/liquid-lfm-2.5-2.6b-free.html",
   "provider_page": "https://chorddote.github.io/modelwire-site/providers/liquid.html",
