@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-22T10:00:46+00:00",
+  "as_of": "2026-08-22T15:01:54+00:00",
   "badge_url_template": "https://chorddote.github.io/modelwire-site/badge/{slug}.svg",
   "count": 570,
   "badges": [
@@ -532,8 +532,8 @@
       "slug": "deepcogito-cogito-v2.1-671b",
       "provider": "deepcogito",
       "model_id": "deepcogito/cogito-v2.1-671b",
-      "state": "not_announced",
-      "message": "none announced"
+      "state": "removed",
+      "message": "removed from catalog"
     },
     {
       "slug": "deepseek-deepseek-chat",
@@ -2604,8 +2604,8 @@
       "slug": "openai-gpt-oss-20b-free",
       "provider": "openai",
       "model_id": "openai/gpt-oss-20b:free",
-      "state": "not_announced",
-      "message": "none announced"
+      "state": "removed",
+      "message": "removed from catalog"
     },
     {
       "slug": "openai-gpt-oss-safeguard-20b",

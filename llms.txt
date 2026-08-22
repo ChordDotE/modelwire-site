@@ -146,8 +146,8 @@ Index of all weeks: https://chorddote.github.io/modelwire-site/changes/
 
 - Tracking started: 2026-08-09
 - Days of coverage: 14
-- Models tracked: 423
-- Change events recorded: 680
+- Models tracked: 421
+- Change events recorded: 691
 - End-of-life records tracked: 158
 - Collection frequency: twice daily
 - Price and catalog source: OpenRouter public API (https://openrouter.ai/api/v1/models)

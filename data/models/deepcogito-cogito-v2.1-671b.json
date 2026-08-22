@@ -1,7 +1,7 @@
 {
   "model_id": "deepcogito/cogito-v2.1-671b",
   "provider": "deepcogito",
-  "in_current_catalog": true,
+  "in_current_catalog": false,
   "record_type": "catalog",
   "price_input_usd_per_1m_tokens": 1.25,
   "price_output_usd_per_1m_tokens": 1.25,
