@@ -150,7 +150,7 @@
 <url><loc>https://chorddote.github.io/modelwire-site/models/minimax-minimax-m2-her.html</loc><lastmod>2026-08-09</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/models/minimax-minimax-m2.1.html</loc><lastmod>2026-08-09</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/models/minimax-minimax-m2.5.html</loc><lastmod>2026-08-22</lastmod></url>
-<url><loc>https://chorddote.github.io/modelwire-site/models/minimax-minimax-m2.7.html</loc><lastmod>2026-08-09</lastmod></url>
+<url><loc>https://chorddote.github.io/modelwire-site/models/minimax-minimax-m2.7.html</loc><lastmod>2026-08-23</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/models/minimax-minimax-m3.html</loc><lastmod>2026-08-09</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/models/minimax-minimax-m3-batch.html</loc><lastmod>2026-08-18</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/models/mistralai-codestral-2508.html</loc><lastmod>2026-08-09</lastmod></url>
@@ -179,7 +179,7 @@
 <url><loc>https://chorddote.github.io/modelwire-site/models/moonshotai-kimi-k2.6.html</loc><lastmod>2026-08-23</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/models/moonshotai-kimi-k2.7-code.html</loc><lastmod>2026-08-21</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/models/moonshotai-kimi-k2.7-code-batch.html</loc><lastmod>2026-08-18</lastmod></url>
-<url><loc>https://chorddote.github.io/modelwire-site/models/moonshotai-kimi-k3.html</loc><lastmod>2026-08-11</lastmod></url>
+<url><loc>https://chorddote.github.io/modelwire-site/models/moonshotai-kimi-k3.html</loc><lastmod>2026-08-23</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/models/morph-morph-v3-fast.html</loc><lastmod>2026-08-09</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/models/morph-morph-v3-large.html</loc><lastmod>2026-08-09</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/models/nex-agi-nex-n2-mini.html</loc><lastmod>2026-08-09</lastmod></url>
@@ -601,7 +601,7 @@
 <url><loc>https://chorddote.github.io/modelwire-site/providers/meta.html</loc><lastmod>2026-08-22</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/providers/meta-llama.html</loc><lastmod>2026-08-14</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/providers/microsoft.html</loc><lastmod>2026-08-09</lastmod></url>
-<url><loc>https://chorddote.github.io/modelwire-site/providers/minimax.html</loc><lastmod>2026-08-22</lastmod></url>
+<url><loc>https://chorddote.github.io/modelwire-site/providers/minimax.html</loc><lastmod>2026-08-23</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/providers/mistralai.html</loc><lastmod>2026-08-21</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/providers/moonshotai.html</loc><lastmod>2026-08-23</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/providers/morph.html</loc><lastmod>2026-08-09</lastmod></url>
@@ -791,7 +791,7 @@
 <url><loc>https://chorddote.github.io/modelwire-site/ja/models/minimax-minimax-m2-her.html</loc><lastmod>2026-08-09</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/ja/models/minimax-minimax-m2.1.html</loc><lastmod>2026-08-09</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/ja/models/minimax-minimax-m2.5.html</loc><lastmod>2026-08-22</lastmod></url>
-<url><loc>https://chorddote.github.io/modelwire-site/ja/models/minimax-minimax-m2.7.html</loc><lastmod>2026-08-09</lastmod></url>
+<url><loc>https://chorddote.github.io/modelwire-site/ja/models/minimax-minimax-m2.7.html</loc><lastmod>2026-08-23</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/ja/models/minimax-minimax-m3.html</loc><lastmod>2026-08-09</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/ja/models/minimax-minimax-m3-batch.html</loc><lastmod>2026-08-18</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/ja/models/mistralai-codestral-2508.html</loc><lastmod>2026-08-09</lastmod></url>
@@ -820,7 +820,7 @@
 <url><loc>https://chorddote.github.io/modelwire-site/ja/models/moonshotai-kimi-k2.6.html</loc><lastmod>2026-08-23</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/ja/models/moonshotai-kimi-k2.7-code.html</loc><lastmod>2026-08-21</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/ja/models/moonshotai-kimi-k2.7-code-batch.html</loc><lastmod>2026-08-18</lastmod></url>
-<url><loc>https://chorddote.github.io/modelwire-site/ja/models/moonshotai-kimi-k3.html</loc><lastmod>2026-08-11</lastmod></url>
+<url><loc>https://chorddote.github.io/modelwire-site/ja/models/moonshotai-kimi-k3.html</loc><lastmod>2026-08-23</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/ja/models/morph-morph-v3-fast.html</loc><lastmod>2026-08-09</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/ja/models/morph-morph-v3-large.html</loc><lastmod>2026-08-09</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/ja/models/nex-agi-nex-n2-mini.html</loc><lastmod>2026-08-09</lastmod></url>
@@ -1242,7 +1242,7 @@
 <url><loc>https://chorddote.github.io/modelwire-site/ja/providers/meta.html</loc><lastmod>2026-08-22</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/ja/providers/meta-llama.html</loc><lastmod>2026-08-14</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/ja/providers/microsoft.html</loc><lastmod>2026-08-09</lastmod></url>
-<url><loc>https://chorddote.github.io/modelwire-site/ja/providers/minimax.html</loc><lastmod>2026-08-22</lastmod></url>
+<url><loc>https://chorddote.github.io/modelwire-site/ja/providers/minimax.html</loc><lastmod>2026-08-23</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/ja/providers/mistralai.html</loc><lastmod>2026-08-21</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/ja/providers/moonshotai.html</loc><lastmod>2026-08-23</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/ja/providers/morph.html</loc><lastmod>2026-08-09</lastmod></url>

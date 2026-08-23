@@ -3,10 +3,10 @@
   "provider": "qwen",
   "in_current_catalog": true,
   "record_type": "catalog",
-  "price_input_usd_per_1m_tokens": 0.12,
-  "price_output_usd_per_1m_tokens": 0.5,
+  "price_input_usd_per_1m_tokens": 0.13,
+  "price_output_usd_per_1m_tokens": 0.52,
   "context_window": 131072,
-  "max_output": 16384,
+  "max_output": 8192,
   "modalities": [
     "text"
   ],
@@ -17,7 +17,7 @@
   "retirement_date_is_committed": false,
   "replacement_as_published": null,
   "replacement_page": null,
-  "observations_recorded": 4,
+  "observations_recorded": 5,
   "first_recorded": "2026-08-09",
   "last_changed": "2026-08-23",
   "page": "https://chorddote.github.io/modelwire-site/models/qwen-qwen3-30b-a3b.html",

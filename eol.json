@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-23T10:01:16+00:00",
+  "as_of": "2026-08-23T22:01:01+00:00",
   "source": "official deprecation pages of openai, anthropic, x-ai and cohere",
   "note": "date_confirmed=false means the provider has not committed to the date. The provider's own wording is kept in date_qualifier and is never converted into a firm date.",
   "freshness_note": "last_confirmed_at is the date we could last see the row on the provider's own page. It is not the date the provider updated anything, and it is not a guarantee that the row is there right now. listed=gone means the row was there and is not any more, declared only after two consecutive successful readings missed it and dated (delisted_at) from the first reading that missed it. listed=unknown means the record predates this presence log; we do not guess a date.",
