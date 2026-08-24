@@ -9,69 +9,69 @@ Source: the official deprecation pages of openai, anthropic, x-ai and cohere.
 in the future. A qualifier such as "not sooner than" means the provider has NOT committed to
 that date — it is reproduced as published and never converted into a firm date.
 
-- openai/Assistants API: end of life 2026-08-26 → replacement: Responses API and Conversations API [last confirmed on the provider's page 2026-08-23] — https://chorddote.github.io/modelwire-site/ja/models/openai-assistants-api.html
-- openai/Videos API: end of life 2026-09-24 [last confirmed on the provider's page 2026-08-23] — https://chorddote.github.io/modelwire-site/ja/models/openai-videos-api.html
-- openai/sora-2: end of life 2026-09-24 [last confirmed on the provider's page 2026-08-23] — https://chorddote.github.io/modelwire-site/ja/models/openai-sora-2.html
-- openai/sora-2-2025-10-06: end of life 2026-09-24 [last confirmed on the provider's page 2026-08-23] — https://chorddote.github.io/modelwire-site/ja/models/openai-sora-2-2025-10-06.html
-- openai/sora-2-2025-12-08: end of life 2026-09-24 [last confirmed on the provider's page 2026-08-23] — https://chorddote.github.io/modelwire-site/ja/models/openai-sora-2-2025-12-08.html
-- openai/sora-2-pro: end of life 2026-09-24 [last confirmed on the provider's page 2026-08-23] — https://chorddote.github.io/modelwire-site/ja/models/openai-sora-2-pro.html
-- openai/sora-2-pro-2025-10-06: end of life 2026-09-24 [last confirmed on the provider's page 2026-08-23] — https://chorddote.github.io/modelwire-site/ja/models/openai-sora-2-pro-2025-10-06.html
-- openai/babbage-002: end of life 2026-09-28 → replacement: gpt-5.6-terra [last confirmed on the provider's page 2026-08-23] — https://chorddote.github.io/modelwire-site/ja/models/openai-babbage-002.html
-- openai/davinci-002: end of life 2026-09-28 → replacement: gpt-5.6-terra [last confirmed on the provider's page 2026-08-23] — https://chorddote.github.io/modelwire-site/ja/models/openai-davinci-002.html
-- openai/gpt-3.5-turbo-1106: end of life 2026-09-28 → replacement: gpt-5.6-terra [last confirmed on the provider's page 2026-08-23] — https://chorddote.github.io/modelwire-site/ja/models/openai-gpt-3.5-turbo-1106.html
-- openai/gpt-3.5-turbo-instruct: end of life 2026-09-28 → replacement: gpt-5.6-terra [last confirmed on the provider's page 2026-08-23] — https://chorddote.github.io/modelwire-site/ja/models/openai-gpt-3.5-turbo-instruct.html
-- anthropic/claude-sonnet-4-5-20250929: end of life not sooner than 2026-09-29 [last confirmed on the provider's page 2026-08-23] — https://chorddote.github.io/modelwire-site/ja/models/anthropic-claude-sonnet-4-5-20250929.html
-- anthropic/claude-haiku-4-5-20251001: end of life not sooner than 2026-10-15 [last confirmed on the provider's page 2026-08-23] — https://chorddote.github.io/modelwire-site/ja/models/anthropic-claude-haiku-4-5-20251001.html
-- openai/ft-babbage-002: end of life 2026-10-23 → replacement: gpt-5.6-terra [last confirmed on the provider's page 2026-08-23] — https://chorddote.github.io/modelwire-site/ja/models/openai-ft-babbage-002.html
-- openai/ft-davinci-002: end of life 2026-10-23 → replacement: gpt-5.6-terra [last confirmed on the provider's page 2026-08-23] — https://chorddote.github.io/modelwire-site/ja/models/openai-ft-davinci-002.html
-- openai/ft-gpt-3.5-turbo: end of life 2026-10-23 → replacement: gpt-5.6-terra [last confirmed on the provider's page 2026-08-23] — https://chorddote.github.io/modelwire-site/ja/models/openai-ft-gpt-3.5-turbo.html
-- openai/ft-gpt-4: end of life 2026-10-23 → replacement: gpt-5.6-sol [last confirmed on the provider's page 2026-08-23] — https://chorddote.github.io/modelwire-site/ja/models/openai-ft-gpt-4.html
-- openai/ft-gpt-4.1-nano-2025-04-14: end of life 2026-10-23 → replacement: gpt-5.6-luna [last confirmed on the provider's page 2026-08-23] — https://chorddote.github.io/modelwire-site/ja/models/openai-ft-gpt-4.1-nano-2025-04-14.html
-- openai/ft-o4-mini-2025-04-16: end of life 2026-10-23 → replacement: gpt-5.6-terra [last confirmed on the provider's page 2026-08-23] — https://chorddote.github.io/modelwire-site/ja/models/openai-ft-o4-mini-2025-04-16.html
-- openai/gpt-3.5-turbo-0125: end of life 2026-10-23 → replacement: gpt-3.5-turbo, gpt-3.5-turbo-completions [last confirmed on the provider's page 2026-08-23] — https://chorddote.github.io/modelwire-site/ja/models/openai-gpt-3.5-turbo-0125.html
-- openai/gpt-4-0613: end of life 2026-10-23 → replacement: gpt-4, gpt-4-0613-completions, gpt-4-completions [last confirmed on the provider's page 2026-08-23] — https://chorddote.github.io/modelwire-site/ja/models/openai-gpt-4-0613.html
-- openai/gpt-4-1106-preview: end of life 2026-10-23 → replacement: gpt-5.6-sol [last confirmed on the provider's page 2026-08-23] — https://chorddote.github.io/modelwire-site/ja/models/openai-gpt-4-1106-preview.html
-- openai/gpt-4-turbo: end of life 2026-10-23 → replacement: gpt-4-turbo-2024-04-09, gpt-4-turbo-completions [last confirmed on the provider's page 2026-08-23] — https://chorddote.github.io/modelwire-site/ja/models/openai-gpt-4-turbo.html
-- openai/gpt-4.1-nano: end of life 2026-10-23 → replacement: gpt-4.1-nano-2025-04-14 [last confirmed on the provider's page 2026-08-23] — https://chorddote.github.io/modelwire-site/ja/models/openai-gpt-4.1-nano.html
-- openai/gpt-4o-2024-05-13: end of life 2026-10-23 → replacement: gpt-5.6-sol [last confirmed on the provider's page 2026-08-23] — https://chorddote.github.io/modelwire-site/ja/models/openai-gpt-4o-2024-05-13.html
-- openai/gpt-image-1: end of life 2026-10-23 → replacement: gpt-image-2 [last confirmed on the provider's page 2026-08-23] — https://chorddote.github.io/modelwire-site/ja/models/openai-gpt-image-1.html
-- openai/o1-2024-12-17: end of life 2026-10-23 → replacement: o1 [last confirmed on the provider's page 2026-08-23] — https://chorddote.github.io/modelwire-site/ja/models/openai-o1-2024-12-17.html
-- openai/o1-pro-2025-03-19: end of life 2026-10-23 → replacement: o1-pro [last confirmed on the provider's page 2026-08-23] — https://chorddote.github.io/modelwire-site/ja/models/openai-o1-pro-2025-03-19.html
-- openai/o3-mini-2025-01-31: end of life 2026-10-23 → replacement: o3-mini [last confirmed on the provider's page 2026-08-23] — https://chorddote.github.io/modelwire-site/ja/models/openai-o3-mini-2025-01-31.html
-- openai/o4-mini-2025-04-16: end of life 2026-10-23 → replacement: o4-mini [last confirmed on the provider's page 2026-08-23] — https://chorddote.github.io/modelwire-site/ja/models/openai-o4-mini-2025-04-16.html
-- anthropic/claude-opus-4-5-20251101: end of life not sooner than 2026-11-24 [last confirmed on the provider's page 2026-08-23] — https://chorddote.github.io/modelwire-site/ja/models/anthropic-claude-opus-4-5-20251101.html
-- openai/chatgpt-image-latest: end of life 2026-12-01 → replacement: gpt-image-2 [last confirmed on the provider's page 2026-08-23] — https://chorddote.github.io/modelwire-site/ja/models/openai-chatgpt-image-latest.html
-- openai/gpt-image-1-mini: end of life 2026-12-01 → replacement: gpt-image-2 [last confirmed on the provider's page 2026-08-23] — https://chorddote.github.io/modelwire-site/ja/models/openai-gpt-image-1-mini.html
-- openai/gpt-image-1.5: end of life 2026-12-01 → replacement: gpt-image-2 [last confirmed on the provider's page 2026-08-23] — https://chorddote.github.io/modelwire-site/ja/models/openai-gpt-image-1.5.html
-- openai/gpt-5-2025-08-07: end of life 2026-12-11 → replacement: gpt-5.6-sol [last confirmed on the provider's page 2026-08-23] — https://chorddote.github.io/modelwire-site/ja/models/openai-gpt-5-2025-08-07.html
-- openai/gpt-5-mini-2025-08-07: end of life 2026-12-11 → replacement: gpt-5.6-terra [last confirmed on the provider's page 2026-08-23] — https://chorddote.github.io/modelwire-site/ja/models/openai-gpt-5-mini-2025-08-07.html
-- openai/gpt-5-nano-2025-08-07: end of life 2026-12-11 → replacement: gpt-5.6-luna [last confirmed on the provider's page 2026-08-23] — https://chorddote.github.io/modelwire-site/ja/models/openai-gpt-5-nano-2025-08-07.html
-- openai/gpt-5-pro-2025-10-06: end of life 2026-12-11 → replacement: gpt-5.6-sol (reasoning.mode: pro) [last confirmed on the provider's page 2026-08-23] — https://chorddote.github.io/modelwire-site/ja/models/openai-gpt-5-pro-2025-10-06.html
-- openai/o3-2025-04-16: end of life 2026-12-11 → replacement: gpt-5.6-sol [last confirmed on the provider's page 2026-08-23] — https://chorddote.github.io/modelwire-site/ja/models/openai-o3-2025-04-16.html
-- openai/o3-pro-2025-06-10: end of life 2026-12-11 → replacement: gpt-5.6-sol (reasoning.mode: pro) [last confirmed on the provider's page 2026-08-23] — https://chorddote.github.io/modelwire-site/ja/models/openai-o3-pro-2025-06-10.html
+- openai/Assistants API: end of life 2026-08-26 → replacement: Responses API and Conversations API [last confirmed on the provider's page 2026-08-24] — https://chorddote.github.io/modelwire-site/ja/models/openai-assistants-api.html
+- openai/Videos API: end of life 2026-09-24 [last confirmed on the provider's page 2026-08-24] — https://chorddote.github.io/modelwire-site/ja/models/openai-videos-api.html
+- openai/sora-2: end of life 2026-09-24 [last confirmed on the provider's page 2026-08-24] — https://chorddote.github.io/modelwire-site/ja/models/openai-sora-2.html
+- openai/sora-2-2025-10-06: end of life 2026-09-24 [last confirmed on the provider's page 2026-08-24] — https://chorddote.github.io/modelwire-site/ja/models/openai-sora-2-2025-10-06.html
+- openai/sora-2-2025-12-08: end of life 2026-09-24 [last confirmed on the provider's page 2026-08-24] — https://chorddote.github.io/modelwire-site/ja/models/openai-sora-2-2025-12-08.html
+- openai/sora-2-pro: end of life 2026-09-24 [last confirmed on the provider's page 2026-08-24] — https://chorddote.github.io/modelwire-site/ja/models/openai-sora-2-pro.html
+- openai/sora-2-pro-2025-10-06: end of life 2026-09-24 [last confirmed on the provider's page 2026-08-24] — https://chorddote.github.io/modelwire-site/ja/models/openai-sora-2-pro-2025-10-06.html
+- openai/babbage-002: end of life 2026-09-28 → replacement: gpt-5.6-terra [last confirmed on the provider's page 2026-08-24] — https://chorddote.github.io/modelwire-site/ja/models/openai-babbage-002.html
+- openai/davinci-002: end of life 2026-09-28 → replacement: gpt-5.6-terra [last confirmed on the provider's page 2026-08-24] — https://chorddote.github.io/modelwire-site/ja/models/openai-davinci-002.html
+- openai/gpt-3.5-turbo-1106: end of life 2026-09-28 → replacement: gpt-5.6-terra [last confirmed on the provider's page 2026-08-24] — https://chorddote.github.io/modelwire-site/ja/models/openai-gpt-3.5-turbo-1106.html
+- openai/gpt-3.5-turbo-instruct: end of life 2026-09-28 → replacement: gpt-5.6-terra [last confirmed on the provider's page 2026-08-24] — https://chorddote.github.io/modelwire-site/ja/models/openai-gpt-3.5-turbo-instruct.html
+- anthropic/claude-sonnet-4-5-20250929: end of life not sooner than 2026-09-29 [last confirmed on the provider's page 2026-08-24] — https://chorddote.github.io/modelwire-site/ja/models/anthropic-claude-sonnet-4-5-20250929.html
+- anthropic/claude-haiku-4-5-20251001: end of life not sooner than 2026-10-15 [last confirmed on the provider's page 2026-08-24] — https://chorddote.github.io/modelwire-site/ja/models/anthropic-claude-haiku-4-5-20251001.html
+- openai/ft-babbage-002: end of life 2026-10-23 → replacement: gpt-5.6-terra [last confirmed on the provider's page 2026-08-24] — https://chorddote.github.io/modelwire-site/ja/models/openai-ft-babbage-002.html
+- openai/ft-davinci-002: end of life 2026-10-23 → replacement: gpt-5.6-terra [last confirmed on the provider's page 2026-08-24] — https://chorddote.github.io/modelwire-site/ja/models/openai-ft-davinci-002.html
+- openai/ft-gpt-3.5-turbo: end of life 2026-10-23 → replacement: gpt-5.6-terra [last confirmed on the provider's page 2026-08-24] — https://chorddote.github.io/modelwire-site/ja/models/openai-ft-gpt-3.5-turbo.html
+- openai/ft-gpt-4: end of life 2026-10-23 → replacement: gpt-5.6-sol [last confirmed on the provider's page 2026-08-24] — https://chorddote.github.io/modelwire-site/ja/models/openai-ft-gpt-4.html
+- openai/ft-gpt-4.1-nano-2025-04-14: end of life 2026-10-23 → replacement: gpt-5.6-luna [last confirmed on the provider's page 2026-08-24] — https://chorddote.github.io/modelwire-site/ja/models/openai-ft-gpt-4.1-nano-2025-04-14.html
+- openai/ft-o4-mini-2025-04-16: end of life 2026-10-23 → replacement: gpt-5.6-terra [last confirmed on the provider's page 2026-08-24] — https://chorddote.github.io/modelwire-site/ja/models/openai-ft-o4-mini-2025-04-16.html
+- openai/gpt-3.5-turbo-0125: end of life 2026-10-23 → replacement: gpt-3.5-turbo, gpt-3.5-turbo-completions [last confirmed on the provider's page 2026-08-24] — https://chorddote.github.io/modelwire-site/ja/models/openai-gpt-3.5-turbo-0125.html
+- openai/gpt-4-0613: end of life 2026-10-23 → replacement: gpt-4, gpt-4-0613-completions, gpt-4-completions [last confirmed on the provider's page 2026-08-24] — https://chorddote.github.io/modelwire-site/ja/models/openai-gpt-4-0613.html
+- openai/gpt-4-1106-preview: end of life 2026-10-23 → replacement: gpt-5.6-sol [last confirmed on the provider's page 2026-08-24] — https://chorddote.github.io/modelwire-site/ja/models/openai-gpt-4-1106-preview.html
+- openai/gpt-4-turbo: end of life 2026-10-23 → replacement: gpt-4-turbo-2024-04-09, gpt-4-turbo-completions [last confirmed on the provider's page 2026-08-24] — https://chorddote.github.io/modelwire-site/ja/models/openai-gpt-4-turbo.html
+- openai/gpt-4.1-nano: end of life 2026-10-23 → replacement: gpt-4.1-nano-2025-04-14 [last confirmed on the provider's page 2026-08-24] — https://chorddote.github.io/modelwire-site/ja/models/openai-gpt-4.1-nano.html
+- openai/gpt-4o-2024-05-13: end of life 2026-10-23 → replacement: gpt-5.6-sol [last confirmed on the provider's page 2026-08-24] — https://chorddote.github.io/modelwire-site/ja/models/openai-gpt-4o-2024-05-13.html
+- openai/gpt-image-1: end of life 2026-10-23 → replacement: gpt-image-2 [last confirmed on the provider's page 2026-08-24] — https://chorddote.github.io/modelwire-site/ja/models/openai-gpt-image-1.html
+- openai/o1-2024-12-17: end of life 2026-10-23 → replacement: o1 [last confirmed on the provider's page 2026-08-24] — https://chorddote.github.io/modelwire-site/ja/models/openai-o1-2024-12-17.html
+- openai/o1-pro-2025-03-19: end of life 2026-10-23 → replacement: o1-pro [last confirmed on the provider's page 2026-08-24] — https://chorddote.github.io/modelwire-site/ja/models/openai-o1-pro-2025-03-19.html
+- openai/o3-mini-2025-01-31: end of life 2026-10-23 → replacement: o3-mini [last confirmed on the provider's page 2026-08-24] — https://chorddote.github.io/modelwire-site/ja/models/openai-o3-mini-2025-01-31.html
+- openai/o4-mini-2025-04-16: end of life 2026-10-23 → replacement: o4-mini [last confirmed on the provider's page 2026-08-24] — https://chorddote.github.io/modelwire-site/ja/models/openai-o4-mini-2025-04-16.html
+- anthropic/claude-opus-4-5-20251101: end of life not sooner than 2026-11-24 [last confirmed on the provider's page 2026-08-24] — https://chorddote.github.io/modelwire-site/ja/models/anthropic-claude-opus-4-5-20251101.html
+- openai/chatgpt-image-latest: end of life 2026-12-01 → replacement: gpt-image-2 [last confirmed on the provider's page 2026-08-24] — https://chorddote.github.io/modelwire-site/ja/models/openai-chatgpt-image-latest.html
+- openai/gpt-image-1-mini: end of life 2026-12-01 → replacement: gpt-image-2 [last confirmed on the provider's page 2026-08-24] — https://chorddote.github.io/modelwire-site/ja/models/openai-gpt-image-1-mini.html
+- openai/gpt-image-1.5: end of life 2026-12-01 → replacement: gpt-image-2 [last confirmed on the provider's page 2026-08-24] — https://chorddote.github.io/modelwire-site/ja/models/openai-gpt-image-1.5.html
+- openai/gpt-5-2025-08-07: end of life 2026-12-11 → replacement: gpt-5.6-sol [last confirmed on the provider's page 2026-08-24] — https://chorddote.github.io/modelwire-site/ja/models/openai-gpt-5-2025-08-07.html
+- openai/gpt-5-mini-2025-08-07: end of life 2026-12-11 → replacement: gpt-5.6-terra [last confirmed on the provider's page 2026-08-24] — https://chorddote.github.io/modelwire-site/ja/models/openai-gpt-5-mini-2025-08-07.html
+- openai/gpt-5-nano-2025-08-07: end of life 2026-12-11 → replacement: gpt-5.6-luna [last confirmed on the provider's page 2026-08-24] — https://chorddote.github.io/modelwire-site/ja/models/openai-gpt-5-nano-2025-08-07.html
+- openai/gpt-5-pro-2025-10-06: end of life 2026-12-11 → replacement: gpt-5.6-sol (reasoning.mode: pro) [last confirmed on the provider's page 2026-08-24] — https://chorddote.github.io/modelwire-site/ja/models/openai-gpt-5-pro-2025-10-06.html
+- openai/o3-2025-04-16: end of life 2026-12-11 → replacement: gpt-5.6-sol [last confirmed on the provider's page 2026-08-24] — https://chorddote.github.io/modelwire-site/ja/models/openai-o3-2025-04-16.html
+- openai/o3-pro-2025-06-10: end of life 2026-12-11 → replacement: gpt-5.6-sol (reasoning.mode: pro) [last confirmed on the provider's page 2026-08-24] — https://chorddote.github.io/modelwire-site/ja/models/openai-o3-pro-2025-06-10.html
 
 ## Models that have already been retired
 
-- openai/gpt-5.3-chat-latest: end of life 2026-08-10 → replacement: gpt-5.6-sol [last confirmed on the provider's page 2026-08-23] — https://chorddote.github.io/modelwire-site/ja/models/openai-gpt-5.3-chat-latest.html
-- openai/gpt-5.2-chat-latest: end of life 2026-08-10 → replacement: gpt-5.6-sol [last confirmed on the provider's page 2026-08-23] — https://chorddote.github.io/modelwire-site/ja/models/openai-gpt-5.2-chat-latest.html
-- anthropic/claude-opus-4-1-20250805: end of life 2026-08-05 [last confirmed on the provider's page 2026-08-23] — https://chorddote.github.io/modelwire-site/ja/models/anthropic-claude-opus-4-1-20250805.html
-- openai/o4-mini-deep-research-2025-06-26: end of life 2026-07-23 → replacement: o4-mini-deep-research [last confirmed on the provider's page 2026-08-23] — https://chorddote.github.io/modelwire-site/ja/models/openai-o4-mini-deep-research-2025-06-26.html
-- openai/o3-deep-research-2025-06-26: end of life 2026-07-23 → replacement: o3-deep-research [last confirmed on the provider's page 2026-08-23] — https://chorddote.github.io/modelwire-site/ja/models/openai-o3-deep-research-2025-06-26.html
-- openai/gpt-realtime-mini-2025-10-06: end of life 2026-07-23 → replacement: gpt-realtime-2.1-mini [last confirmed on the provider's page 2026-08-23] — https://chorddote.github.io/modelwire-site/ja/models/openai-gpt-realtime-mini-2025-10-06.html
-- openai/gpt-audio-mini-2025-10-06: end of life 2026-07-23 → replacement: gpt-audio-1.5 [last confirmed on the provider's page 2026-08-23] — https://chorddote.github.io/modelwire-site/ja/models/openai-gpt-audio-mini-2025-10-06.html
-- openai/gpt-5.2-codex: end of life 2026-07-23 → replacement: gpt-5.6-sol [last confirmed on the provider's page 2026-08-23] — https://chorddote.github.io/modelwire-site/ja/models/openai-gpt-5.2-codex.html
-- openai/gpt-5.1-codex-mini: end of life 2026-07-23 → replacement: gpt-5.6-terra [last confirmed on the provider's page 2026-08-23] — https://chorddote.github.io/modelwire-site/ja/models/openai-gpt-5.1-codex-mini.html
-- openai/gpt-5.1-codex-max: end of life 2026-07-23 → replacement: gpt-5.6-sol [last confirmed on the provider's page 2026-08-23] — https://chorddote.github.io/modelwire-site/ja/models/openai-gpt-5.1-codex-max.html
-- openai/gpt-5.1-codex: end of life 2026-07-23 → replacement: gpt-5.6-sol [last confirmed on the provider's page 2026-08-23] — https://chorddote.github.io/modelwire-site/ja/models/openai-gpt-5.1-codex.html
-- openai/gpt-5.1-chat-latest: end of life 2026-07-23 → replacement: gpt-5.6-sol [last confirmed on the provider's page 2026-08-23] — https://chorddote.github.io/modelwire-site/ja/models/openai-gpt-5.1-chat-latest.html
-- openai/gpt-5-codex: end of life 2026-07-23 → replacement: gpt-5.6-sol [last confirmed on the provider's page 2026-08-23] — https://chorddote.github.io/modelwire-site/ja/models/openai-gpt-5-codex.html
-- openai/gpt-5-chat-latest: end of life 2026-07-23 → replacement: gpt-5.6-sol [last confirmed on the provider's page 2026-08-23] — https://chorddote.github.io/modelwire-site/ja/models/openai-gpt-5-chat-latest.html
-- openai/gpt-4o-search-preview-2025-03-11: end of life 2026-07-23 → replacement: gpt-5.6-terra [last confirmed on the provider's page 2026-08-23] — https://chorddote.github.io/modelwire-site/ja/models/openai-gpt-4o-search-preview-2025-03-11.html
-- openai/gpt-4o-mini-search-preview-2025-03-11: end of life 2026-07-23 → replacement: gpt-5.6-terra [last confirmed on the provider's page 2026-08-23] — https://chorddote.github.io/modelwire-site/ja/models/openai-gpt-4o-mini-search-preview-2025-03-11.html
-- openai/computer-use-preview-2025-03-11: end of life 2026-07-23 → replacement: computer-use-preview [last confirmed on the provider's page 2026-08-23] — https://chorddote.github.io/modelwire-site/ja/models/openai-computer-use-preview-2025-03-11.html
-- anthropic/claude-sonnet-4-20250514: end of life 2026-06-15 [last confirmed on the provider's page 2026-08-23] — https://chorddote.github.io/modelwire-site/ja/models/anthropic-claude-sonnet-4-20250514.html
-- anthropic/claude-opus-4-20250514: end of life 2026-06-15 [last confirmed on the provider's page 2026-08-23] — https://chorddote.github.io/modelwire-site/ja/models/anthropic-claude-opus-4-20250514.html
-- x-ai/grok-imagine-image-pro: end of life 2026-05-15 → replacement: grok-imagine-image-quality [last confirmed on the provider's page 2026-08-23] — https://chorddote.github.io/modelwire-site/ja/models/x-ai-grok-imagine-image-pro.html
+- openai/gpt-5.3-chat-latest: end of life 2026-08-10 → replacement: gpt-5.6-sol [last confirmed on the provider's page 2026-08-24] — https://chorddote.github.io/modelwire-site/ja/models/openai-gpt-5.3-chat-latest.html
+- openai/gpt-5.2-chat-latest: end of life 2026-08-10 → replacement: gpt-5.6-sol [last confirmed on the provider's page 2026-08-24] — https://chorddote.github.io/modelwire-site/ja/models/openai-gpt-5.2-chat-latest.html
+- anthropic/claude-opus-4-1-20250805: end of life 2026-08-05 [last confirmed on the provider's page 2026-08-24] — https://chorddote.github.io/modelwire-site/ja/models/anthropic-claude-opus-4-1-20250805.html
+- openai/o4-mini-deep-research-2025-06-26: end of life 2026-07-23 → replacement: o4-mini-deep-research [last confirmed on the provider's page 2026-08-24] — https://chorddote.github.io/modelwire-site/ja/models/openai-o4-mini-deep-research-2025-06-26.html
+- openai/o3-deep-research-2025-06-26: end of life 2026-07-23 → replacement: o3-deep-research [last confirmed on the provider's page 2026-08-24] — https://chorddote.github.io/modelwire-site/ja/models/openai-o3-deep-research-2025-06-26.html
+- openai/gpt-realtime-mini-2025-10-06: end of life 2026-07-23 → replacement: gpt-realtime-2.1-mini [last confirmed on the provider's page 2026-08-24] — https://chorddote.github.io/modelwire-site/ja/models/openai-gpt-realtime-mini-2025-10-06.html
+- openai/gpt-audio-mini-2025-10-06: end of life 2026-07-23 → replacement: gpt-audio-1.5 [last confirmed on the provider's page 2026-08-24] — https://chorddote.github.io/modelwire-site/ja/models/openai-gpt-audio-mini-2025-10-06.html
+- openai/gpt-5.2-codex: end of life 2026-07-23 → replacement: gpt-5.6-sol [last confirmed on the provider's page 2026-08-24] — https://chorddote.github.io/modelwire-site/ja/models/openai-gpt-5.2-codex.html
+- openai/gpt-5.1-codex-mini: end of life 2026-07-23 → replacement: gpt-5.6-terra [last confirmed on the provider's page 2026-08-24] — https://chorddote.github.io/modelwire-site/ja/models/openai-gpt-5.1-codex-mini.html
+- openai/gpt-5.1-codex-max: end of life 2026-07-23 → replacement: gpt-5.6-sol [last confirmed on the provider's page 2026-08-24] — https://chorddote.github.io/modelwire-site/ja/models/openai-gpt-5.1-codex-max.html
+- openai/gpt-5.1-codex: end of life 2026-07-23 → replacement: gpt-5.6-sol [last confirmed on the provider's page 2026-08-24] — https://chorddote.github.io/modelwire-site/ja/models/openai-gpt-5.1-codex.html
+- openai/gpt-5.1-chat-latest: end of life 2026-07-23 → replacement: gpt-5.6-sol [last confirmed on the provider's page 2026-08-24] — https://chorddote.github.io/modelwire-site/ja/models/openai-gpt-5.1-chat-latest.html
+- openai/gpt-5-codex: end of life 2026-07-23 → replacement: gpt-5.6-sol [last confirmed on the provider's page 2026-08-24] — https://chorddote.github.io/modelwire-site/ja/models/openai-gpt-5-codex.html
+- openai/gpt-5-chat-latest: end of life 2026-07-23 → replacement: gpt-5.6-sol [last confirmed on the provider's page 2026-08-24] — https://chorddote.github.io/modelwire-site/ja/models/openai-gpt-5-chat-latest.html
+- openai/gpt-4o-search-preview-2025-03-11: end of life 2026-07-23 → replacement: gpt-5.6-terra [last confirmed on the provider's page 2026-08-24] — https://chorddote.github.io/modelwire-site/ja/models/openai-gpt-4o-search-preview-2025-03-11.html
+- openai/gpt-4o-mini-search-preview-2025-03-11: end of life 2026-07-23 → replacement: gpt-5.6-terra [last confirmed on the provider's page 2026-08-24] — https://chorddote.github.io/modelwire-site/ja/models/openai-gpt-4o-mini-search-preview-2025-03-11.html
+- openai/computer-use-preview-2025-03-11: end of life 2026-07-23 → replacement: computer-use-preview [last confirmed on the provider's page 2026-08-24] — https://chorddote.github.io/modelwire-site/ja/models/openai-computer-use-preview-2025-03-11.html
+- anthropic/claude-sonnet-4-20250514: end of life 2026-06-15 [last confirmed on the provider's page 2026-08-24] — https://chorddote.github.io/modelwire-site/ja/models/anthropic-claude-sonnet-4-20250514.html
+- anthropic/claude-opus-4-20250514: end of life 2026-06-15 [last confirmed on the provider's page 2026-08-24] — https://chorddote.github.io/modelwire-site/ja/models/anthropic-claude-opus-4-20250514.html
+- x-ai/grok-imagine-image-pro: end of life 2026-05-15 → replacement: grok-imagine-image-quality [last confirmed on the provider's page 2026-08-24] — https://chorddote.github.io/modelwire-site/ja/models/x-ai-grok-imagine-image-pro.html
 
 ## What this site can answer
 
@@ -136,6 +136,7 @@ Index of all providers: https://chorddote.github.io/modelwire-site/providers/ind
 One fixed page per ISO week, listing what changed in that week. Past weeks do not change
 after the fact.
 
+- 2026-W35 (2026-08-24 to 2026-08-24): https://chorddote.github.io/modelwire-site/changes/2026-W35/
 - 2026-W34 (2026-08-17 to 2026-08-23): https://chorddote.github.io/modelwire-site/changes/2026-W34/
 - 2026-W33 (2026-08-10 to 2026-08-16): https://chorddote.github.io/modelwire-site/changes/2026-W33/
 - 2026-W32 (2026-08-09 to 2026-08-09): https://chorddote.github.io/modelwire-site/changes/2026-W32/
@@ -145,9 +146,9 @@ Index of all weeks: https://chorddote.github.io/modelwire-site/changes/
 ## Facts
 
 - Tracking started: 2026-08-09
-- Days of coverage: 15
+- Days of coverage: 16
 - Models tracked: 422
-- Change events recorded: 747
+- Change events recorded: 779
 - End-of-life records tracked: 158
 - Collection frequency: twice daily
 - Price and catalog source: OpenRouter public API (https://openrouter.ai/api/v1/models)
