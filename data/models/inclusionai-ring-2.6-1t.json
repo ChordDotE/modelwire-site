@@ -1,7 +1,7 @@
 {
   "model_id": "inclusionai/ring-2.6-1t",
   "provider": "inclusionai",
-  "in_current_catalog": true,
+  "in_current_catalog": false,
   "record_type": "catalog",
   "price_input_usd_per_1m_tokens": 0.075,
   "price_output_usd_per_1m_tokens": 0.625,
