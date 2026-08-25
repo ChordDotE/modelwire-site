@@ -1,0 +1,29 @@
+{
+  "model_id": "minimax/minimax-m2.7:free",
+  "provider": "minimax",
+  "in_current_catalog": true,
+  "record_type": "catalog",
+  "price_input_usd_per_1m_tokens": 0.0,
+  "price_output_usd_per_1m_tokens": 0.0,
+  "context_window": 196608,
+  "max_output": null,
+  "modalities": [
+    "text"
+  ],
+  "status": "available",
+  "retirement_date": null,
+  "retirement_date_qualifier": null,
+  "retirement_announced_without_date": false,
+  "retirement_date_is_committed": false,
+  "replacement_as_published": null,
+  "replacement_page": null,
+  "observations_recorded": 1,
+  "first_recorded": "2026-08-25",
+  "last_changed": "2026-08-25",
+  "page": "https://chorddote.github.io/modelwire-site/models/minimax-minimax-m2.7-free.html",
+  "page_ja": "https://chorddote.github.io/modelwire-site/ja/models/minimax-minimax-m2.7-free.html",
+  "provider_page": "https://chorddote.github.io/modelwire-site/providers/minimax.html",
+  "primary_source": "https://openrouter.ai/api/v1/models",
+  "price_unit": "USD per 1,000,000 tokens",
+  "disclaimer": "Unofficial. Not affiliated with any listed provider. The absence of a retirement date means no notice was recorded, not that the model will keep running."
+}
