@@ -91,7 +91,7 @@ is the direct answer.
 
 ## One model, as JSON
 
-Each of the 574 model pages has a machine-readable record at the same slug:
+Each of the 576 model pages has a machine-readable record at the same slug:
 
     https://chorddote.github.io/modelwire-site/data/models/<slug>.json
 
@@ -108,11 +108,11 @@ One page per provider, listing every model we hold a record for — including mo
 have left the catalog:
 
 - openai (216 records): https://chorddote.github.io/modelwire-site/providers/openai.html
-- qwen (51 records): https://chorddote.github.io/modelwire-site/providers/qwen.html
+- qwen (52 records): https://chorddote.github.io/modelwire-site/providers/qwen.html
 - anthropic (41 records): https://chorddote.github.io/modelwire-site/providers/anthropic.html
 - google (41 records): https://chorddote.github.io/modelwire-site/providers/google.html
 - mistralai (20 records): https://chorddote.github.io/modelwire-site/providers/mistralai.html
-- z-ai (15 records): https://chorddote.github.io/modelwire-site/providers/z-ai.html
+- z-ai (16 records): https://chorddote.github.io/modelwire-site/providers/z-ai.html
 - deepseek (14 records): https://chorddote.github.io/modelwire-site/providers/deepseek.html
 - x-ai (14 records): https://chorddote.github.io/modelwire-site/providers/x-ai.html
 - nvidia (13 records): https://chorddote.github.io/modelwire-site/providers/nvidia.html
@@ -147,8 +147,8 @@ Index of all weeks: https://chorddote.github.io/modelwire-site/changes/
 
 - Tracking started: 2026-08-09
 - Days of coverage: 18
-- Models tracked: 417
-- Change events recorded: 1008
+- Models tracked: 419
+- Change events recorded: 1021
 - End-of-life records tracked: 158
 - Collection frequency: twice daily
 - Price and catalog source: OpenRouter public API (https://openrouter.ai/api/v1/models)
