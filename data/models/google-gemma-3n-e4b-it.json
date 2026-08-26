@@ -1,7 +1,7 @@
 {
   "model_id": "google/gemma-3n-e4b-it",
   "provider": "google",
-  "in_current_catalog": true,
+  "in_current_catalog": false,
   "record_type": "catalog",
   "price_input_usd_per_1m_tokens": 0.06,
   "price_output_usd_per_1m_tokens": 0.12,

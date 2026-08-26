@@ -1,7 +1,7 @@
 {
   "model_id": "qwen/qwen-plus-2025-07-28:thinking",
   "provider": "qwen",
-  "in_current_catalog": true,
+  "in_current_catalog": false,
   "record_type": "catalog",
   "price_input_usd_per_1m_tokens": 0.26,
   "price_output_usd_per_1m_tokens": 0.78,
