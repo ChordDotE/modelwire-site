@@ -1,7 +1,7 @@
 {
-  "as_of": "2026-08-27T10:00:54+00:00",
+  "as_of": "2026-08-27T22:00:23+00:00",
   "badge_url_template": "https://chorddote.github.io/modelwire-site/badge/{slug}.svg",
-  "count": 576,
+  "count": 577,
   "badges": [
     {
       "slug": "ai21-jamba-large-1.7",
@@ -994,6 +994,13 @@
       "slug": "inclusionai-ling-3.0-flash",
       "provider": "inclusionai",
       "model_id": "inclusionai/ling-3.0-flash",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "inclusionai-ling-3.0-flash-fin-free",
+      "provider": "inclusionai",
+      "model_id": "inclusionai/ling-3.0-flash-fin:free",
       "state": "not_announced",
       "message": "none announced"
     },

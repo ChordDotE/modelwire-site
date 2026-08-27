@@ -68,8 +68,8 @@
 <url><loc>https://chorddote.github.io/modelwire-site/models/deepseek-deepseek-v3.1-terminus.html</loc><lastmod>2026-08-20</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/models/deepseek-deepseek-v3.2.html</loc><lastmod>2026-08-25</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/models/deepseek-deepseek-v3.2-exp.html</loc><lastmod>2026-08-09</lastmod></url>
-<url><loc>https://chorddote.github.io/modelwire-site/models/deepseek-deepseek-v4-flash.html</loc><lastmod>2026-08-26</lastmod></url>
-<url><loc>https://chorddote.github.io/modelwire-site/models/deepseek-deepseek-v4-flash-0731.html</loc><lastmod>2026-08-26</lastmod></url>
+<url><loc>https://chorddote.github.io/modelwire-site/models/deepseek-deepseek-v4-flash.html</loc><lastmod>2026-08-27</lastmod></url>
+<url><loc>https://chorddote.github.io/modelwire-site/models/deepseek-deepseek-v4-flash-0731.html</loc><lastmod>2026-08-27</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/models/deepseek-deepseek-v4-flash-vision-exp.html</loc><lastmod>2026-08-27</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/models/deepseek-deepseek-v4-pro.html</loc><lastmod>2026-08-26</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/models/deepseek-deepseek-v4-pro-0813.html</loc><lastmod>2026-08-25</lastmod></url>
@@ -122,6 +122,7 @@
 <url><loc>https://chorddote.github.io/modelwire-site/models/inclusionai-ling-2.6-1t.html</loc><lastmod>2026-08-19</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/models/inclusionai-ling-2.6-flash.html</loc><lastmod>2026-08-19</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/models/inclusionai-ling-3.0-flash.html</loc><lastmod>2026-08-09</lastmod></url>
+<url><loc>https://chorddote.github.io/modelwire-site/models/inclusionai-ling-3.0-flash-fin-free.html</loc><lastmod>2026-08-27</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/models/inclusionai-ling-3.0-tiny-free.html</loc><lastmod>2026-08-12</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/models/inclusionai-ring-2.6-1t.html</loc><lastmod>2026-08-19</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/models/kwaipilot-kat-coder-air-v2.5.html</loc><lastmod>2026-08-09</lastmod></url>
@@ -355,7 +356,7 @@
 <url><loc>https://chorddote.github.io/modelwire-site/models/qwen-qwen3.5-flash-02-23.html</loc><lastmod>2026-08-09</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/models/qwen-qwen3.5-plus-02-15.html</loc><lastmod>2026-08-09</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/models/qwen-qwen3.5-plus-20260420.html</loc><lastmod>2026-08-09</lastmod></url>
-<url><loc>https://chorddote.github.io/modelwire-site/models/qwen-qwen3.6-27b.html</loc><lastmod>2026-08-26</lastmod></url>
+<url><loc>https://chorddote.github.io/modelwire-site/models/qwen-qwen3.6-27b.html</loc><lastmod>2026-08-27</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/models/qwen-qwen3.6-35b-a3b.html</loc><lastmod>2026-08-27</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/models/qwen-qwen3.6-flash.html</loc><lastmod>2026-08-09</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/models/qwen-qwen3.6-max-preview.html</loc><lastmod>2026-08-09</lastmod></url>
@@ -598,7 +599,7 @@
 <url><loc>https://chorddote.github.io/modelwire-site/providers/gryphe.html</loc><lastmod>2026-08-25</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/providers/ibm-granite.html</loc><lastmod>2026-08-25</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/providers/inception.html</loc><lastmod>2026-08-09</lastmod></url>
-<url><loc>https://chorddote.github.io/modelwire-site/providers/inclusionai.html</loc><lastmod>2026-08-19</lastmod></url>
+<url><loc>https://chorddote.github.io/modelwire-site/providers/inclusionai.html</loc><lastmod>2026-08-27</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/providers/kwaipilot.html</loc><lastmod>2026-08-09</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/providers/liquid.html</loc><lastmod>2026-08-21</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/providers/mancer.html</loc><lastmod>2026-08-09</lastmod></url>
@@ -715,8 +716,8 @@
 <url><loc>https://chorddote.github.io/modelwire-site/ja/models/deepseek-deepseek-v3.1-terminus.html</loc><lastmod>2026-08-20</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/ja/models/deepseek-deepseek-v3.2.html</loc><lastmod>2026-08-25</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/ja/models/deepseek-deepseek-v3.2-exp.html</loc><lastmod>2026-08-09</lastmod></url>
-<url><loc>https://chorddote.github.io/modelwire-site/ja/models/deepseek-deepseek-v4-flash.html</loc><lastmod>2026-08-26</lastmod></url>
-<url><loc>https://chorddote.github.io/modelwire-site/ja/models/deepseek-deepseek-v4-flash-0731.html</loc><lastmod>2026-08-26</lastmod></url>
+<url><loc>https://chorddote.github.io/modelwire-site/ja/models/deepseek-deepseek-v4-flash.html</loc><lastmod>2026-08-27</lastmod></url>
+<url><loc>https://chorddote.github.io/modelwire-site/ja/models/deepseek-deepseek-v4-flash-0731.html</loc><lastmod>2026-08-27</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/ja/models/deepseek-deepseek-v4-flash-vision-exp.html</loc><lastmod>2026-08-27</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/ja/models/deepseek-deepseek-v4-pro.html</loc><lastmod>2026-08-26</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/ja/models/deepseek-deepseek-v4-pro-0813.html</loc><lastmod>2026-08-25</lastmod></url>
@@ -769,6 +770,7 @@
 <url><loc>https://chorddote.github.io/modelwire-site/ja/models/inclusionai-ling-2.6-1t.html</loc><lastmod>2026-08-19</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/ja/models/inclusionai-ling-2.6-flash.html</loc><lastmod>2026-08-19</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/ja/models/inclusionai-ling-3.0-flash.html</loc><lastmod>2026-08-09</lastmod></url>
+<url><loc>https://chorddote.github.io/modelwire-site/ja/models/inclusionai-ling-3.0-flash-fin-free.html</loc><lastmod>2026-08-27</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/ja/models/inclusionai-ling-3.0-tiny-free.html</loc><lastmod>2026-08-12</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/ja/models/inclusionai-ring-2.6-1t.html</loc><lastmod>2026-08-19</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/ja/models/kwaipilot-kat-coder-air-v2.5.html</loc><lastmod>2026-08-09</lastmod></url>
@@ -1002,7 +1004,7 @@
 <url><loc>https://chorddote.github.io/modelwire-site/ja/models/qwen-qwen3.5-flash-02-23.html</loc><lastmod>2026-08-09</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/ja/models/qwen-qwen3.5-plus-02-15.html</loc><lastmod>2026-08-09</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/ja/models/qwen-qwen3.5-plus-20260420.html</loc><lastmod>2026-08-09</lastmod></url>
-<url><loc>https://chorddote.github.io/modelwire-site/ja/models/qwen-qwen3.6-27b.html</loc><lastmod>2026-08-26</lastmod></url>
+<url><loc>https://chorddote.github.io/modelwire-site/ja/models/qwen-qwen3.6-27b.html</loc><lastmod>2026-08-27</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/ja/models/qwen-qwen3.6-35b-a3b.html</loc><lastmod>2026-08-27</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/ja/models/qwen-qwen3.6-flash.html</loc><lastmod>2026-08-09</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/ja/models/qwen-qwen3.6-max-preview.html</loc><lastmod>2026-08-09</lastmod></url>
@@ -1245,7 +1247,7 @@
 <url><loc>https://chorddote.github.io/modelwire-site/ja/providers/gryphe.html</loc><lastmod>2026-08-25</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/ja/providers/ibm-granite.html</loc><lastmod>2026-08-25</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/ja/providers/inception.html</loc><lastmod>2026-08-09</lastmod></url>
-<url><loc>https://chorddote.github.io/modelwire-site/ja/providers/inclusionai.html</loc><lastmod>2026-08-19</lastmod></url>
+<url><loc>https://chorddote.github.io/modelwire-site/ja/providers/inclusionai.html</loc><lastmod>2026-08-27</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/ja/providers/kwaipilot.html</loc><lastmod>2026-08-09</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/ja/providers/liquid.html</loc><lastmod>2026-08-21</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/ja/providers/mancer.html</loc><lastmod>2026-08-09</lastmod></url>
