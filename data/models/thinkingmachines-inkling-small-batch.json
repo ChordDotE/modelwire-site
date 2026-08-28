@@ -1,0 +1,31 @@
+{
+  "model_id": "thinkingmachines/inkling-small:batch",
+  "provider": "thinkingmachines",
+  "in_current_catalog": true,
+  "record_type": "catalog",
+  "price_input_usd_per_1m_tokens": 0.5,
+  "price_output_usd_per_1m_tokens": 1.2,
+  "context_window": 524288,
+  "max_output": 471859,
+  "modalities": [
+    "audio",
+    "image",
+    "text"
+  ],
+  "status": "available",
+  "retirement_date": null,
+  "retirement_date_qualifier": null,
+  "retirement_announced_without_date": false,
+  "retirement_date_is_committed": false,
+  "replacement_as_published": null,
+  "replacement_page": null,
+  "observations_recorded": 1,
+  "first_recorded": "2026-08-28",
+  "last_changed": "2026-08-28",
+  "page": "https://chorddote.github.io/modelwire-site/models/thinkingmachines-inkling-small-batch.html",
+  "page_ja": "https://chorddote.github.io/modelwire-site/ja/models/thinkingmachines-inkling-small-batch.html",
+  "provider_page": "https://chorddote.github.io/modelwire-site/providers/thinkingmachines.html",
+  "primary_source": "https://openrouter.ai/api/v1/models",
+  "price_unit": "USD per 1,000,000 tokens",
+  "disclaimer": "Unofficial. Not affiliated with any listed provider. The absence of a retirement date means no notice was recorded, not that the model will keep running."
+}

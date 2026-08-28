@@ -1,7 +1,7 @@
 {
   "model_id": "openai/gpt-5.4:batch",
   "provider": "openai",
-  "in_current_catalog": true,
+  "in_current_catalog": false,
   "record_type": "catalog",
   "price_input_usd_per_1m_tokens": 1.25,
   "price_output_usd_per_1m_tokens": 7.5,

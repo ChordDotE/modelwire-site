@@ -1,7 +1,7 @@
 {
   "model_id": "openai/o1-pro:batch",
   "provider": "openai",
-  "in_current_catalog": true,
+  "in_current_catalog": false,
   "record_type": "catalog",
   "price_input_usd_per_1m_tokens": 75.0,
   "price_output_usd_per_1m_tokens": 300.0,
