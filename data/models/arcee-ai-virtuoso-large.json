@@ -1,7 +1,7 @@
 {
   "model_id": "arcee-ai/virtuoso-large",
   "provider": "arcee-ai",
-  "in_current_catalog": true,
+  "in_current_catalog": false,
   "record_type": "catalog",
   "price_input_usd_per_1m_tokens": 0.75,
   "price_output_usd_per_1m_tokens": 1.2,

@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-29T10:00:23+00:00",
+  "as_of": "2026-08-29T22:00:25+00:00",
   "badge_url_template": "https://chorddote.github.io/modelwire-site/badge/{slug}.svg",
   "count": 595,
   "badges": [
@@ -42,8 +42,8 @@
       "slug": "allenai-olmo-3-32b-think",
       "provider": "allenai",
       "model_id": "allenai/olmo-3-32b-think",
-      "state": "not_announced",
-      "message": "none announced"
+      "state": "removed",
+      "message": "removed from catalog"
     },
     {
       "slug": "amazon-nova-2-lite-v1",
@@ -413,8 +413,8 @@
       "slug": "arcee-ai-virtuoso-large",
       "provider": "arcee-ai",
       "model_id": "arcee-ai/virtuoso-large",
-      "state": "not_announced",
-      "message": "none announced"
+      "state": "removed",
+      "message": "removed from catalog"
     },
     {
       "slug": "baidu-ernie-4.5-vl-424b-a47b",
