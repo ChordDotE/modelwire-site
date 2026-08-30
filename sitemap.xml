@@ -162,7 +162,7 @@
 <url><loc>https://chorddote.github.io/modelwire-site/models/minimax-minimax-m3-free.html</loc><lastmod>2026-08-25</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/models/mistralai-codestral-2508.html</loc><lastmod>2026-08-25</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/models/mistralai-codestral-2508-batch.html</loc><lastmod>2026-08-28</lastmod></url>
-<url><loc>https://chorddote.github.io/modelwire-site/models/mistralai-devstral-2512.html</loc><lastmod>2026-08-25</lastmod></url>
+<url><loc>https://chorddote.github.io/modelwire-site/models/mistralai-devstral-2512.html</loc><lastmod>2026-08-30</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/models/mistralai-ministral-14b-2512.html</loc><lastmod>2026-08-25</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/models/mistralai-ministral-3b-2512.html</loc><lastmod>2026-08-25</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/models/mistralai-ministral-8b.html</loc><lastmod>2026-08-25</lastmod></url>
@@ -228,7 +228,7 @@
 <url><loc>https://chorddote.github.io/modelwire-site/models/openai-gpt-4.1.html</loc><lastmod>2026-08-09</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/models/openai-gpt-4.1-mini.html</loc><lastmod>2026-08-09</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/models/openai-gpt-4.1-mini-batch.html</loc><lastmod>2026-08-09</lastmod></url>
-<url><loc>https://chorddote.github.io/modelwire-site/models/openai-gpt-4.1-nano.html</loc><lastmod>2026-08-28</lastmod></url>
+<url><loc>https://chorddote.github.io/modelwire-site/models/openai-gpt-4.1-nano.html</loc><lastmod>2026-08-30</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/models/openai-gpt-4.1-nano-batch.html</loc><lastmod>2026-08-09</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/models/openai-gpt-4.1-batch.html</loc><lastmod>2026-08-09</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/models/openai-gpt-4o.html</loc><lastmod>2026-08-09</lastmod></url>
@@ -626,7 +626,7 @@
 <url><loc>https://chorddote.github.io/modelwire-site/providers/meta-llama.html</loc><lastmod>2026-08-26</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/providers/microsoft.html</loc><lastmod>2026-08-25</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/providers/minimax.html</loc><lastmod>2026-08-25</lastmod></url>
-<url><loc>https://chorddote.github.io/modelwire-site/providers/mistralai.html</loc><lastmod>2026-08-28</lastmod></url>
+<url><loc>https://chorddote.github.io/modelwire-site/providers/mistralai.html</loc><lastmod>2026-08-30</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/providers/moonshotai.html</loc><lastmod>2026-08-29</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/providers/morph.html</loc><lastmod>2026-08-09</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/providers/nex-agi.html</loc><lastmod>2026-08-25</lastmod></url>
@@ -828,7 +828,7 @@
 <url><loc>https://chorddote.github.io/modelwire-site/ja/models/minimax-minimax-m3-free.html</loc><lastmod>2026-08-25</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/ja/models/mistralai-codestral-2508.html</loc><lastmod>2026-08-25</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/ja/models/mistralai-codestral-2508-batch.html</loc><lastmod>2026-08-28</lastmod></url>
-<url><loc>https://chorddote.github.io/modelwire-site/ja/models/mistralai-devstral-2512.html</loc><lastmod>2026-08-25</lastmod></url>
+<url><loc>https://chorddote.github.io/modelwire-site/ja/models/mistralai-devstral-2512.html</loc><lastmod>2026-08-30</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/ja/models/mistralai-ministral-14b-2512.html</loc><lastmod>2026-08-25</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/ja/models/mistralai-ministral-3b-2512.html</loc><lastmod>2026-08-25</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/ja/models/mistralai-ministral-8b.html</loc><lastmod>2026-08-25</lastmod></url>
@@ -894,7 +894,7 @@
 <url><loc>https://chorddote.github.io/modelwire-site/ja/models/openai-gpt-4.1.html</loc><lastmod>2026-08-09</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/ja/models/openai-gpt-4.1-mini.html</loc><lastmod>2026-08-09</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/ja/models/openai-gpt-4.1-mini-batch.html</loc><lastmod>2026-08-09</lastmod></url>
-<url><loc>https://chorddote.github.io/modelwire-site/ja/models/openai-gpt-4.1-nano.html</loc><lastmod>2026-08-28</lastmod></url>
+<url><loc>https://chorddote.github.io/modelwire-site/ja/models/openai-gpt-4.1-nano.html</loc><lastmod>2026-08-30</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/ja/models/openai-gpt-4.1-nano-batch.html</loc><lastmod>2026-08-09</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/ja/models/openai-gpt-4.1-batch.html</loc><lastmod>2026-08-09</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/ja/models/openai-gpt-4o.html</loc><lastmod>2026-08-09</lastmod></url>
@@ -1292,7 +1292,7 @@
 <url><loc>https://chorddote.github.io/modelwire-site/ja/providers/meta-llama.html</loc><lastmod>2026-08-26</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/ja/providers/microsoft.html</loc><lastmod>2026-08-25</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/ja/providers/minimax.html</loc><lastmod>2026-08-25</lastmod></url>
-<url><loc>https://chorddote.github.io/modelwire-site/ja/providers/mistralai.html</loc><lastmod>2026-08-28</lastmod></url>
+<url><loc>https://chorddote.github.io/modelwire-site/ja/providers/mistralai.html</loc><lastmod>2026-08-30</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/ja/providers/moonshotai.html</loc><lastmod>2026-08-29</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/ja/providers/morph.html</loc><lastmod>2026-08-09</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/ja/providers/nex-agi.html</loc><lastmod>2026-08-25</lastmod></url>
