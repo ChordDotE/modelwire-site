@@ -1,7 +1,7 @@
 {
   "model_id": "openai/gpt-4.1-mini:batch",
   "provider": "openai",
-  "in_current_catalog": false,
+  "in_current_catalog": true,
   "record_type": "catalog",
   "price_input_usd_per_1m_tokens": 0.2,
   "price_output_usd_per_1m_tokens": 0.8,

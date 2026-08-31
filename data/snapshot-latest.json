@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-31T10:02:14+00:00",
+  "as_of": "2026-08-31T22:00:46+00:00",
   "tracking_since": "2026-08-09T05:11:07+00:00",
   "coverage_days": 23,
   "source": "https://openrouter.ai/api/v1/models",
@@ -1534,14 +1534,14 @@
       "live": true
     },
     {
-      "obs_id": 1345,
+      "obs_id": 1356,
       "source": "openrouter",
       "provider": "deepseek",
       "model_id": "deepseek/deepseek-v4-flash",
-      "observed_at": "2026-08-31T10:00:24+00:00",
-      "price_in": 0.088606,
-      "price_out": 0.177212,
-      "price_cache_read": 0.017721,
+      "observed_at": "2026-08-31T22:00:23+00:00",
+      "price_in": 0.08092,
+      "price_out": 0.16184,
+      "price_cache_read": 0.016184,
       "price_cache_write": null,
       "context_window": 1048576,
       "max_output": 384000,
@@ -1550,7 +1550,7 @@
       ],
       "status": "available",
       "source_url": "https://openrouter.ai/api/v1/models",
-      "content_hash": "b448331eaaca62d295b6dce34294ad8b289234247177051ab309debe26d6a26d",
+      "content_hash": "f8df14bd202fa7c14730dd9e6c5eab744db6bbf8f738faea1849748ad5d54a55",
       "expiration_date": null,
       "knowledge_cutoff": null,
       "live": true
@@ -1600,14 +1600,14 @@
       "live": true
     },
     {
-      "obs_id": 1340,
+      "obs_id": 1349,
       "source": "openrouter",
       "provider": "deepseek",
       "model_id": "deepseek/deepseek-v4-flash-vision-exp",
-      "observed_at": "2026-08-31T10:00:05+00:00",
-      "price_in": 0.44,
-      "price_out": 1.32,
-      "price_cache_read": 0.014,
+      "observed_at": "2026-08-31T22:00:05+00:00",
+      "price_in": 0.22,
+      "price_out": 0.66,
+      "price_cache_read": 0.007,
       "price_cache_write": null,
       "context_window": 1048576,
       "max_output": 384000,
@@ -1617,42 +1617,20 @@
       ],
       "status": "available",
       "source_url": "https://openrouter.ai/api/v1/models",
-      "content_hash": "49793516179eb07e24011d40dd851e5905b4118dc121f386e03a609c3656f84e",
+      "content_hash": "dad7f071bec4767a2a5f5f60fd2a257a1eb359f3085fa54b2f8b38f6bff71c72",
       "expiration_date": null,
       "knowledge_cutoff": null,
       "live": true
     },
     {
-      "obs_id": 1344,
+      "obs_id": 1355,
       "source": "openrouter",
       "provider": "deepseek",
       "model_id": "deepseek/deepseek-v4-pro",
-      "observed_at": "2026-08-31T10:00:24+00:00",
-      "price_in": 1.6,
-      "price_out": 3.2,
-      "price_cache_read": 0.135,
-      "price_cache_write": null,
-      "context_window": 1048576,
-      "max_output": 393216,
-      "modalities": [
-        "text"
-      ],
-      "status": "available",
-      "source_url": "https://openrouter.ai/api/v1/models",
-      "content_hash": "7ef04fc6dbf28c2cc82f5b6f568def2bec66e0ce85c08a34918118739c6bd2c8",
-      "expiration_date": null,
-      "knowledge_cutoff": null,
-      "live": true
-    },
-    {
-      "obs_id": 1341,
-      "source": "openrouter",
-      "provider": "deepseek",
-      "model_id": "deepseek/deepseek-v4-pro-0813",
-      "observed_at": "2026-08-31T10:00:07+00:00",
-      "price_in": 1.32,
-      "price_out": 3.96,
-      "price_cache_read": 0.044,
+      "observed_at": "2026-08-31T22:00:23+00:00",
+      "price_in": 1.02747,
+      "price_out": 2.05494,
+      "price_cache_read": 0.085623,
       "price_cache_write": null,
       "context_window": 1048576,
       "max_output": 384000,
@@ -1661,7 +1639,29 @@
       ],
       "status": "available",
       "source_url": "https://openrouter.ai/api/v1/models",
-      "content_hash": "9c97cffc78c2e077839f452af13722685abf32476ca4e525df3f52fa5a48b36d",
+      "content_hash": "f7c847242b0fdce8263c40a63984b0e62f7aa2c9a5b8f3df5958dfe149b805b6",
+      "expiration_date": null,
+      "knowledge_cutoff": null,
+      "live": true
+    },
+    {
+      "obs_id": 1351,
+      "source": "openrouter",
+      "provider": "deepseek",
+      "model_id": "deepseek/deepseek-v4-pro-0813",
+      "observed_at": "2026-08-31T22:00:07+00:00",
+      "price_in": 0.66,
+      "price_out": 1.98,
+      "price_cache_read": 0.022,
+      "price_cache_write": null,
+      "context_window": 1048576,
+      "max_output": 384000,
+      "modalities": [
+        "text"
+      ],
+      "status": "available",
+      "source_url": "https://openrouter.ai/api/v1/models",
+      "content_hash": "d1317534e347abdc0c7ce1e047b682511b4fb116ae703bf4bc2cb27ec1f67d15",
       "expiration_date": null,
       "knowledge_cutoff": null,
       "live": true
@@ -2818,6 +2818,28 @@
       "live": true
     },
     {
+      "obs_id": 1348,
+      "source": "openrouter",
+      "provider": "ibm-granite",
+      "model_id": "ibm-granite/granite-4.2-8b",
+      "observed_at": "2026-08-31T22:00:03+00:00",
+      "price_in": 0.1,
+      "price_out": 0.15,
+      "price_cache_read": 0.05,
+      "price_cache_write": null,
+      "context_window": 131072,
+      "max_output": 117964,
+      "modalities": [
+        "text"
+      ],
+      "status": "available",
+      "source_url": "https://openrouter.ai/api/v1/models",
+      "content_hash": "10342023fa57dab521747b64f833da687ec931c482dc09869ffb15175b26613b",
+      "expiration_date": null,
+      "knowledge_cutoff": null,
+      "live": true
+    },
+    {
       "obs_id": 547,
       "source": "openrouter",
       "provider": "inception",
@@ -2994,45 +3016,45 @@
       "live": true
     },
     {
-      "obs_id": 530,
+      "obs_id": 1357,
       "source": "openrouter",
       "provider": "kwaipilot",
       "model_id": "kwaipilot/kat-coder-pro-v2",
-      "observed_at": "2026-08-09T14:38:48+00:00",
+      "observed_at": "2026-08-31T22:00:26+00:00",
       "price_in": 0.3,
       "price_out": 1.2,
       "price_cache_read": 0.06,
       "price_cache_write": null,
       "context_window": 262144,
-      "max_output": 80000,
+      "max_output": 144000,
       "modalities": [
         "text"
       ],
       "status": "available",
       "source_url": "https://openrouter.ai/api/v1/models",
-      "content_hash": "8484b145b5844ed53012dda7324cd238d5bfcd399da8b5634bdcfbc1d9cb6527",
+      "content_hash": "820e08212836cc2ffe65e31f5276e23ce0507c3846e4963d9021a0fb4f016dcf",
       "expiration_date": null,
       "knowledge_cutoff": null,
       "live": true
     },
     {
-      "obs_id": 1270,
+      "obs_id": 1353,
       "source": "openrouter",
       "provider": "kwaipilot",
       "model_id": "kwaipilot/kat-coder-pro-v2.5",
-      "observed_at": "2026-08-28T10:00:12+00:00",
+      "observed_at": "2026-08-31T22:00:12+00:00",
       "price_in": 0.74,
       "price_out": 2.96,
       "price_cache_read": 0.15,
       "price_cache_write": null,
       "context_window": 262144,
-      "max_output": 80000,
+      "max_output": 235929,
       "modalities": [
         "text"
       ],
       "status": "available",
       "source_url": "https://openrouter.ai/api/v1/models",
-      "content_hash": "aad3f4070a01f153187d5b33c96046897bf4a5101c8cf9a5efc52ff915d65846",
+      "content_hash": "d606c14b014c90fa1e4ea268d96d9041489e08d96746a8ee038e1823e8c07e50",
       "expiration_date": null,
       "knowledge_cutoff": null,
       "live": true
@@ -5086,7 +5108,7 @@
       "content_hash": "47ebbb2c273416a28e7db7945dcbd7e2bb1e41b4caeb7c7537c4f5bc3c0350dd",
       "expiration_date": null,
       "knowledge_cutoff": "2021-09-30",
-      "live": false
+      "live": true
     },
     {
       "obs_id": 1242,
@@ -5176,7 +5198,7 @@
       "content_hash": "6d11306d3c1f58fc3b193d238c9091e9842fae0efbdf7955f91455785f1a1ae2",
       "expiration_date": null,
       "knowledge_cutoff": "2023-12-31",
-      "live": false
+      "live": true
     },
     {
       "obs_id": 715,
@@ -5248,7 +5270,7 @@
       "content_hash": "0ea0c44ed84aafbf0fac2b66bd4f8608bb48f20b3fd9b83c44291397b5de560d",
       "expiration_date": null,
       "knowledge_cutoff": "2024-06-30",
-      "live": false
+      "live": true
     },
     {
       "obs_id": 1339,
@@ -5296,7 +5318,7 @@
       "content_hash": "cf906c1dc428d4732bf69abc0bf24ccacc6080bc0590d4026011de33f1c9ad08",
       "expiration_date": null,
       "knowledge_cutoff": "2024-06-30",
-      "live": false
+      "live": true
     },
     {
       "obs_id": 716,
@@ -5320,7 +5342,7 @@
       "content_hash": "cce9afacdcf5ac96b78095568da818c786d905365a8f750be9049c45a8b0663d",
       "expiration_date": null,
       "knowledge_cutoff": "2024-06-30",
-      "live": false
+      "live": true
     },
     {
       "obs_id": 783,
@@ -5488,7 +5510,7 @@
       "content_hash": "2e7b5756c6aa40669e63c32240ec1c647b35ea7aeac4ebce7d6c97761c389280",
       "expiration_date": null,
       "knowledge_cutoff": "2023-10-31",
-      "live": false
+      "live": true
     },
     {
       "obs_id": 785,
@@ -5512,7 +5534,7 @@
       "content_hash": "77e975d93027b2bfc0422417a65fdc3973dae5292f57861c9faaffade571b61e",
       "expiration_date": null,
       "knowledge_cutoff": "2023-10-31",
-      "live": false
+      "live": true
     },
     {
       "obs_id": 659,
@@ -5655,7 +5677,7 @@
       "content_hash": "d631846d69bd41a1d4f85524d1cf036c622cac7052097c6ce0ab44f3675a201a",
       "expiration_date": null,
       "knowledge_cutoff": "2024-05-31",
-      "live": false
+      "live": true
     },
     {
       "obs_id": 663,
@@ -5703,7 +5725,7 @@
       "content_hash": "2f3925b08271fee74e44ee1e904043c1e519fd14e42f34d4f1a0bb1cd0ea3e50",
       "expiration_date": null,
       "knowledge_cutoff": "2024-05-31",
-      "live": false
+      "live": true
     },
     {
       "obs_id": 631,
@@ -5751,7 +5773,7 @@
       "content_hash": "7379eb3c7465303072c8989a4e3a3dfde578c4c8122cfc9736207a8e54e1fb75",
       "expiration_date": null,
       "knowledge_cutoff": "2024-09-30",
-      "live": false
+      "live": true
     },
     {
       "obs_id": 609,
@@ -5868,7 +5890,7 @@
       "content_hash": "7c9c65424b555ed65c31d822c2cef1455678f36afd5d36d3fafe22b6b7bd0f2c",
       "expiration_date": null,
       "knowledge_cutoff": null,
-      "live": false
+      "live": true
     },
     {
       "obs_id": 592,
@@ -5987,7 +6009,7 @@
       "content_hash": "b86fb6796e9a2ca70badc5c12e3daa33a889a3c6a03bebfa93df6d1804bd15d7",
       "expiration_date": null,
       "knowledge_cutoff": null,
-      "live": false
+      "live": true
     },
     {
       "obs_id": 593,
@@ -6011,7 +6033,7 @@
       "content_hash": "05c685c7b8634f9cab89895a5177748d68f5232dc5a9eeefcfab1f888c56a954",
       "expiration_date": null,
       "knowledge_cutoff": null,
-      "live": false
+      "live": true
     },
     {
       "obs_id": 548,
@@ -6155,7 +6177,7 @@
       "content_hash": "d69f4dc9a0f3bc29787ce13f2c94cb11a7c5fa5e2440ff711afa08adde2e50a1",
       "expiration_date": null,
       "knowledge_cutoff": "2025-08-31",
-      "live": false
+      "live": true
     },
     {
       "obs_id": 533,
@@ -6203,7 +6225,7 @@
       "content_hash": "81080311bb8ebff1d384d9ae1c6850c5dc74218c46114ae77265860b6bee8109",
       "expiration_date": null,
       "knowledge_cutoff": "2025-08-31",
-      "live": false
+      "live": true
     },
     {
       "obs_id": 543,
@@ -6251,7 +6273,7 @@
       "content_hash": "7a9e64460f247c671ee8b86380b50fb9670d05bde6c3f4a216279896240ae766",
       "expiration_date": null,
       "knowledge_cutoff": null,
-      "live": false
+      "live": true
     },
     {
       "obs_id": 546,
@@ -6275,7 +6297,7 @@
       "content_hash": "526fa02816cabf19447c0bb7d125ee47d8c95d18fe3766d061c43f8033778a85",
       "expiration_date": null,
       "knowledge_cutoff": null,
-      "live": false
+      "live": true
     },
     {
       "obs_id": 1330,
@@ -6347,7 +6369,7 @@
       "content_hash": "36d93c27da5410e6eb4c3ebc2f30fc186569064701a511848d878bb6b9837a0f",
       "expiration_date": null,
       "knowledge_cutoff": "2025-12-01",
-      "live": false
+      "live": true
     },
     {
       "obs_id": 504,
@@ -6371,7 +6393,7 @@
       "content_hash": "8626322e45732d6fd185fb01a7324b4718a5b1ba206e6f4ad65564bb6c62c061",
       "expiration_date": null,
       "knowledge_cutoff": "2025-12-01",
-      "live": false
+      "live": true
     },
     {
       "obs_id": 947,
@@ -6443,7 +6465,7 @@
       "content_hash": "b52694c1bbb2ea634e012c9d4dd4094aa939b05fc636fa1230acf17f844142f8",
       "expiration_date": null,
       "knowledge_cutoff": "2026-02-16",
-      "live": false
+      "live": true
     },
     {
       "obs_id": 431,
@@ -6467,7 +6489,7 @@
       "content_hash": "8ac9858d119d1f7fb17461f4053e51610e386d022f9aeb6a61873c76bbe14377",
       "expiration_date": null,
       "knowledge_cutoff": "2026-02-16",
-      "live": false
+      "live": true
     },
     {
       "obs_id": 1044,
@@ -6539,7 +6561,7 @@
       "content_hash": "f148098bb73afd286b2c0c74f0fdf964900fbed074ae556507acdaf49b0f8baf",
       "expiration_date": null,
       "knowledge_cutoff": "2026-02-16",
-      "live": false
+      "live": true
     },
     {
       "obs_id": 1045,
@@ -6563,7 +6585,7 @@
       "content_hash": "aad04be7f88bed93662abfb8f65689edc8f3522b2f3847d9142189dc6b3420c0",
       "expiration_date": null,
       "knowledge_cutoff": "2026-02-16",
-      "live": false
+      "live": true
     },
     {
       "obs_id": 949,
@@ -6635,7 +6657,7 @@
       "content_hash": "2ba6973d788484fc5ca5e93755876ea565c19ca3d315502103e4869f08bf98e1",
       "expiration_date": null,
       "knowledge_cutoff": "2026-02-16",
-      "live": false
+      "live": true
     },
     {
       "obs_id": 435,
@@ -6659,7 +6681,7 @@
       "content_hash": "8b73adc5de13638854f705bfc165af4fccc717bcc31f4c16bd536f32ab547057",
       "expiration_date": null,
       "knowledge_cutoff": "2026-02-16",
-      "live": false
+      "live": true
     },
     {
       "obs_id": 660,
@@ -6683,7 +6705,7 @@
       "content_hash": "06dc75cb1bdbcae4957f4fba39a098efb99d3b5fdf93f8f28ce4e40549718f14",
       "expiration_date": null,
       "knowledge_cutoff": "2024-09-30",
-      "live": false
+      "live": true
     },
     {
       "obs_id": 577,
@@ -7097,7 +7119,7 @@
       "content_hash": "1ee5e96f9c656e589e68b47ab135a670d3fadbff03764aad3bcf49b8c7488c92",
       "expiration_date": null,
       "knowledge_cutoff": "2023-10-31",
-      "live": false
+      "live": true
     },
     {
       "obs_id": 693,
@@ -7169,7 +7191,7 @@
       "content_hash": "e2ed09f19afbaab7e267e5e44c47be9badb2642d1b5df49d8ce0986d1b6d5f9b",
       "expiration_date": null,
       "knowledge_cutoff": "2024-06-30",
-      "live": false
+      "live": true
     },
     {
       "obs_id": 713,
@@ -7265,7 +7287,7 @@
       "content_hash": "960ee334155b898c1eb374d2ea9f988bd4e0069e0a66dc4612567ff0244fe441",
       "expiration_date": null,
       "knowledge_cutoff": "2024-06-30",
-      "live": false
+      "live": true
     },
     {
       "obs_id": 794,
@@ -8142,23 +8164,23 @@
       "live": true
     },
     {
-      "obs_id": 1335,
+      "obs_id": 1358,
       "source": "openrouter",
       "provider": "qwen",
       "model_id": "qwen/qwen3-next-80b-a3b-instruct",
-      "observed_at": "2026-08-30T10:00:51+00:00",
-      "price_in": 0.09,
+      "observed_at": "2026-08-31T22:00:46+00:00",
+      "price_in": 0.1,
       "price_out": 1.1,
-      "price_cache_read": null,
+      "price_cache_read": 0.07,
       "price_cache_write": null,
       "context_window": 262144,
-      "max_output": 16384,
+      "max_output": 235929,
       "modalities": [
         "text"
       ],
       "status": "available",
       "source_url": "https://openrouter.ai/api/v1/models",
-      "content_hash": "3b6149e050de9df070038a63ccca8650b50bdc1a2fc3281d0e50a2217a321399",
+      "content_hash": "65d60c073773c33cadfc6993885d27794b41830cf9971a561d273ecd8a72e0b7",
       "expiration_date": null,
       "knowledge_cutoff": "2025-09-30",
       "live": true
@@ -9227,14 +9249,14 @@
       "live": true
     },
     {
-      "obs_id": 1329,
+      "obs_id": 1354,
       "source": "openrouter",
       "provider": "tencent",
       "model_id": "tencent/hy3",
-      "observed_at": "2026-08-30T10:00:15+00:00",
-      "price_in": 0.132,
-      "price_out": 0.528,
-      "price_cache_read": 0.033,
+      "observed_at": "2026-08-31T22:00:14+00:00",
+      "price_in": 0.0825,
+      "price_out": 0.33,
+      "price_cache_read": 0.020625,
       "price_cache_write": null,
       "context_window": 262144,
       "max_output": 128000,
@@ -9243,7 +9265,7 @@
       ],
       "status": "available",
       "source_url": "https://openrouter.ai/api/v1/models",
-      "content_hash": "c5ed95b81b51212e78f60f4c7d73653d844a1f1d237405b16c59c40e45533b4b",
+      "content_hash": "3d3b69532f0a8729eb91247365596ded5acfe73a8e16839014d90d6bab538f61",
       "expiration_date": null,
       "knowledge_cutoff": null,
       "live": true
@@ -10283,12 +10305,12 @@
       "live": true
     },
     {
-      "obs_id": 1342,
+      "obs_id": 1352,
       "source": "openrouter",
       "provider": "~deepseek",
       "model_id": "~deepseek/deepseek-v4-flash-latest",
-      "observed_at": "2026-08-31T10:00:09+00:00",
-      "price_in": 0.03,
+      "observed_at": "2026-08-31T22:00:09+00:00",
+      "price_in": 0.05,
       "price_out": 0.16,
       "price_cache_read": 0.013,
       "price_cache_write": null,
@@ -10299,7 +10321,7 @@
       ],
       "status": "available",
       "source_url": "https://openrouter.ai/api/v1/models",
-      "content_hash": "4cfeff9702e6a3ebe3f3fc68e603ed87eb8e1dfcbcd54ed848308c5eb9e35287",
+      "content_hash": "984996cdbefd4c165b0207805d63859cec130ddaeb2bba5fb9b037d220b1156f",
       "expiration_date": null,
       "knowledge_cutoff": null,
       "live": true
@@ -10453,23 +10475,23 @@
       "live": true
     },
     {
-      "obs_id": 1321,
+      "obs_id": 1350,
       "source": "openrouter",
       "provider": "~z-ai",
       "model_id": "~z-ai/glm-latest",
-      "observed_at": "2026-08-29T22:00:05+00:00",
-      "price_in": 1.1875,
-      "price_out": 4.18,
-      "price_cache_read": 0.247,
+      "observed_at": "2026-08-31T22:00:05+00:00",
+      "price_in": 1.17,
+      "price_out": 3.96,
+      "price_cache_read": 0.234,
       "price_cache_write": null,
       "context_window": 1310720,
-      "max_output": 131072,
+      "max_output": 943718,
       "modalities": [
         "text"
       ],
       "status": "available",
       "source_url": "https://openrouter.ai/api/v1/models",
-      "content_hash": "eea5352f5a4cf13cac99c48b7f515fe9deb9e440fe0e01e298b27a4d88bb4728",
+      "content_hash": "8f1341e019c940e53eb9a4fbd86023530a9609227cf79388985e87ab309f2fb9",
       "expiration_date": null,
       "knowledge_cutoff": null,
       "live": true
