@@ -5,7 +5,7 @@
 ## Models with an announced end of life
 
 Source: the official deprecation pages of openai, anthropic, x-ai and cohere.
-162 lifecycle records are tracked; 59 have a retirement date still
+163 lifecycle records are tracked; 60 have a retirement date still
 in the future. A qualifier such as "not sooner than" means the provider has NOT committed to
 that date — it is reproduced as published and never converted into a firm date.
 
@@ -91,7 +91,7 @@ is the direct answer.
 
 ## One model, as JSON
 
-Each of the 600 model pages has a machine-readable record at the same slug:
+Each of the 603 model pages has a machine-readable record at the same slug:
 
     https://chorddote.github.io/modelwire-site/data/models/<slug>.json
 
@@ -109,8 +109,8 @@ have left the catalog:
 
 - openai (222 records): https://chorddote.github.io/modelwire-site/providers/openai.html
 - qwen (54 records): https://chorddote.github.io/modelwire-site/providers/qwen.html
+- anthropic (43 records): https://chorddote.github.io/modelwire-site/providers/anthropic.html
 - google (42 records): https://chorddote.github.io/modelwire-site/providers/google.html
-- anthropic (41 records): https://chorddote.github.io/modelwire-site/providers/anthropic.html
 - mistralai (26 records): https://chorddote.github.io/modelwire-site/providers/mistralai.html
 - z-ai (17 records): https://chorddote.github.io/modelwire-site/providers/z-ai.html
 - deepseek (16 records): https://chorddote.github.io/modelwire-site/providers/deepseek.html
@@ -148,9 +148,9 @@ Index of all weeks: https://chorddote.github.io/modelwire-site/changes/
 
 - Tracking started: 2026-08-09
 - Days of coverage: 24
-- Models tracked: 425
-- Change events recorded: 1306
-- End-of-life records tracked: 162
+- Models tracked: 422
+- Change events recorded: 1333
+- End-of-life records tracked: 163
 - Collection frequency: twice daily
 - Price and catalog source: OpenRouter public API (https://openrouter.ai/api/v1/models)
 - End-of-life source: provider deprecation pages (openai, anthropic, x-ai, cohere)

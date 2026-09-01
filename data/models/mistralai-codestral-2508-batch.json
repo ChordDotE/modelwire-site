@@ -1,7 +1,7 @@
 {
   "model_id": "mistralai/codestral-2508:batch",
   "provider": "mistralai",
-  "in_current_catalog": true,
+  "in_current_catalog": false,
   "record_type": "catalog",
   "price_input_usd_per_1m_tokens": 0.3,
   "price_output_usd_per_1m_tokens": 0.9,
