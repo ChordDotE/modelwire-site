@@ -1,0 +1,31 @@
+{
+  "model_id": "anthropic/claude-fable-5.1:batch",
+  "provider": "anthropic",
+  "in_current_catalog": true,
+  "record_type": "catalog",
+  "price_input_usd_per_1m_tokens": 5.0,
+  "price_output_usd_per_1m_tokens": 25.0,
+  "context_window": 1000000,
+  "max_output": 128000,
+  "modalities": [
+    "file",
+    "image",
+    "text"
+  ],
+  "status": "moderated",
+  "retirement_date": null,
+  "retirement_date_qualifier": null,
+  "retirement_announced_without_date": false,
+  "retirement_date_is_committed": false,
+  "replacement_as_published": null,
+  "replacement_page": null,
+  "observations_recorded": 1,
+  "first_recorded": "2026-09-02",
+  "last_changed": "2026-09-02",
+  "page": "https://chorddote.github.io/modelwire-site/models/anthropic-claude-fable-5.1-batch.html",
+  "page_ja": "https://chorddote.github.io/modelwire-site/ja/models/anthropic-claude-fable-5.1-batch.html",
+  "provider_page": "https://chorddote.github.io/modelwire-site/providers/anthropic.html",
+  "primary_source": "https://openrouter.ai/api/v1/models",
+  "price_unit": "USD per 1,000,000 tokens",
+  "disclaimer": "Unofficial. Not affiliated with any listed provider. The absence of a retirement date means no notice was recorded, not that the model will keep running."
+}
