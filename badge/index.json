@@ -1,7 +1,7 @@
 {
-  "as_of": "2026-09-02T10:02:04+00:00",
+  "as_of": "2026-09-02T22:00:27+00:00",
   "badge_url_template": "https://chorddote.github.io/modelwire-site/badge/{slug}.svg",
-  "count": 605,
+  "count": 609,
   "badges": [
     {
       "slug": "ai21-jamba-large-1.7",
@@ -893,6 +893,20 @@
       "message": "none announced"
     },
     {
+      "slug": "google-gemini-3.8-flash",
+      "provider": "google",
+      "model_id": "google/gemini-3.8-flash",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "google-gemini-3.8-flash-batch",
+      "provider": "google",
+      "model_id": "google/gemini-3.8-flash:batch",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
       "slug": "google-gemini-flash-latest",
       "provider": "~google",
       "model_id": "~google/gemini-flash-latest",
@@ -1204,6 +1218,20 @@
       "slug": "meta-muse-spark-1.2-contributor",
       "provider": "meta",
       "model_id": "meta/muse-spark-1.2-contributor",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "meta-muse-spark-1.3",
+      "provider": "meta",
+      "model_id": "meta/muse-spark-1.3",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "meta-muse-spark-1.3-contributor",
+      "provider": "meta",
+      "model_id": "meta/muse-spark-1.3-contributor",
       "state": "not_announced",
       "message": "none announced"
     },
