@@ -1,7 +1,7 @@
 {
-  "as_of": "2026-09-03T10:03:20+00:00",
+  "as_of": "2026-09-03T22:01:05+00:00",
   "badge_url_template": "https://chorddote.github.io/modelwire-site/badge/{slug}.svg",
-  "count": 610,
+  "count": 611,
   "badges": [
     {
       "slug": "ai21-jamba-large-1.7",
@@ -1068,6 +1068,13 @@
       "message": "none announced"
     },
     {
+      "slug": "inclusionai-ling-3.0-flash-fin",
+      "provider": "inclusionai",
+      "model_id": "inclusionai/ling-3.0-flash-fin",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
       "slug": "inclusionai-ling-3.0-flash-fin-free",
       "provider": "inclusionai",
       "model_id": "inclusionai/ling-3.0-flash-fin:free",
@@ -1680,8 +1687,8 @@
       "slug": "nvidia-nemotron-3-ultra-550b-a55b-batch",
       "provider": "nvidia",
       "model_id": "nvidia/nemotron-3-ultra-550b-a55b:batch",
-      "state": "not_announced",
-      "message": "none announced"
+      "state": "removed",
+      "message": "removed from catalog"
     },
     {
       "slug": "nvidia-nemotron-3-ultra-550b-a55b-free",
