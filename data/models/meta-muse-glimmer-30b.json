@@ -4,9 +4,9 @@
   "in_current_catalog": true,
   "record_type": "catalog",
   "price_input_usd_per_1m_tokens": 0.3,
-  "price_output_usd_per_1m_tokens": 1.2,
+  "price_output_usd_per_1m_tokens": 1.1,
   "context_window": 131072,
-  "max_output": 16384,
+  "max_output": 117964,
   "modalities": [
     "image",
     "text"
@@ -18,9 +18,9 @@
   "retirement_date_is_committed": false,
   "replacement_as_published": null,
   "replacement_page": null,
-  "observations_recorded": 5,
+  "observations_recorded": 6,
   "first_recorded": "2026-08-10",
-  "last_changed": "2026-08-28",
+  "last_changed": "2026-09-03",
   "page": "https://chorddote.github.io/modelwire-site/models/meta-muse-glimmer-30b.html",
   "page_ja": "https://chorddote.github.io/modelwire-site/ja/models/meta-muse-glimmer-30b.html",
   "provider_page": "https://chorddote.github.io/modelwire-site/providers/meta.html",

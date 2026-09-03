@@ -1,7 +1,7 @@
 {
-  "as_of": "2026-09-02T22:00:27+00:00",
+  "as_of": "2026-09-03T10:03:20+00:00",
   "badge_url_template": "https://chorddote.github.io/modelwire-site/badge/{slug}.svg",
-  "count": 609,
+  "count": 610,
   "badges": [
     {
       "slug": "ai21-jamba-large-1.7",
@@ -1751,7 +1751,7 @@
       "provider": "openai",
       "model_id": "babbage-002",
       "state": "upcoming",
-      "message": "26 days left (2026-09-28)"
+      "message": "25 days left (2026-09-28)"
     },
     {
       "slug": "openai-chatgpt-4o-latest",
@@ -1765,7 +1765,7 @@
       "provider": "openai",
       "model_id": "chatgpt-image-latest",
       "state": "upcoming",
-      "message": "90 days left (2026-12-01)"
+      "message": "89 days left (2026-12-01)"
     },
     {
       "slug": "openai-code-cushman-001",
@@ -1877,49 +1877,49 @@
       "provider": "openai",
       "model_id": "davinci-002",
       "state": "upcoming",
-      "message": "26 days left (2026-09-28)"
+      "message": "25 days left (2026-09-28)"
     },
     {
       "slug": "openai-ft-babbage-002",
       "provider": "openai",
       "model_id": "ft-babbage-002",
       "state": "upcoming",
-      "message": "51 days left (2026-10-23)"
+      "message": "50 days left (2026-10-23)"
     },
     {
       "slug": "openai-ft-davinci-002",
       "provider": "openai",
       "model_id": "ft-davinci-002",
       "state": "upcoming",
-      "message": "51 days left (2026-10-23)"
+      "message": "50 days left (2026-10-23)"
     },
     {
       "slug": "openai-ft-gpt-3.5-turbo",
       "provider": "openai",
       "model_id": "ft-gpt-3.5-turbo",
       "state": "upcoming",
-      "message": "51 days left (2026-10-23)"
+      "message": "50 days left (2026-10-23)"
     },
     {
       "slug": "openai-ft-gpt-4",
       "provider": "openai",
       "model_id": "ft-gpt-4",
       "state": "upcoming",
-      "message": "51 days left (2026-10-23)"
+      "message": "50 days left (2026-10-23)"
     },
     {
       "slug": "openai-ft-gpt-4.1-nano-2025-04-14",
       "provider": "openai",
       "model_id": "ft-gpt-4.1-nano-2025-04-14",
       "state": "upcoming",
-      "message": "51 days left (2026-10-23)"
+      "message": "50 days left (2026-10-23)"
     },
     {
       "slug": "openai-ft-o4-mini-2025-04-16",
       "provider": "openai",
       "model_id": "ft-o4-mini-2025-04-16",
       "state": "upcoming",
-      "message": "51 days left (2026-10-23)"
+      "message": "50 days left (2026-10-23)"
     },
     {
       "slug": "openai-gpt-3.5-turbo",
@@ -1933,7 +1933,7 @@
       "provider": "openai",
       "model_id": "gpt-3.5-turbo-0125",
       "state": "upcoming",
-      "message": "51 days left (2026-10-23)"
+      "message": "50 days left (2026-10-23)"
     },
     {
       "slug": "openai-gpt-3.5-turbo-0301",
@@ -1954,7 +1954,7 @@
       "provider": "openai",
       "model_id": "gpt-3.5-turbo-1106",
       "state": "upcoming",
-      "message": "26 days left (2026-09-28)"
+      "message": "25 days left (2026-09-28)"
     },
     {
       "slug": "openai-gpt-3.5-turbo-16k",
@@ -1982,7 +1982,7 @@
       "provider": "openai",
       "model_id": "gpt-3.5-turbo-instruct",
       "state": "upcoming",
-      "message": "26 days left (2026-09-28)"
+      "message": "25 days left (2026-09-28)"
     },
     {
       "slug": "openai-gpt-4",
@@ -2010,14 +2010,14 @@
       "provider": "openai",
       "model_id": "gpt-4-0613",
       "state": "upcoming",
-      "message": "51 days left (2026-10-23)"
+      "message": "50 days left (2026-10-23)"
     },
     {
       "slug": "openai-gpt-4-1106-preview",
       "provider": "openai",
       "model_id": "gpt-4-1106-preview",
       "state": "upcoming",
-      "message": "51 days left (2026-10-23)"
+      "message": "50 days left (2026-10-23)"
     },
     {
       "slug": "openai-gpt-4-1106-vision-preview",
@@ -2052,7 +2052,7 @@
       "provider": "openai",
       "model_id": "gpt-4-turbo",
       "state": "upcoming",
-      "message": "51 days left (2026-10-23)"
+      "message": "50 days left (2026-10-23)"
     },
     {
       "slug": "openai-gpt-4-turbo-batch",
@@ -2108,7 +2108,7 @@
       "provider": "openai",
       "model_id": "gpt-4.1-nano",
       "state": "upcoming",
-      "message": "51 days left (2026-10-23)"
+      "message": "50 days left (2026-10-23)"
     },
     {
       "slug": "openai-gpt-4.1-nano-batch",
@@ -2136,7 +2136,7 @@
       "provider": "openai",
       "model_id": "gpt-4o-2024-05-13",
       "state": "upcoming",
-      "message": "51 days left (2026-10-23)"
+      "message": "50 days left (2026-10-23)"
     },
     {
       "slug": "openai-gpt-4o-2024-08-06",
@@ -2157,7 +2157,7 @@
       "provider": "openai",
       "model_id": "gpt-4o-audio",
       "state": "upcoming",
-      "message": "140 days left (2027-01-20)"
+      "message": "139 days left (2027-01-20)"
     },
     {
       "slug": "openai-gpt-4o-audio-preview",
@@ -2199,7 +2199,7 @@
       "provider": "openai",
       "model_id": "gpt-4o-mini-audio",
       "state": "upcoming",
-      "message": "140 days left (2027-01-20)"
+      "message": "139 days left (2027-01-20)"
     },
     {
       "slug": "openai-gpt-4o-mini-audio-preview",
@@ -2220,7 +2220,7 @@
       "provider": "openai",
       "model_id": "gpt-4o-mini-realtime",
       "state": "upcoming",
-      "message": "140 days left (2027-01-20)"
+      "message": "139 days left (2027-01-20)"
     },
     {
       "slug": "openai-gpt-4o-mini-realtime-preview",
@@ -2241,21 +2241,21 @@
       "provider": "openai",
       "model_id": "gpt-4o-mini-transcribe",
       "state": "upcoming",
-      "message": "177 days left (2027-02-26)"
+      "message": "176 days left (2027-02-26)"
     },
     {
       "slug": "openai-gpt-4o-mini-transcribe-2025-03-20",
       "provider": "openai",
       "model_id": "gpt-4o-mini-transcribe-2025-03-20",
       "state": "upcoming",
-      "message": "140 days left (2027-01-20)"
+      "message": "139 days left (2027-01-20)"
     },
     {
       "slug": "openai-gpt-4o-realtime",
       "provider": "openai",
       "model_id": "gpt-4o-realtime",
       "state": "upcoming",
-      "message": "140 days left (2027-01-20)"
+      "message": "139 days left (2027-01-20)"
     },
     {
       "slug": "openai-gpt-4o-realtime-preview",
@@ -2297,14 +2297,14 @@
       "provider": "openai",
       "model_id": "gpt-4o-transcribe",
       "state": "upcoming",
-      "message": "177 days left (2027-02-26)"
+      "message": "176 days left (2027-02-26)"
     },
     {
       "slug": "openai-gpt-4o-transcribe-diarize",
       "provider": "openai",
       "model_id": "gpt-4o-transcribe-diarize",
       "state": "upcoming",
-      "message": "177 days left (2027-02-26)"
+      "message": "176 days left (2027-02-26)"
     },
     {
       "slug": "openai-gpt-5",
@@ -2318,7 +2318,7 @@
       "provider": "openai",
       "model_id": "gpt-5-2025-08-07",
       "state": "upcoming",
-      "message": "100 days left (2026-12-11)"
+      "message": "99 days left (2026-12-11)"
     },
     {
       "slug": "openai-gpt-5-batch",
@@ -2374,7 +2374,7 @@
       "provider": "openai",
       "model_id": "gpt-5-mini-2025-08-07",
       "state": "upcoming",
-      "message": "100 days left (2026-12-11)"
+      "message": "99 days left (2026-12-11)"
     },
     {
       "slug": "openai-gpt-5-mini-batch",
@@ -2395,7 +2395,7 @@
       "provider": "openai",
       "model_id": "gpt-5-nano-2025-08-07",
       "state": "upcoming",
-      "message": "100 days left (2026-12-11)"
+      "message": "99 days left (2026-12-11)"
     },
     {
       "slug": "openai-gpt-5-nano-batch",
@@ -2416,7 +2416,7 @@
       "provider": "openai",
       "model_id": "gpt-5-pro-2025-10-06",
       "state": "upcoming",
-      "message": "100 days left (2026-12-11)"
+      "message": "99 days left (2026-12-11)"
     },
     {
       "slug": "openai-gpt-5-pro-batch",
@@ -2717,14 +2717,14 @@
       "provider": "openai",
       "model_id": "gpt-audio",
       "state": "upcoming",
-      "message": "140 days left (2027-01-20)"
+      "message": "139 days left (2027-01-20)"
     },
     {
       "slug": "openai-gpt-audio-mini",
       "provider": "openai",
       "model_id": "gpt-audio-mini",
       "state": "upcoming",
-      "message": "140 days left (2027-01-20)"
+      "message": "139 days left (2027-01-20)"
     },
     {
       "slug": "openai-gpt-audio-mini-2025-10-06",
@@ -2745,21 +2745,21 @@
       "provider": "openai",
       "model_id": "gpt-image-1",
       "state": "upcoming",
-      "message": "51 days left (2026-10-23)"
+      "message": "50 days left (2026-10-23)"
     },
     {
       "slug": "openai-gpt-image-1-mini",
       "provider": "openai",
       "model_id": "gpt-image-1-mini",
       "state": "upcoming",
-      "message": "90 days left (2026-12-01)"
+      "message": "89 days left (2026-12-01)"
     },
     {
       "slug": "openai-gpt-image-1.5",
       "provider": "openai",
       "model_id": "gpt-image-1.5",
       "state": "upcoming",
-      "message": "90 days left (2026-12-01)"
+      "message": "89 days left (2026-12-01)"
     },
     {
       "slug": "openai-gpt-latest",
@@ -2822,14 +2822,14 @@
       "provider": "openai",
       "model_id": "gpt-realtime",
       "state": "upcoming",
-      "message": "140 days left (2027-01-20)"
+      "message": "139 days left (2027-01-20)"
     },
     {
       "slug": "openai-gpt-realtime-mini",
       "provider": "openai",
       "model_id": "gpt-realtime-mini",
       "state": "upcoming",
-      "message": "140 days left (2027-01-20)"
+      "message": "139 days left (2027-01-20)"
     },
     {
       "slug": "openai-gpt-realtime-mini-2025-10-06",
@@ -2864,7 +2864,7 @@
       "provider": "openai",
       "model_id": "o1-2024-12-17",
       "state": "upcoming",
-      "message": "51 days left (2026-10-23)"
+      "message": "50 days left (2026-10-23)"
     },
     {
       "slug": "openai-o1-batch",
@@ -2899,7 +2899,7 @@
       "provider": "openai",
       "model_id": "o1-pro-2025-03-19",
       "state": "upcoming",
-      "message": "51 days left (2026-10-23)"
+      "message": "50 days left (2026-10-23)"
     },
     {
       "slug": "openai-o1-pro-batch",
@@ -2920,7 +2920,7 @@
       "provider": "openai",
       "model_id": "o3-2025-04-16",
       "state": "upcoming",
-      "message": "100 days left (2026-12-11)"
+      "message": "99 days left (2026-12-11)"
     },
     {
       "slug": "openai-o3-batch",
@@ -2948,7 +2948,7 @@
       "provider": "openai",
       "model_id": "o3-mini-2025-01-31",
       "state": "upcoming",
-      "message": "51 days left (2026-10-23)"
+      "message": "50 days left (2026-10-23)"
     },
     {
       "slug": "openai-o3-mini-batch",
@@ -2983,7 +2983,7 @@
       "provider": "openai",
       "model_id": "o3-pro-2025-06-10",
       "state": "upcoming",
-      "message": "100 days left (2026-12-11)"
+      "message": "99 days left (2026-12-11)"
     },
     {
       "slug": "openai-o3-pro-batch",
@@ -3004,7 +3004,7 @@
       "provider": "openai",
       "model_id": "o4-mini-2025-04-16",
       "state": "upcoming",
-      "message": "51 days left (2026-10-23)"
+      "message": "50 days left (2026-10-23)"
     },
     {
       "slug": "openai-o4-mini-batch",
@@ -3053,35 +3053,35 @@
       "provider": "openai",
       "model_id": "sora-2",
       "state": "upcoming",
-      "message": "22 days left (2026-09-24)"
+      "message": "21 days left (2026-09-24)"
     },
     {
       "slug": "openai-sora-2-2025-10-06",
       "provider": "openai",
       "model_id": "sora-2-2025-10-06",
       "state": "upcoming",
-      "message": "22 days left (2026-09-24)"
+      "message": "21 days left (2026-09-24)"
     },
     {
       "slug": "openai-sora-2-2025-12-08",
       "provider": "openai",
       "model_id": "sora-2-2025-12-08",
       "state": "upcoming",
-      "message": "22 days left (2026-09-24)"
+      "message": "21 days left (2026-09-24)"
     },
     {
       "slug": "openai-sora-2-pro",
       "provider": "openai",
       "model_id": "sora-2-pro",
       "state": "upcoming",
-      "message": "22 days left (2026-09-24)"
+      "message": "21 days left (2026-09-24)"
     },
     {
       "slug": "openai-sora-2-pro-2025-10-06",
       "provider": "openai",
       "model_id": "sora-2-pro-2025-10-06",
       "state": "upcoming",
-      "message": "22 days left (2026-09-24)"
+      "message": "21 days left (2026-09-24)"
     },
     {
       "slug": "openai-text-ada-001",
@@ -3284,14 +3284,14 @@
       "provider": "openai",
       "model_id": "Videos API",
       "state": "upcoming",
-      "message": "22 days left (2026-09-24)"
+      "message": "21 days left (2026-09-24)"
     },
     {
       "slug": "openai-whisper-1",
       "provider": "openai",
       "model_id": "whisper-1",
       "state": "upcoming",
-      "message": "177 days left (2027-02-26)"
+      "message": "176 days left (2027-02-26)"
     },
     {
       "slug": "openrouter-auto",
@@ -4111,6 +4111,13 @@
       "model_id": "grok-imagine-image-pro",
       "state": "retired",
       "message": "retired 2026-05-15"
+    },
+    {
+      "slug": "x-ai-grok-imagine-image-quality",
+      "provider": "x-ai",
+      "model_id": "grok-imagine-image-quality",
+      "state": "upcoming",
+      "message": "60 days left (2026-11-02)"
     },
     {
       "slug": "x-ai-grok-latest",

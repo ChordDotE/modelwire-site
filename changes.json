@@ -1,6 +1,446 @@
 [
   {
     "kind": "PRICE_CHANGED",
+    "model_id": "meta-llama/llama-3.3-70b-instruct",
+    "provider": "meta-llama",
+    "at": "2026-09-03T10:01:08+00:00",
+    "field": "キャッシュ読取単価",
+    "before": 0.71,
+    "after": null,
+    "summary": "meta-llama/llama-3.3-70b-instruct cache read price 0.71 → None"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "meta-llama/llama-3.3-70b-instruct",
+    "provider": "meta-llama",
+    "at": "2026-09-03T10:01:08+00:00",
+    "field": "入力単価",
+    "before": 0.71,
+    "after": 0.1,
+    "summary": "meta-llama/llama-3.3-70b-instruct input price $0.71 → $0.1 (decrease -85.9%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "meta-llama/llama-3.3-70b-instruct",
+    "provider": "meta-llama",
+    "at": "2026-09-03T10:01:08+00:00",
+    "field": "出力単価",
+    "before": 0.71,
+    "after": 0.32,
+    "summary": "meta-llama/llama-3.3-70b-instruct output price $0.71 → $0.32 (decrease -54.9%)"
+  },
+  {
+    "kind": "CONTEXT_CHANGED",
+    "model_id": "meta-llama/llama-3.3-70b-instruct",
+    "provider": "meta-llama",
+    "at": "2026-09-03T10:01:08+00:00",
+    "field": "最大出力トークン",
+    "before": 115200,
+    "after": 16384,
+    "summary": "meta-llama/llama-3.3-70b-instruct max output tokens 115200 → 16384"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "z-ai/glm-4.6",
+    "provider": "z-ai",
+    "at": "2026-09-03T10:00:51+00:00",
+    "field": "キャッシュ読取単価",
+    "before": 0.08,
+    "after": 0.11,
+    "summary": "z-ai/glm-4.6 cache read price $0.08 → $0.11 (increase +37.5%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "z-ai/glm-4.6",
+    "provider": "z-ai",
+    "at": "2026-09-03T10:00:51+00:00",
+    "field": "入力単価",
+    "before": 0.43,
+    "after": 0.55,
+    "summary": "z-ai/glm-4.6 input price $0.43 → $0.55 (increase +27.9%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "z-ai/glm-4.6",
+    "provider": "z-ai",
+    "at": "2026-09-03T10:00:51+00:00",
+    "field": "出力単価",
+    "before": 1.75,
+    "after": 2.2,
+    "summary": "z-ai/glm-4.6 output price $1.75 → $2.2 (increase +25.7%)"
+  },
+  {
+    "kind": "CONTEXT_CHANGED",
+    "model_id": "z-ai/glm-4.6",
+    "provider": "z-ai",
+    "at": "2026-09-03T10:00:51+00:00",
+    "field": "最大出力トークン",
+    "before": 16384,
+    "after": 131072,
+    "summary": "z-ai/glm-4.6 max output tokens 16384 → 131072"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "nvidia/nemotron-3-nano-30b-a3b",
+    "provider": "nvidia",
+    "at": "2026-09-03T10:00:42+00:00",
+    "field": "キャッシュ読取単価",
+    "before": 0.025,
+    "after": 0.03,
+    "summary": "nvidia/nemotron-3-nano-30b-a3b cache read price $0.025 → $0.03 (increase +20.0%)"
+  },
+  {
+    "kind": "CONTEXT_CHANGED",
+    "model_id": "nvidia/nemotron-3-nano-30b-a3b",
+    "provider": "nvidia",
+    "at": "2026-09-03T10:00:42+00:00",
+    "field": "最大出力トークン",
+    "before": 228000,
+    "after": 235929,
+    "summary": "nvidia/nemotron-3-nano-30b-a3b max output tokens 228000 → 235929"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "qwen/qwen3.5-397b-a17b",
+    "provider": "qwen",
+    "at": "2026-09-03T10:00:37+00:00",
+    "field": "キャッシュ読取単価",
+    "before": null,
+    "after": 0.225,
+    "summary": "qwen/qwen3.5-397b-a17b cache read price None → 0.225"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "qwen/qwen3.5-397b-a17b",
+    "provider": "qwen",
+    "at": "2026-09-03T10:00:37+00:00",
+    "field": "入力単価",
+    "before": 0.39,
+    "after": 0.55,
+    "summary": "qwen/qwen3.5-397b-a17b input price $0.39 → $0.55 (increase +41.0%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "qwen/qwen3.5-397b-a17b",
+    "provider": "qwen",
+    "at": "2026-09-03T10:00:37+00:00",
+    "field": "出力単価",
+    "before": 2.34,
+    "after": 3.5,
+    "summary": "qwen/qwen3.5-397b-a17b output price $2.34 → $3.5 (increase +49.6%)"
+  },
+  {
+    "kind": "CONTEXT_CHANGED",
+    "model_id": "qwen/qwen3.5-397b-a17b",
+    "provider": "qwen",
+    "at": "2026-09-03T10:00:37+00:00",
+    "field": "最大出力トークン",
+    "before": 65536,
+    "after": 235929,
+    "summary": "qwen/qwen3.5-397b-a17b max output tokens 65536 → 235929"
+  },
+  {
+    "kind": "STATUS_CHANGED",
+    "model_id": "~anthropic/claude-opus-latest",
+    "provider": "~anthropic",
+    "at": "2026-09-03T10:00:28+00:00",
+    "field": "提供状態",
+    "before": "moderated",
+    "after": "available",
+    "summary": "~anthropic/claude-opus-latest status moderated → available"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "deepseek/deepseek-v4-pro",
+    "provider": "deepseek",
+    "at": "2026-09-03T10:00:27+00:00",
+    "field": "キャッシュ読取単価",
+    "before": 0.085623,
+    "after": 0.086855,
+    "summary": "deepseek/deepseek-v4-pro cache read price $0.085623 → $0.086855 (increase +1.4%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "deepseek/deepseek-v4-pro",
+    "provider": "deepseek",
+    "at": "2026-09-03T10:00:27+00:00",
+    "field": "入力単価",
+    "before": 1.02747,
+    "after": 1.04226,
+    "summary": "deepseek/deepseek-v4-pro input price $1.02747 → $1.04226 (increase +1.4%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "deepseek/deepseek-v4-pro",
+    "provider": "deepseek",
+    "at": "2026-09-03T10:00:27+00:00",
+    "field": "出力単価",
+    "before": 2.05494,
+    "after": 2.08452,
+    "summary": "deepseek/deepseek-v4-pro output price $2.05494 → $2.08452 (increase +1.4%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "deepseek/deepseek-v4-flash",
+    "provider": "deepseek",
+    "at": "2026-09-03T10:00:27+00:00",
+    "field": "キャッシュ読取単価",
+    "before": 0.016184,
+    "after": 0.017721,
+    "summary": "deepseek/deepseek-v4-flash cache read price $0.016184 → $0.017721 (increase +9.5%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "deepseek/deepseek-v4-flash",
+    "provider": "deepseek",
+    "at": "2026-09-03T10:00:27+00:00",
+    "field": "入力単価",
+    "before": 0.08092,
+    "after": 0.088606,
+    "summary": "deepseek/deepseek-v4-flash input price $0.08092 → $0.088606 (increase +9.5%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "deepseek/deepseek-v4-flash",
+    "provider": "deepseek",
+    "at": "2026-09-03T10:00:27+00:00",
+    "field": "出力単価",
+    "before": 0.16184,
+    "after": 0.177212,
+    "summary": "deepseek/deepseek-v4-flash output price $0.16184 → $0.177212 (increase +9.5%)"
+  },
+  {
+    "kind": "STATUS_CHANGED",
+    "model_id": "~anthropic/claude-haiku-latest",
+    "provider": "~anthropic",
+    "at": "2026-09-03T10:00:24+00:00",
+    "field": "提供状態",
+    "before": "moderated",
+    "after": "available",
+    "summary": "~anthropic/claude-haiku-latest status moderated → available"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "tencent/hy3",
+    "provider": "tencent",
+    "at": "2026-09-03T10:00:17+00:00",
+    "field": "キャッシュ読取単価",
+    "before": 0.020625,
+    "after": 0.033,
+    "summary": "tencent/hy3 cache read price $0.020625 → $0.033 (increase +60.0%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "tencent/hy3",
+    "provider": "tencent",
+    "at": "2026-09-03T10:00:17+00:00",
+    "field": "入力単価",
+    "before": 0.0825,
+    "after": 0.132,
+    "summary": "tencent/hy3 input price $0.0825 → $0.132 (increase +60.0%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "tencent/hy3",
+    "provider": "tencent",
+    "at": "2026-09-03T10:00:17+00:00",
+    "field": "出力単価",
+    "before": 0.33,
+    "after": 0.528,
+    "summary": "tencent/hy3 output price $0.33 → $0.528 (increase +60.0%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "meta/muse-glimmer-30b",
+    "provider": "meta",
+    "at": "2026-09-03T10:00:10+00:00",
+    "field": "出力単価",
+    "before": 1.2,
+    "after": 1.1,
+    "summary": "meta/muse-glimmer-30b output price $1.2 → $1.1 (decrease -8.3%)"
+  },
+  {
+    "kind": "CONTEXT_CHANGED",
+    "model_id": "meta/muse-glimmer-30b",
+    "provider": "meta",
+    "at": "2026-09-03T10:00:10+00:00",
+    "field": "最大出力トークン",
+    "before": 16384,
+    "after": 117964,
+    "summary": "meta/muse-glimmer-30b max output tokens 16384 → 117964"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "deepseek/deepseek-v4-pro-0813",
+    "provider": "deepseek",
+    "at": "2026-09-03T10:00:09+00:00",
+    "field": "キャッシュ読取単価",
+    "before": 0.022,
+    "after": 0.03718,
+    "summary": "deepseek/deepseek-v4-pro-0813 cache read price $0.022 → $0.03718 (increase +69.0%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "deepseek/deepseek-v4-pro-0813",
+    "provider": "deepseek",
+    "at": "2026-09-03T10:00:09+00:00",
+    "field": "入力単価",
+    "before": 0.66,
+    "after": 1.1154,
+    "summary": "deepseek/deepseek-v4-pro-0813 input price $0.66 → $1.1154 (increase +69.0%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "deepseek/deepseek-v4-pro-0813",
+    "provider": "deepseek",
+    "at": "2026-09-03T10:00:09+00:00",
+    "field": "出力単価",
+    "before": 1.98,
+    "after": 3.3462,
+    "summary": "deepseek/deepseek-v4-pro-0813 output price $1.98 → $3.3462 (increase +69.0%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "qwen/qwen3.8-2.4t-a95b",
+    "provider": "qwen",
+    "at": "2026-09-03T10:00:08+00:00",
+    "field": "キャッシュ読取単価",
+    "before": 0.2,
+    "after": 0.25,
+    "summary": "qwen/qwen3.8-2.4t-a95b cache read price $0.2 → $0.25 (increase +25.0%)"
+  },
+  {
+    "kind": "CONTEXT_CHANGED",
+    "model_id": "qwen/qwen3.8-2.4t-a95b",
+    "provider": "qwen",
+    "at": "2026-09-03T10:00:08+00:00",
+    "field": "最大出力トークン",
+    "before": 131072,
+    "after": 262144,
+    "summary": "qwen/qwen3.8-2.4t-a95b max output tokens 131072 → 262144"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "~z-ai/glm-latest",
+    "provider": "~z-ai",
+    "at": "2026-09-03T10:00:07+00:00",
+    "field": "キャッシュ読取単価",
+    "before": 0.1,
+    "after": 0.1817,
+    "summary": "~z-ai/glm-latest cache read price $0.1 → $0.1817 (increase +81.7%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "~z-ai/glm-latest",
+    "provider": "~z-ai",
+    "at": "2026-09-03T10:00:07+00:00",
+    "field": "入力単価",
+    "before": 1.15,
+    "after": 1.106,
+    "summary": "~z-ai/glm-latest input price $1.15 → $1.106 (decrease -3.8%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "~z-ai/glm-latest",
+    "provider": "~z-ai",
+    "at": "2026-09-03T10:00:07+00:00",
+    "field": "出力単価",
+    "before": 3.5,
+    "after": 3.476,
+    "summary": "~z-ai/glm-latest output price $3.5 → $3.476 (decrease -0.7%)"
+  },
+  {
+    "kind": "CONTEXT_CHANGED",
+    "model_id": "~z-ai/glm-latest",
+    "provider": "~z-ai",
+    "at": "2026-09-03T10:00:07+00:00",
+    "field": "最大出力トークン",
+    "before": 235929,
+    "after": 943718,
+    "summary": "~z-ai/glm-latest max output tokens 235929 → 943718"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "z-ai/glm-5.3",
+    "provider": "z-ai",
+    "at": "2026-09-03T10:00:07+00:00",
+    "field": "キャッシュ読取単価",
+    "before": 0.26,
+    "after": 0.14,
+    "summary": "z-ai/glm-5.3 cache read price $0.26 → $0.14 (decrease -46.2%)"
+  },
+  {
+    "kind": "CONTEXT_CHANGED",
+    "model_id": "z-ai/glm-5.3",
+    "provider": "z-ai",
+    "at": "2026-09-03T10:00:07+00:00",
+    "field": "最大出力トークン",
+    "before": 131072,
+    "after": 262144,
+    "summary": "z-ai/glm-5.3 max output tokens 131072 → 262144"
+  },
+  {
+    "kind": "EOL_ANNOUNCED",
+    "model_id": "z-ai/glm-5.3",
+    "provider": "z-ai",
+    "at": "2026-09-03T10:00:07+00:00",
+    "field": "提供終了日",
+    "before": "2098-12-31",
+    "after": null,
+    "summary": "z-ai/glm-5.3 — end-of-life notice withdrawn"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "deepseek/deepseek-v4-flash-vision-exp",
+    "provider": "deepseek",
+    "at": "2026-09-03T10:00:06+00:00",
+    "field": "キャッシュ読取単価",
+    "before": 0.007,
+    "after": 0.014,
+    "summary": "deepseek/deepseek-v4-flash-vision-exp cache read price $0.007 → $0.014 (increase +100.0%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "deepseek/deepseek-v4-flash-vision-exp",
+    "provider": "deepseek",
+    "at": "2026-09-03T10:00:06+00:00",
+    "field": "入力単価",
+    "before": 0.22,
+    "after": 0.44,
+    "summary": "deepseek/deepseek-v4-flash-vision-exp input price $0.22 → $0.44 (increase +100.0%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "deepseek/deepseek-v4-flash-vision-exp",
+    "provider": "deepseek",
+    "at": "2026-09-03T10:00:06+00:00",
+    "field": "出力単価",
+    "before": 0.66,
+    "after": 1.32,
+    "summary": "deepseek/deepseek-v4-flash-vision-exp output price $0.66 → $1.32 (increase +100.0%)"
+  },
+  {
+    "kind": "CONTEXT_CHANGED",
+    "model_id": "~z-ai/glm-flash-latest",
+    "provider": "~z-ai",
+    "at": "2026-09-03T10:00:05+00:00",
+    "field": "最大出力トークン",
+    "before": 131072,
+    "after": 943718,
+    "summary": "~z-ai/glm-flash-latest max output tokens 131072 → 943718"
+  },
+  {
+    "kind": "EOL_ANNOUNCED",
+    "model_id": "~z-ai/glm-flash-latest",
+    "provider": "~z-ai",
+    "at": "2026-09-03T10:00:05+00:00",
+    "field": "提供終了日",
+    "before": "2098-12-31",
+    "after": null,
+    "summary": "~z-ai/glm-flash-latest — end-of-life notice withdrawn"
+  },
+  {
+    "kind": "PRICE_CHANGED",
     "model_id": "deepseek/deepseek-v4-pro",
     "provider": "deepseek",
     "at": "2026-09-02T22:00:27+00:00",
@@ -4558,445 +4998,5 @@
     "before": 32768,
     "after": 29491,
     "summary": "thedrummer/skyfall-36b-v2 max output tokens 32768 → 29491"
-  },
-  {
-    "kind": "CONTEXT_CHANGED",
-    "model_id": "perplexity/sonar-reasoning-pro",
-    "provider": "perplexity",
-    "at": "2026-08-25T22:01:06+00:00",
-    "field": "最大出力トークン",
-    "before": null,
-    "after": 115200,
-    "summary": "perplexity/sonar-reasoning-pro max output tokens None → 115200"
-  },
-  {
-    "kind": "CONTEXT_CHANGED",
-    "model_id": "perplexity/sonar-deep-research",
-    "provider": "perplexity",
-    "at": "2026-08-25T22:01:06+00:00",
-    "field": "最大出力トークン",
-    "before": null,
-    "after": 115200,
-    "summary": "perplexity/sonar-deep-research max output tokens None → 115200"
-  },
-  {
-    "kind": "CONTEXT_CHANGED",
-    "model_id": "mistralai/mistral-saba",
-    "provider": "mistralai",
-    "at": "2026-08-25T22:01:06+00:00",
-    "field": "最大出力トークン",
-    "before": null,
-    "after": 26214,
-    "summary": "mistralai/mistral-saba max output tokens None → 26214"
-  },
-  {
-    "kind": "CONTEXT_CHANGED",
-    "model_id": "rekaai/reka-flash-3",
-    "provider": "rekaai",
-    "at": "2026-08-25T22:01:05+00:00",
-    "field": "最大出力トークン",
-    "before": 65536,
-    "after": 58982,
-    "summary": "rekaai/reka-flash-3 max output tokens 65536 → 58982"
-  },
-  {
-    "kind": "CONTEXT_CHANGED",
-    "model_id": "mistralai/mistral-small-3.1-24b-instruct",
-    "provider": "mistralai",
-    "at": "2026-08-25T22:01:05+00:00",
-    "field": "最大出力トークン",
-    "before": 128000,
-    "after": 102400,
-    "summary": "mistralai/mistral-small-3.1-24b-instruct max output tokens 128000 → 102400"
-  },
-  {
-    "kind": "CONTEXT_CHANGED",
-    "model_id": "google/gemma-3-27b-it",
-    "provider": "google",
-    "at": "2026-08-25T22:01:05+00:00",
-    "field": "最大出力トークン",
-    "before": 131072,
-    "after": 117964,
-    "summary": "google/gemma-3-27b-it max output tokens 131072 → 117964"
-  },
-  {
-    "kind": "CONTEXT_CHANGED",
-    "model_id": "deepseek/deepseek-chat-v3-0324",
-    "provider": "deepseek",
-    "at": "2026-08-25T22:01:04+00:00",
-    "field": "最大出力トークン",
-    "before": 163840,
-    "after": 147456,
-    "summary": "deepseek/deepseek-chat-v3-0324 max output tokens 163840 → 147456"
-  },
-  {
-    "kind": "CONTEXT_CHANGED",
-    "model_id": "meta-llama/llama-guard-4-12b",
-    "provider": "meta-llama",
-    "at": "2026-08-25T22:01:01+00:00",
-    "field": "context窓",
-    "before": 1048576,
-    "after": 163840,
-    "summary": "meta-llama/llama-guard-4-12b context window 1048576 → 163840"
-  },
-  {
-    "kind": "CONTEXT_CHANGED",
-    "model_id": "mistralai/mistral-medium-3",
-    "provider": "mistralai",
-    "at": "2026-08-25T22:01:00+00:00",
-    "field": "最大出力トークン",
-    "before": null,
-    "after": 104857,
-    "summary": "mistralai/mistral-medium-3 max output tokens None → 104857"
-  },
-  {
-    "kind": "CONTEXT_CHANGED",
-    "model_id": "tencent/hunyuan-a13b-instruct",
-    "provider": "tencent",
-    "at": "2026-08-25T22:00:58+00:00",
-    "field": "最大出力トークン",
-    "before": 131072,
-    "after": 117964,
-    "summary": "tencent/hunyuan-a13b-instruct max output tokens 131072 → 117964"
-  },
-  {
-    "kind": "CONTEXT_CHANGED",
-    "model_id": "qwen/qwen3-coder-30b-a3b-instruct",
-    "provider": "qwen",
-    "at": "2026-08-25T22:00:56+00:00",
-    "field": "最大出力トークン",
-    "before": 262144,
-    "after": 235929,
-    "summary": "qwen/qwen3-coder-30b-a3b-instruct max output tokens 262144 → 235929"
-  },
-  {
-    "kind": "CONTEXT_CHANGED",
-    "model_id": "qwen/qwen3-235b-a22b-thinking-2507",
-    "provider": "qwen",
-    "at": "2026-08-25T22:00:56+00:00",
-    "field": "最大出力トークン",
-    "before": null,
-    "after": 117964,
-    "summary": "qwen/qwen3-235b-a22b-thinking-2507 max output tokens None → 117964"
-  },
-  {
-    "kind": "CONTEXT_CHANGED",
-    "model_id": "mistralai/codestral-2508",
-    "provider": "mistralai",
-    "at": "2026-08-25T22:00:56+00:00",
-    "field": "最大出力トークン",
-    "before": null,
-    "after": 204800,
-    "summary": "mistralai/codestral-2508 max output tokens None → 204800"
-  },
-  {
-    "kind": "CONTEXT_CHANGED",
-    "model_id": "openai/gpt-oss-20b",
-    "provider": "openai",
-    "at": "2026-08-25T22:00:55+00:00",
-    "field": "最大出力トークン",
-    "before": 131072,
-    "after": 117964,
-    "summary": "openai/gpt-oss-20b max output tokens 131072 → 117964"
-  },
-  {
-    "kind": "CONTEXT_CHANGED",
-    "model_id": "openai/gpt-oss-120b",
-    "provider": "openai",
-    "at": "2026-08-25T22:00:55+00:00",
-    "field": "最大出力トークン",
-    "before": 131072,
-    "after": 117964,
-    "summary": "openai/gpt-oss-120b max output tokens 131072 → 117964"
-  },
-  {
-    "kind": "EOL_ANNOUNCED",
-    "model_id": "z-ai/glm-4.5v",
-    "provider": "z-ai",
-    "at": "2026-08-25T22:00:54+00:00",
-    "field": "提供終了日",
-    "before": null,
-    "after": "2026-12-31",
-    "summary": "z-ai/glm-4.5v — end of life announced for 2026-12-31"
-  },
-  {
-    "kind": "CONTEXT_CHANGED",
-    "model_id": "mistralai/mistral-medium-3.1",
-    "provider": "mistralai",
-    "at": "2026-08-25T22:00:54+00:00",
-    "field": "最大出力トークン",
-    "before": null,
-    "after": 104857,
-    "summary": "mistralai/mistral-medium-3.1 max output tokens None → 104857"
-  },
-  {
-    "kind": "CONTEXT_CHANGED",
-    "model_id": "nousresearch/hermes-4-70b",
-    "provider": "nousresearch",
-    "at": "2026-08-25T22:00:53+00:00",
-    "field": "最大出力トークン",
-    "before": null,
-    "after": 117964,
-    "summary": "nousresearch/hermes-4-70b max output tokens None → 117964"
-  },
-  {
-    "kind": "CONTEXT_CHANGED",
-    "model_id": "nousresearch/hermes-4-405b",
-    "provider": "nousresearch",
-    "at": "2026-08-25T22:00:53+00:00",
-    "field": "最大出力トークン",
-    "before": null,
-    "after": 117964,
-    "summary": "nousresearch/hermes-4-405b max output tokens None → 117964"
-  },
-  {
-    "kind": "CONTEXT_CHANGED",
-    "model_id": "deepseek/deepseek-chat-v3.1",
-    "provider": "deepseek",
-    "at": "2026-08-25T22:00:53+00:00",
-    "field": "最大出力トークン",
-    "before": 161000,
-    "after": 144900,
-    "summary": "deepseek/deepseek-chat-v3.1 max output tokens 161000 → 144900"
-  },
-  {
-    "kind": "CONTEXT_CHANGED",
-    "model_id": "qwen/qwen3-next-80b-a3b-instruct",
-    "provider": "qwen",
-    "at": "2026-08-25T22:00:52+00:00",
-    "field": "最大出力トークン",
-    "before": 262144,
-    "after": 235929,
-    "summary": "qwen/qwen3-next-80b-a3b-instruct max output tokens 262144 → 235929"
-  },
-  {
-    "kind": "CONTEXT_CHANGED",
-    "model_id": "thedrummer/cydonia-24b-v4.1",
-    "provider": "thedrummer",
-    "at": "2026-08-25T22:00:51+00:00",
-    "field": "最大出力トークン",
-    "before": 131072,
-    "after": 117964,
-    "summary": "thedrummer/cydonia-24b-v4.1 max output tokens 131072 → 117964"
-  },
-  {
-    "kind": "CONTEXT_CHANGED",
-    "model_id": "mistralai/voxtral-small-24b-2507",
-    "provider": "mistralai",
-    "at": "2026-08-25T22:00:48+00:00",
-    "field": "最大出力トークン",
-    "before": null,
-    "after": 25600,
-    "summary": "mistralai/voxtral-small-24b-2507 max output tokens None → 25600"
-  },
-  {
-    "kind": "CONTEXT_CHANGED",
-    "model_id": "ibm-granite/granite-4.0-h-micro",
-    "provider": "ibm-granite",
-    "at": "2026-08-25T22:00:48+00:00",
-    "field": "最大出力トークン",
-    "before": 131000,
-    "after": 117900,
-    "summary": "ibm-granite/granite-4.0-h-micro max output tokens 131000 → 117900"
-  },
-  {
-    "kind": "CONTEXT_CHANGED",
-    "model_id": "deepseek/deepseek-v3.2",
-    "provider": "deepseek",
-    "at": "2026-08-25T22:00:46+00:00",
-    "field": "最大出力トークン",
-    "before": 163840,
-    "after": 147456,
-    "summary": "deepseek/deepseek-v3.2 max output tokens 163840 → 147456"
-  },
-  {
-    "kind": "CONTEXT_CHANGED",
-    "model_id": "allenai/olmo-3-32b-think",
-    "provider": "allenai",
-    "at": "2026-08-25T22:00:46+00:00",
-    "field": "最大出力トークン",
-    "before": 65536,
-    "after": 58982,
-    "summary": "allenai/olmo-3-32b-think max output tokens 65536 → 58982"
-  },
-  {
-    "kind": "CONTEXT_CHANGED",
-    "model_id": "mistralai/mistral-large-2512",
-    "provider": "mistralai",
-    "at": "2026-08-25T22:00:45+00:00",
-    "field": "最大出力トークン",
-    "before": null,
-    "after": 209715,
-    "summary": "mistralai/mistral-large-2512 max output tokens None → 209715"
-  },
-  {
-    "kind": "CONTEXT_CHANGED",
-    "model_id": "mistralai/ministral-8b-2512",
-    "provider": "mistralai",
-    "at": "2026-08-25T22:00:45+00:00",
-    "field": "最大出力トークン",
-    "before": null,
-    "after": 209715,
-    "summary": "mistralai/ministral-8b-2512 max output tokens None → 209715"
-  },
-  {
-    "kind": "CONTEXT_CHANGED",
-    "model_id": "mistralai/ministral-3b-2512",
-    "provider": "mistralai",
-    "at": "2026-08-25T22:00:45+00:00",
-    "field": "最大出力トークン",
-    "before": null,
-    "after": 104857,
-    "summary": "mistralai/ministral-3b-2512 max output tokens None → 104857"
-  },
-  {
-    "kind": "CONTEXT_CHANGED",
-    "model_id": "mistralai/ministral-14b-2512",
-    "provider": "mistralai",
-    "at": "2026-08-25T22:00:45+00:00",
-    "field": "最大出力トークン",
-    "before": null,
-    "after": 209715,
-    "summary": "mistralai/ministral-14b-2512 max output tokens None → 209715"
-  },
-  {
-    "kind": "CONTEXT_CHANGED",
-    "model_id": "mistralai/devstral-2512",
-    "provider": "mistralai",
-    "at": "2026-08-25T22:00:44+00:00",
-    "field": "最大出力トークン",
-    "before": null,
-    "after": 209715,
-    "summary": "mistralai/devstral-2512 max output tokens None → 209715"
-  },
-  {
-    "kind": "CONTEXT_CHANGED",
-    "model_id": "nvidia/nemotron-3-nano-30b-a3b",
-    "provider": "nvidia",
-    "at": "2026-08-25T22:00:43+00:00",
-    "field": "最大出力トークン",
-    "before": 262144,
-    "after": 235929,
-    "summary": "nvidia/nemotron-3-nano-30b-a3b max output tokens 262144 → 235929"
-  },
-  {
-    "kind": "CONTEXT_CHANGED",
-    "model_id": "upstage/solar-pro-3",
-    "provider": "upstage",
-    "at": "2026-08-25T22:00:40+00:00",
-    "field": "最大出力トークン",
-    "before": 131072,
-    "after": 117964,
-    "summary": "upstage/solar-pro-3 max output tokens 131072 → 117964"
-  },
-  {
-    "kind": "CONTEXT_CHANGED",
-    "model_id": "moonshotai/kimi-k2.5",
-    "provider": "moonshotai",
-    "at": "2026-08-25T22:00:40+00:00",
-    "field": "最大出力トークン",
-    "before": null,
-    "after": 235929,
-    "summary": "moonshotai/kimi-k2.5 max output tokens None → 235929"
-  },
-  {
-    "kind": "CONTEXT_CHANGED",
-    "model_id": "qwen/qwen3-coder-next",
-    "provider": "qwen",
-    "at": "2026-08-25T22:00:39+00:00",
-    "field": "最大出力トークン",
-    "before": 262144,
-    "after": 235929,
-    "summary": "qwen/qwen3-coder-next max output tokens 262144 → 235929"
-  },
-  {
-    "kind": "CONTEXT_CHANGED",
-    "model_id": "qwen/qwen3.5-397b-a17b",
-    "provider": "qwen",
-    "at": "2026-08-25T22:00:38+00:00",
-    "field": "最大出力トークン",
-    "before": 262144,
-    "after": 235929,
-    "summary": "qwen/qwen3.5-397b-a17b max output tokens 262144 → 235929"
-  },
-  {
-    "kind": "CONTEXT_CHANGED",
-    "model_id": "qwen/qwen3.5-35b-a3b",
-    "provider": "qwen",
-    "at": "2026-08-25T22:00:36+00:00",
-    "field": "最大出力トークン",
-    "before": 262144,
-    "after": 235929,
-    "summary": "qwen/qwen3.5-35b-a3b max output tokens 262144 → 235929"
-  },
-  {
-    "kind": "CONTEXT_CHANGED",
-    "model_id": "qwen/qwen3.5-122b-a10b",
-    "provider": "qwen",
-    "at": "2026-08-25T22:00:36+00:00",
-    "field": "最大出力トークン",
-    "before": 262144,
-    "after": 235929,
-    "summary": "qwen/qwen3.5-122b-a10b max output tokens 262144 → 235929"
-  },
-  {
-    "kind": "CONTEXT_CHANGED",
-    "model_id": "google/gemini-3.1-flash-image-preview",
-    "provider": "google",
-    "at": "2026-08-25T22:00:35+00:00",
-    "field": "最大出力トークン",
-    "before": 65536,
-    "after": 58982,
-    "summary": "google/gemini-3.1-flash-image-preview max output tokens 65536 → 58982"
-  },
-  {
-    "kind": "CONTEXT_CHANGED",
-    "model_id": "qwen/qwen3.5-9b",
-    "provider": "qwen",
-    "at": "2026-08-25T22:00:34+00:00",
-    "field": "最大出力トークン",
-    "before": 262144,
-    "after": 235929,
-    "summary": "qwen/qwen3.5-9b max output tokens 262144 → 235929"
-  },
-  {
-    "kind": "CONTEXT_CHANGED",
-    "model_id": "nvidia/nemotron-3-super-120b-a12b:free",
-    "provider": "nvidia",
-    "at": "2026-08-25T22:00:33+00:00",
-    "field": "最大出力トークン",
-    "before": 262144,
-    "after": 235929,
-    "summary": "nvidia/nemotron-3-super-120b-a12b:free max output tokens 262144 → 235929"
-  },
-  {
-    "kind": "CONTEXT_CHANGED",
-    "model_id": "mistralai/mistral-small-2603",
-    "provider": "mistralai",
-    "at": "2026-08-25T22:00:33+00:00",
-    "field": "最大出力トークン",
-    "before": null,
-    "after": 209715,
-    "summary": "mistralai/mistral-small-2603 max output tokens None → 209715"
-  },
-  {
-    "kind": "CONTEXT_CHANGED",
-    "model_id": "minimax/minimax-m2.7:free",
-    "provider": "minimax",
-    "at": "2026-08-25T22:00:32+00:00",
-    "field": "最大出力トークン",
-    "before": null,
-    "after": 176947,
-    "summary": "minimax/minimax-m2.7:free max output tokens None → 176947"
-  },
-  {
-    "kind": "CONTEXT_CHANGED",
-    "model_id": "rekaai/reka-edge",
-    "provider": "rekaai",
-    "at": "2026-08-25T22:00:31+00:00",
-    "field": "最大出力トークン",
-    "before": 16384,
-    "after": 14745,
-    "summary": "rekaai/reka-edge max output tokens 16384 → 14745"
   }
 ]

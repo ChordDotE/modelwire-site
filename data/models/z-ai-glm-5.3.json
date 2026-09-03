@@ -6,7 +6,7 @@
   "price_input_usd_per_1m_tokens": 1.4,
   "price_output_usd_per_1m_tokens": 4.4,
   "context_window": 1310720,
-  "max_output": 131072,
+  "max_output": 262144,
   "modalities": [
     "text"
   ],
@@ -17,9 +17,9 @@
   "retirement_date_is_committed": false,
   "replacement_as_published": null,
   "replacement_page": null,
-  "observations_recorded": 2,
+  "observations_recorded": 3,
   "first_recorded": "2026-08-18",
-  "last_changed": "2026-08-28",
+  "last_changed": "2026-09-03",
   "page": "https://chorddote.github.io/modelwire-site/models/z-ai-glm-5.3.html",
   "page_ja": "https://chorddote.github.io/modelwire-site/ja/models/z-ai-glm-5.3.html",
   "provider_page": "https://chorddote.github.io/modelwire-site/providers/z-ai.html",
