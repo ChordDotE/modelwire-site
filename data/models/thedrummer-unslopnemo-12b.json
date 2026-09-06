@@ -6,7 +6,7 @@
   "price_input_usd_per_1m_tokens": 0.4,
   "price_output_usd_per_1m_tokens": 0.4,
   "context_window": 1024000,
-  "max_output": 26214,
+  "max_output": 819200,
   "modalities": [
     "text"
   ],
@@ -17,9 +17,9 @@
   "retirement_date_is_committed": false,
   "replacement_as_published": null,
   "replacement_page": null,
-  "observations_recorded": 4,
+  "observations_recorded": 5,
   "first_recorded": "2026-08-09",
-  "last_changed": "2026-08-25",
+  "last_changed": "2026-09-06",
   "page": "https://chorddote.github.io/modelwire-site/models/thedrummer-unslopnemo-12b.html",
   "page_ja": "https://chorddote.github.io/modelwire-site/ja/models/thedrummer-unslopnemo-12b.html",
   "provider_page": "https://chorddote.github.io/modelwire-site/providers/thedrummer.html",
