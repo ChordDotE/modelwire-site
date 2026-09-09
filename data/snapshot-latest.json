@@ -1,7 +1,7 @@
 {
-  "as_of": "2026-09-08T22:00:47+00:00",
+  "as_of": "2026-09-09T10:00:57+00:00",
   "tracking_since": "2026-08-09T05:11:07+00:00",
-  "coverage_days": 31,
+  "coverage_days": 32,
   "source": "https://openrouter.ai/api/v1/models",
   "price_unit": "USD per 1,000,000 tokens",
   "disclaimer": "Unofficial. Not affiliated with any listed provider.",
@@ -468,11 +468,11 @@
       "live": true
     },
     {
-      "obs_id": 668,
+      "obs_id": 1551,
       "source": "openrouter",
       "provider": "anthropic",
       "model_id": "anthropic/claude-opus-4.1",
-      "observed_at": "2026-08-09T14:39:22+00:00",
+      "observed_at": "2026-09-09T10:00:54+00:00",
       "price_in": 15.0,
       "price_out": 75.0,
       "price_cache_read": 1.5,
@@ -484,9 +484,9 @@
         "image",
         "text"
       ],
-      "status": "moderated",
+      "status": "available",
       "source_url": "https://openrouter.ai/api/v1/models",
-      "content_hash": "109ec963917a63b89a44e7c00df20951304a0546aa0586a314572cea93f52865",
+      "content_hash": "ac71cbfd767b6faef4f9fe5e36d8c5539a7cad6e0ae9bf31c1a15315d5c36bbe",
       "expiration_date": null,
       "knowledge_cutoff": "2025-01-31",
       "live": true
@@ -1582,14 +1582,14 @@
       "live": true
     },
     {
-      "obs_id": 1535,
+      "obs_id": 1545,
       "source": "openrouter",
       "provider": "deepseek",
       "model_id": "deepseek/deepseek-v4-flash",
-      "observed_at": "2026-09-08T22:00:28+00:00",
-      "price_in": 0.08246,
-      "price_out": 0.16492,
-      "price_cache_read": 0.016492,
+      "observed_at": "2026-09-09T10:00:27+00:00",
+      "price_in": 0.088606,
+      "price_out": 0.177212,
+      "price_cache_read": 0.017721,
       "price_cache_write": null,
       "context_window": 1048576,
       "max_output": 384000,
@@ -1598,7 +1598,7 @@
       ],
       "status": "available",
       "source_url": "https://openrouter.ai/api/v1/models",
-      "content_hash": "544bcaecdc73cdcb7387b964b1f78fd925c52346cbc4212e9ecc6174751b10ad",
+      "content_hash": "b448331eaaca62d295b6dce34294ad8b289234247177051ab309debe26d6a26d",
       "expiration_date": null,
       "knowledge_cutoff": null,
       "live": true
@@ -1648,24 +1648,24 @@
       "live": true
     },
     {
-      "obs_id": 1523,
+      "obs_id": 1539,
       "source": "openrouter",
       "provider": "deepseek",
       "model_id": "deepseek/deepseek-v4-flash-vision-exp",
-      "observed_at": "2026-09-08T22:00:07+00:00",
+      "observed_at": "2026-09-09T10:00:07+00:00",
       "price_in": 0.22,
       "price_out": 0.66,
       "price_cache_read": 0.007,
       "price_cache_write": null,
       "context_window": 1048576,
-      "max_output": 384000,
+      "max_output": 943718,
       "modalities": [
         "image",
         "text"
       ],
       "status": "available",
       "source_url": "https://openrouter.ai/api/v1/models",
-      "content_hash": "dad7f071bec4767a2a5f5f60fd2a257a1eb359f3085fa54b2f8b38f6bff71c72",
+      "content_hash": "690b9a543a032f96157e39ac2223727ec548c9abac3f785106ae771e6e341d56",
       "expiration_date": null,
       "knowledge_cutoff": null,
       "live": true
@@ -1694,14 +1694,14 @@
       "live": true
     },
     {
-      "obs_id": 1534,
+      "obs_id": 1544,
       "source": "openrouter",
       "provider": "deepseek",
       "model_id": "deepseek/deepseek-v4-pro",
-      "observed_at": "2026-09-08T22:00:28+00:00",
-      "price_in": 0.946386,
-      "price_out": 1.892772,
-      "price_cache_read": 0.078866,
+      "observed_at": "2026-09-09T10:00:27+00:00",
+      "price_in": 0.95526,
+      "price_out": 1.91052,
+      "price_cache_read": 0.079605,
       "price_cache_write": null,
       "context_window": 1048576,
       "max_output": 384000,
@@ -1710,29 +1710,29 @@
       ],
       "status": "available",
       "source_url": "https://openrouter.ai/api/v1/models",
-      "content_hash": "2c2402f7c2db9332d31b2972e3ef8285660f5e792ba21eeeb5b030a3c862228a",
+      "content_hash": "dc84ba116c5d011e9e4bc7b46ff5e71375741c9bdcb1bfb13dff5988f93556be",
       "expiration_date": null,
       "knowledge_cutoff": null,
       "live": true
     },
     {
-      "obs_id": 1527,
+      "obs_id": 1541,
       "source": "openrouter",
       "provider": "deepseek",
       "model_id": "deepseek/deepseek-v4-pro-0813",
-      "observed_at": "2026-09-08T22:00:10+00:00",
-      "price_in": 0.57948,
-      "price_out": 1.73844,
-      "price_cache_read": 0.057948,
+      "observed_at": "2026-09-09T10:00:10+00:00",
+      "price_in": 1.0494,
+      "price_out": 3.1482,
+      "price_cache_read": 0.03498,
       "price_cache_write": null,
       "context_window": 1048576,
-      "max_output": 393216,
+      "max_output": 384000,
       "modalities": [
         "text"
       ],
       "status": "available",
       "source_url": "https://openrouter.ai/api/v1/models",
-      "content_hash": "8b3cd03fd458cce313c5261cf6df5b7e2ce7a31a107bd7465635e6701e8ed8c6",
+      "content_hash": "b55bac8f07c16c24ae3404f73757ff63a97a712a79530ed6e5cd4c5e2a8d0e25",
       "expiration_date": null,
       "knowledge_cutoff": null,
       "live": true
@@ -2941,14 +2941,14 @@
       "live": false
     },
     {
-      "obs_id": 1348,
+      "obs_id": 1538,
       "source": "openrouter",
       "provider": "ibm-granite",
       "model_id": "ibm-granite/granite-4.2-8b",
-      "observed_at": "2026-08-31T22:00:03+00:00",
-      "price_in": 0.1,
-      "price_out": 0.15,
-      "price_cache_read": 0.05,
+      "observed_at": "2026-09-09T10:00:06+00:00",
+      "price_in": 0.06,
+      "price_out": 0.25,
+      "price_cache_read": 0.015,
       "price_cache_write": null,
       "context_window": 131072,
       "max_output": 117964,
@@ -2957,7 +2957,7 @@
       ],
       "status": "available",
       "source_url": "https://openrouter.ai/api/v1/models",
-      "content_hash": "10342023fa57dab521747b64f833da687ec931c482dc09869ffb15175b26613b",
+      "content_hash": "457f4d7c9d64292407666974c66eaf831dd2d4775dd47d9a5bbca3112b17deae",
       "expiration_date": null,
       "knowledge_cutoff": null,
       "live": true
@@ -3026,7 +3026,7 @@
       "content_hash": "95b185b0d34a4ea15037443c010aba1adacf0ebfc66e17b807633f28ac5e695d",
       "expiration_date": null,
       "knowledge_cutoff": null,
-      "live": true
+      "live": false
     },
     {
       "obs_id": 997,
@@ -3759,12 +3759,12 @@
       "live": true
     },
     {
-      "obs_id": 1513,
+      "obs_id": 1553,
       "source": "openrouter",
       "provider": "minimax",
       "model_id": "minimax/minimax-m1",
-      "observed_at": "2026-09-08T10:00:59+00:00",
-      "price_in": 0.4,
+      "observed_at": "2026-09-09T10:00:57+00:00",
+      "price_in": 0.55,
       "price_out": 2.2,
       "price_cache_read": null,
       "price_cache_write": null,
@@ -3775,7 +3775,7 @@
       ],
       "status": "available",
       "source_url": "https://openrouter.ai/api/v1/models",
-      "content_hash": "a17343e1f8b2a9d8b2fe4f82b827c4ab58a7a708f03cf5178780c844deebf9a1",
+      "content_hash": "40992e679525532806f23952f83469e03ef2716fe142cfdc0b470f8391cfb50c",
       "expiration_date": null,
       "knowledge_cutoff": "2024-06-30",
       "live": true
@@ -4632,23 +4632,23 @@
       "live": true
     },
     {
-      "obs_id": 1537,
+      "obs_id": 1547,
       "source": "openrouter",
       "provider": "moonshotai",
       "model_id": "moonshotai/kimi-k2-thinking",
-      "observed_at": "2026-09-08T22:00:47+00:00",
+      "observed_at": "2026-09-09T10:00:46+00:00",
       "price_in": 0.6,
       "price_out": 2.5,
-      "price_cache_read": 0.15,
+      "price_cache_read": null,
       "price_cache_write": null,
       "context_window": 262144,
-      "max_output": 100352,
+      "max_output": 235929,
       "modalities": [
         "text"
       ],
       "status": "available",
       "source_url": "https://openrouter.ai/api/v1/models",
-      "content_hash": "756d1f5c38e25916e503e6e3434483ba95a92d204f82ddd2fa81f94da6ec9ad0",
+      "content_hash": "e4266dc0ce2a9046fea16560e101955c079719926b7d758d0c8614ecd6dda012",
       "expiration_date": null,
       "knowledge_cutoff": null,
       "live": true
@@ -4858,7 +4858,7 @@
       "content_hash": "83e05986c1e31bd71991be55c55320fc8627cf4086f926a5a663f79a9c78b2f3",
       "expiration_date": "2026-09-08",
       "knowledge_cutoff": null,
-      "live": true
+      "live": false
     },
     {
       "obs_id": 1363,
@@ -4881,7 +4881,7 @@
       "content_hash": "622586423a6d37fe87342a232e7a08c972f24e5f4a95afe68c7cec86e71f64c7",
       "expiration_date": "2026-09-08",
       "knowledge_cutoff": null,
-      "live": true
+      "live": false
     },
     {
       "obs_id": 1519,
@@ -5086,23 +5086,23 @@
       "live": true
     },
     {
-      "obs_id": 808,
+      "obs_id": 1546,
       "source": "openrouter",
       "provider": "nvidia",
       "model_id": "nvidia/nemotron-3-super-120b-a12b",
-      "observed_at": "2026-08-10T06:38:42+00:00",
+      "observed_at": "2026-09-09T10:00:34+00:00",
       "price_in": 0.085,
       "price_out": 0.4,
       "price_cache_read": null,
       "price_cache_write": null,
-      "context_window": 1000000,
+      "context_window": 262144,
       "max_output": 16384,
       "modalities": [
         "text"
       ],
       "status": "available",
       "source_url": "https://openrouter.ai/api/v1/models",
-      "content_hash": "a75f343da49eeea0ccbc8620c19c55beb2c90cf185fc6e95d70d3dfdbe437e5b",
+      "content_hash": "b70e0b84b08ea635df763b51fdb22a3bc205a15e7b8bcbd0d3479208ed6ad7e0",
       "expiration_date": null,
       "knowledge_cutoff": null,
       "live": true
@@ -8283,13 +8283,13 @@
       "live": true
     },
     {
-      "obs_id": 1464,
+      "obs_id": 1552,
       "source": "openrouter",
       "provider": "qwen",
       "model_id": "qwen/qwen3-235b-a22b-2507",
-      "observed_at": "2026-09-05T10:02:09+00:00",
-      "price_in": 0.09,
-      "price_out": 0.55,
+      "observed_at": "2026-09-09T10:00:56+00:00",
+      "price_in": 0.22,
+      "price_out": 0.88,
       "price_cache_read": null,
       "price_cache_write": null,
       "context_window": 262144,
@@ -8299,7 +8299,7 @@
       ],
       "status": "available",
       "source_url": "https://openrouter.ai/api/v1/models",
-      "content_hash": "970202aad497c342446575e971215e63fca58fc7f49a0908cba683119d57b574",
+      "content_hash": "12b466c55cb604fdaeba4dc415848e3020332fec1c13a82c9c8dde53217fc577",
       "expiration_date": null,
       "knowledge_cutoff": "2025-06-30",
       "live": true
@@ -8591,23 +8591,23 @@
       "live": true
     },
     {
-      "obs_id": 1358,
+      "obs_id": 1549,
       "source": "openrouter",
       "provider": "qwen",
       "model_id": "qwen/qwen3-next-80b-a3b-instruct",
-      "observed_at": "2026-08-31T22:00:46+00:00",
-      "price_in": 0.1,
+      "observed_at": "2026-09-09T10:00:50+00:00",
+      "price_in": 0.09,
       "price_out": 1.1,
-      "price_cache_read": 0.07,
+      "price_cache_read": null,
       "price_cache_write": null,
       "context_window": 262144,
-      "max_output": 235929,
+      "max_output": 16384,
       "modalities": [
         "text"
       ],
       "status": "available",
       "source_url": "https://openrouter.ai/api/v1/models",
-      "content_hash": "65d60c073773c33cadfc6993885d27794b41830cf9971a561d273ecd8a72e0b7",
+      "content_hash": "3b6149e050de9df070038a63ccca8650b50bdc1a2fc3281d0e50a2217a321399",
       "expiration_date": null,
       "knowledge_cutoff": "2025-09-30",
       "live": true
@@ -9199,23 +9199,23 @@
       "live": true
     },
     {
-      "obs_id": 1407,
+      "obs_id": 1540,
       "source": "openrouter",
       "provider": "qwen",
       "model_id": "qwen/qwen3.8-2.4t-a95b",
-      "observed_at": "2026-09-03T10:00:08+00:00",
+      "observed_at": "2026-09-09T10:00:09+00:00",
       "price_in": 2.0,
       "price_out": 6.0,
       "price_cache_read": 0.25,
       "price_cache_write": null,
       "context_window": 1048576,
-      "max_output": 262144,
+      "max_output": 131072,
       "modalities": [
         "text"
       ],
       "status": "available",
       "source_url": "https://openrouter.ai/api/v1/models",
-      "content_hash": "3e80a21d65aae4ad25189097d95871fb20e82eab00a186082ffed5d5f091f915",
+      "content_hash": "e240917c53d6bdcd1e2a17dff42091c2ace634ea5b439c282a4040dfba02bc4c",
       "expiration_date": null,
       "knowledge_cutoff": null,
       "live": true
@@ -9700,14 +9700,14 @@
       "live": true
     },
     {
-      "obs_id": 1531,
+      "obs_id": 1542,
       "source": "openrouter",
       "provider": "tencent",
       "model_id": "tencent/hy3",
-      "observed_at": "2026-09-08T22:00:18+00:00",
-      "price_in": 0.0825,
-      "price_out": 0.33,
-      "price_cache_read": 0.020625,
+      "observed_at": "2026-09-09T10:00:18+00:00",
+      "price_in": 0.132,
+      "price_out": 0.528,
+      "price_cache_read": 0.033,
       "price_cache_write": null,
       "context_window": 262144,
       "max_output": 128000,
@@ -9716,7 +9716,7 @@
       ],
       "status": "available",
       "source_url": "https://openrouter.ai/api/v1/models",
-      "content_hash": "3d3b69532f0a8729eb91247365596ded5acfe73a8e16839014d90d6bab538f61",
+      "content_hash": "c5ed95b81b51212e78f60f4c7d73653d844a1f1d237405b16c59c40e45533b4b",
       "expiration_date": null,
       "knowledge_cutoff": null,
       "live": true
@@ -10345,11 +10345,11 @@
       "live": true
     },
     {
-      "obs_id": 1390,
+      "obs_id": 1550,
       "source": "openrouter",
       "provider": "z-ai",
       "model_id": "z-ai/glm-4.5v",
-      "observed_at": "2026-09-02T10:02:04+00:00",
+      "observed_at": "2026-09-09T10:00:52+00:00",
       "price_in": 0.6,
       "price_out": 1.8,
       "price_cache_read": 0.11,
@@ -10362,29 +10362,29 @@
       ],
       "status": "available",
       "source_url": "https://openrouter.ai/api/v1/models",
-      "content_hash": "bf570dc86aca8beadbf174e378e639cf3f2de2aa1cc10c6e2574f67ca029239e",
-      "expiration_date": "2026-12-31",
+      "content_hash": "f33fffe046ddb3f126a3dbe9a39abf7b6540afd4d92559ae2b98b59b7da4ad6d",
+      "expiration_date": null,
       "knowledge_cutoff": "2024-12-31",
       "live": true
     },
     {
-      "obs_id": 1511,
+      "obs_id": 1548,
       "source": "openrouter",
       "provider": "z-ai",
       "model_id": "z-ai/glm-4.6",
-      "observed_at": "2026-09-08T10:00:51+00:00",
-      "price_in": 0.55,
-      "price_out": 2.2,
-      "price_cache_read": 0.11,
+      "observed_at": "2026-09-09T10:00:49+00:00",
+      "price_in": 0.43,
+      "price_out": 1.75,
+      "price_cache_read": 0.08,
       "price_cache_write": null,
       "context_window": 204800,
-      "max_output": 131072,
+      "max_output": 16384,
       "modalities": [
         "text"
       ],
       "status": "available",
       "source_url": "https://openrouter.ai/api/v1/models",
-      "content_hash": "e67dc59c0697e1c075b2db3b44707336b0e21bd9387e3c6d68adae9ef6ece1fb",
+      "content_hash": "d0487eda433836b232321de2ea44f3d2e1a5a2e4208d49a9df1903a47785b051",
       "expiration_date": null,
       "knowledge_cutoff": "2025-03-31",
       "live": true
@@ -10876,14 +10876,14 @@
       "live": true
     },
     {
-      "obs_id": 1533,
+      "obs_id": 1543,
       "source": "openrouter",
       "provider": "~moonshotai",
       "model_id": "~moonshotai/kimi-latest",
-      "observed_at": "2026-09-08T22:00:25+00:00",
-      "price_in": 2.55,
-      "price_out": 12.75,
-      "price_cache_read": 0.256,
+      "observed_at": "2026-09-09T10:00:25+00:00",
+      "price_in": 2.4,
+      "price_out": 12.0,
+      "price_cache_read": 0.24,
       "price_cache_write": null,
       "context_window": 1048576,
       "max_output": 943718,
@@ -10894,7 +10894,7 @@
       ],
       "status": "available",
       "source_url": "https://openrouter.ai/api/v1/models",
-      "content_hash": "94369f43a263847af6c79f85278a45560f110973587ba0bb8063e55888cc3cc4",
+      "content_hash": "dc9fbe6eab173eb3b7aea22f98d24b11fd9504028b0eb0245bc4a0a54f42ff4d",
       "expiration_date": null,
       "knowledge_cutoff": null,
       "live": true
