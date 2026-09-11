@@ -1,7 +1,7 @@
 {
-  "as_of": "2026-09-11T10:01:04+00:00",
+  "as_of": "2026-09-11T22:01:15+00:00",
   "badge_url_template": "https://chorddote.github.io/modelwire-site/badge/{slug}.svg",
-  "count": 628,
+  "count": 633,
   "badges": [
     {
       "slug": "ai21-jamba-large-1.7",
@@ -1106,6 +1106,13 @@
       "slug": "inclusionai-ling-3.0-flash-sante-free",
       "provider": "inclusionai",
       "model_id": "inclusionai/ling-3.0-flash-sante:free",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "inclusionai-ling-3.0-flash-vl",
+      "provider": "inclusionai",
+      "model_id": "inclusionai/ling-3.0-flash-vl",
       "state": "not_announced",
       "message": "none announced"
     },
@@ -2804,6 +2811,13 @@
       "message": "none announced"
     },
     {
+      "slug": "openai-gpt-astra-latest",
+      "provider": "~openai",
+      "model_id": "~openai/gpt-astra-latest",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
       "slug": "openai-gpt-audio",
       "provider": "openai",
       "model_id": "gpt-audio",
@@ -2856,6 +2870,13 @@
       "slug": "openai-gpt-latest",
       "provider": "~openai",
       "model_id": "~openai/gpt-latest",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openai-gpt-luna-latest",
+      "provider": "~openai",
+      "model_id": "~openai/gpt-luna-latest",
       "state": "not_announced",
       "message": "none announced"
     },
@@ -2928,6 +2949,20 @@
       "model_id": "gpt-realtime-mini-2025-10-06",
       "state": "retired",
       "message": "retired 2026-07-23"
+    },
+    {
+      "slug": "openai-gpt-sol-latest",
+      "provider": "~openai",
+      "model_id": "~openai/gpt-sol-latest",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openai-gpt-terra-latest",
+      "provider": "~openai",
+      "model_id": "~openai/gpt-terra-latest",
+      "state": "not_announced",
+      "message": "none announced"
     },
     {
       "slug": "openai-new-fine-tuning-training-on-babbage-002",
