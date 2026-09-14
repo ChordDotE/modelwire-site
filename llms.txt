@@ -91,7 +91,7 @@ is the direct answer.
 
 ## One model, as JSON
 
-Each of the 636 model pages has a machine-readable record at the same slug:
+Each of the 638 model pages has a machine-readable record at the same slug:
 
     https://chorddote.github.io/modelwire-site/data/models/<slug>.json
 
@@ -150,8 +150,8 @@ Index of all weeks: https://chorddote.github.io/modelwire-site/changes/
 
 - Tracking started: 2026-08-09
 - Days of coverage: 37
-- Models tracked: 445
-- Change events recorded: 2179
+- Models tracked: 447
+- Change events recorded: 2209
 - End-of-life records tracked: 165
 - Collection frequency: twice daily
 - Price and catalog source: OpenRouter public API (https://openrouter.ai/api/v1/models)
