@@ -1,7 +1,7 @@
 {
   "model_id": "google/gemma-4-31b-it:batch",
   "provider": "google",
-  "in_current_catalog": true,
+  "in_current_catalog": false,
   "record_type": "catalog",
   "price_input_usd_per_1m_tokens": 0.39,
   "price_output_usd_per_1m_tokens": 0.97,
