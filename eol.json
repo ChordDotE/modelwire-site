@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-09-18T10:00:51+00:00",
+  "as_of": "2026-09-18T22:03:22+00:00",
   "source": "official deprecation pages of openai, anthropic, x-ai and cohere",
   "note": "date_confirmed=false means the provider has not committed to the date. The provider's own wording is kept in date_qualifier and is never converted into a firm date.",
   "freshness_note": "last_confirmed_at is the date we could last see the row on the provider's own page. It is not the date the provider updated anything, and it is not a guarantee that the row is there right now. listed=gone means the row was there and is not any more, declared only after two consecutive successful readings missed it and dated (delisted_at) from the first reading that missed it. listed=unknown means the record predates this presence log; we do not guess a date.",
   "disclaimer": "Unofficial. Not affiliated with any listed provider.",
-  "count": 165,
+  "count": 168,
   "records": [
     {
       "provider": "openai",
@@ -1011,6 +1011,23 @@
     },
     {
       "provider": "anthropic",
+      "model_id": "claude-mythos-5",
+      "state": "Active",
+      "deprecated_at": null,
+      "retirement_at": "2027-06-09",
+      "date_qualifier": "not sooner than",
+      "date_confirmed": false,
+      "days_left": 264,
+      "replacement": "",
+      "last_confirmed_at": "2026-09-18",
+      "listed": "listed",
+      "delisted_at": null,
+      "source_url": "https://platform.claude.com/docs/en/about-claude/model-deprecations.md",
+      "observed_at": "2026-09-18T22:03:22+00:00",
+      "badge_url": "https://chorddote.github.io/modelwire-site/badge/anthropic-claude-mythos-5.svg"
+    },
+    {
+      "provider": "anthropic",
       "model_id": "claude-sonnet-5",
       "state": "Active",
       "deprecated_at": null,
@@ -1059,6 +1076,40 @@
       "source_url": "https://platform.claude.com/docs/en/about-claude/model-deprecations.md",
       "observed_at": "2026-09-01T22:02:20+00:00",
       "badge_url": "https://chorddote.github.io/modelwire-site/badge/anthropic-claude-fable-5-1.svg"
+    },
+    {
+      "provider": "anthropic",
+      "model_id": "claude-mythos-5-1",
+      "state": "Active",
+      "deprecated_at": null,
+      "retirement_at": "2027-09-01",
+      "date_qualifier": "not sooner than",
+      "date_confirmed": false,
+      "days_left": 348,
+      "replacement": "",
+      "last_confirmed_at": "2026-09-18",
+      "listed": "listed",
+      "delisted_at": null,
+      "source_url": "https://platform.claude.com/docs/en/about-claude/model-deprecations.md",
+      "observed_at": "2026-09-18T22:03:22+00:00",
+      "badge_url": "https://chorddote.github.io/modelwire-site/badge/anthropic-claude-mythos-5-1.svg"
+    },
+    {
+      "provider": "anthropic",
+      "model_id": "claude-mythos-preview",
+      "state": "Deprecated",
+      "deprecated_at": "2026-06-09",
+      "retirement_at": null,
+      "date_qualifier": "To be announced",
+      "date_confirmed": false,
+      "days_left": null,
+      "replacement": "",
+      "last_confirmed_at": "2026-09-18",
+      "listed": "listed",
+      "delisted_at": null,
+      "source_url": "https://platform.claude.com/docs/en/about-claude/model-deprecations.md",
+      "observed_at": "2026-09-18T22:03:22+00:00",
+      "badge_url": "https://chorddote.github.io/modelwire-site/badge/anthropic-claude-mythos-preview.svg"
     },
     {
       "provider": "openai",

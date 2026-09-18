@@ -1,7 +1,7 @@
 {
-  "as_of": "2026-09-18T10:00:51+00:00",
+  "as_of": "2026-09-18T22:03:22+00:00",
   "badge_url_template": "https://chorddote.github.io/modelwire-site/badge/{slug}.svg",
-  "count": 642,
+  "count": 646,
   "badges": [
     {
       "slug": "ai21-jamba-large-1.7",
@@ -184,6 +184,27 @@
       "model_id": "~anthropic/claude-haiku-latest",
       "state": "not_announced",
       "message": "none announced"
+    },
+    {
+      "slug": "anthropic-claude-mythos-5",
+      "provider": "anthropic",
+      "model_id": "claude-mythos-5",
+      "state": "unconfirmed",
+      "message": "not sooner than 2027-06-09"
+    },
+    {
+      "slug": "anthropic-claude-mythos-5-1",
+      "provider": "anthropic",
+      "model_id": "claude-mythos-5-1",
+      "state": "unconfirmed",
+      "message": "not sooner than 2027-09-01"
+    },
+    {
+      "slug": "anthropic-claude-mythos-preview",
+      "provider": "anthropic",
+      "model_id": "claude-mythos-preview",
+      "state": "undated",
+      "message": "To be announced"
     },
     {
       "slug": "anthropic-claude-opus-4",
@@ -1484,8 +1505,8 @@
       "slug": "mistralai-mistral-large-2512",
       "provider": "mistralai",
       "model_id": "mistralai/mistral-large-2512",
-      "state": "not_announced",
-      "message": "none announced"
+      "state": "removed",
+      "message": "removed from catalog"
     },
     {
       "slug": "mistralai-mistral-large-2512-batch",
@@ -3574,6 +3595,13 @@
       "message": "none announced"
     },
     {
+      "slug": "prism-ml-ternary-bonsai-2-27b",
+      "provider": "prism-ml",
+      "model_id": "prism-ml/ternary-bonsai-2-27b",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
       "slug": "qwen-qwen-2.5-72b-instruct",
       "provider": "qwen",
       "model_id": "qwen/qwen-2.5-72b-instruct",
@@ -4053,8 +4081,8 @@
       "slug": "stealth-union-alpha",
       "provider": "stealth",
       "model_id": "stealth/union-alpha",
-      "state": "not_announced",
-      "message": "none announced"
+      "state": "removed",
+      "message": "removed from catalog"
     },
     {
       "slug": "stepfun-step-3.5-flash",
