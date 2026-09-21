@@ -3,10 +3,10 @@
   "provider": "~z-ai",
   "in_current_catalog": true,
   "record_type": "catalog",
-  "price_input_usd_per_1m_tokens": 0.7735,
-  "price_output_usd_per_1m_tokens": 2.431,
+  "price_input_usd_per_1m_tokens": 0.7728,
+  "price_output_usd_per_1m_tokens": 2.4288,
   "context_window": 1310720,
-  "max_output": 943718,
+  "max_output": 131072,
   "modalities": [
     "text"
   ],
@@ -17,7 +17,7 @@
   "retirement_date_is_committed": false,
   "replacement_as_published": null,
   "replacement_page": null,
-  "observations_recorded": 26,
+  "observations_recorded": 27,
   "first_recorded": "2026-08-19",
   "last_changed": "2026-09-21",
   "page": "https://chorddote.github.io/modelwire-site/models/z-ai-glm-latest.html",
