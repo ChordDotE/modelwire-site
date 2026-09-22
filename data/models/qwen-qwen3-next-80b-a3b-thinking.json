@@ -6,7 +6,7 @@
   "price_input_usd_per_1m_tokens": 0.15,
   "price_output_usd_per_1m_tokens": 1.2,
   "context_window": 262144,
-  "max_output": 32768,
+  "max_output": 235929,
   "modalities": [
     "text"
   ],
@@ -17,9 +17,9 @@
   "retirement_date_is_committed": false,
   "replacement_as_published": null,
   "replacement_page": null,
-  "observations_recorded": 7,
+  "observations_recorded": 8,
   "first_recorded": "2026-08-09",
-  "last_changed": "2026-09-15",
+  "last_changed": "2026-09-22",
   "page": "https://chorddote.github.io/modelwire-site/models/qwen-qwen3-next-80b-a3b-thinking.html",
   "page_ja": "https://chorddote.github.io/modelwire-site/ja/models/qwen-qwen3-next-80b-a3b-thinking.html",
   "provider_page": "https://chorddote.github.io/modelwire-site/providers/qwen.html",
