@@ -1,7 +1,7 @@
 {
-  "as_of": "2026-09-22T10:01:00+00:00",
+  "as_of": "2026-09-22T22:03:20+00:00",
   "badge_url_template": "https://chorddote.github.io/modelwire-site/badge/{slug}.svg",
-  "count": 653,
+  "count": 666,
   "badges": [
     {
       "slug": "ai21-jamba-large-1.7",
@@ -347,6 +347,13 @@
       "message": "not sooner than 2027-07-24"
     },
     {
+      "slug": "anthropic-claude-opus-5-5",
+      "provider": "anthropic",
+      "model_id": "claude-opus-5-5",
+      "state": "unconfirmed",
+      "message": "not sooner than 2027-09-22"
+    },
+    {
       "slug": "anthropic-claude-opus-5-batch",
       "provider": "anthropic",
       "model_id": "anthropic/claude-opus-5:batch",
@@ -359,6 +366,20 @@
       "model_id": "anthropic/claude-opus-5-fast",
       "state": "removed",
       "message": "removed from catalog"
+    },
+    {
+      "slug": "anthropic-claude-opus-5.5",
+      "provider": "anthropic",
+      "model_id": "anthropic/claude-opus-5.5",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "anthropic-claude-opus-5.5-batch",
+      "provider": "anthropic",
+      "model_id": "anthropic/claude-opus-5.5:batch",
+      "state": "not_announced",
+      "message": "none announced"
     },
     {
       "slug": "anthropic-claude-opus-latest",
@@ -728,6 +749,13 @@
       "slug": "deepseek-deepseek-v4.1-flash",
       "provider": "deepseek",
       "model_id": "deepseek/deepseek-v4.1-flash",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "deepseek-deepseek-v4.1-flash-batch",
+      "provider": "deepseek",
+      "model_id": "deepseek/deepseek-v4.1-flash:batch",
       "state": "not_announced",
       "message": "none announced"
     },
@@ -1204,8 +1232,8 @@
       "slug": "kwaipilot-kat-coder-pro-v2",
       "provider": "kwaipilot",
       "model_id": "kwaipilot/kat-coder-pro-v2",
-      "state": "not_announced",
-      "message": "none announced"
+      "state": "removed",
+      "message": "removed from catalog"
     },
     {
       "slug": "kwaipilot-kat-coder-pro-v2.5",
@@ -1673,8 +1701,8 @@
       "slug": "moonshotai-kimi-k3-batch",
       "provider": "moonshotai",
       "model_id": "moonshotai/kimi-k3:batch",
-      "state": "removed",
-      "message": "removed from catalog"
+      "state": "not_announced",
+      "message": "none announced"
     },
     {
       "slug": "moonshotai-kimi-latest",
@@ -2888,6 +2916,62 @@
       "message": "none announced"
     },
     {
+      "slug": "openai-gpt-6-luna",
+      "provider": "openai",
+      "model_id": "openai/gpt-6-luna",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openai-gpt-6-luna-batch",
+      "provider": "openai",
+      "model_id": "openai/gpt-6-luna:batch",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openai-gpt-6-luna-pro",
+      "provider": "openai",
+      "model_id": "openai/gpt-6-luna-pro",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openai-gpt-6-luna-pro-batch",
+      "provider": "openai",
+      "model_id": "openai/gpt-6-luna-pro:batch",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openai-gpt-6-sol",
+      "provider": "openai",
+      "model_id": "openai/gpt-6-sol",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openai-gpt-6-sol-batch",
+      "provider": "openai",
+      "model_id": "openai/gpt-6-sol:batch",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openai-gpt-6-sol-pro",
+      "provider": "openai",
+      "model_id": "openai/gpt-6-sol-pro",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openai-gpt-6-sol-pro-batch",
+      "provider": "openai",
+      "model_id": "openai/gpt-6-sol-pro:batch",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
       "slug": "openai-gpt-astra-latest",
       "provider": "~openai",
       "model_id": "~openai/gpt-astra-latest",
@@ -2989,8 +3073,8 @@
       "slug": "openai-gpt-oss-20b-batch",
       "provider": "openai",
       "model_id": "openai/gpt-oss-20b:batch",
-      "state": "removed",
-      "message": "removed from catalog"
+      "state": "not_announced",
+      "message": "none announced"
     },
     {
       "slug": "openai-gpt-oss-20b-free",
@@ -4004,6 +4088,13 @@
       "slug": "qwen-qwen3.8-max-0902",
       "provider": "qwen",
       "model_id": "qwen/qwen3.8-max-0902",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "qwen-qwen3.8-omni-flash",
+      "provider": "qwen",
+      "model_id": "qwen/qwen3.8-omni-flash",
       "state": "not_announced",
       "message": "none announced"
     },
