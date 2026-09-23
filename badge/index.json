@@ -1,7 +1,7 @@
 {
-  "as_of": "2026-09-23T10:00:42+00:00",
+  "as_of": "2026-09-23T22:00:36+00:00",
   "badge_url_template": "https://chorddote.github.io/modelwire-site/badge/{slug}.svg",
-  "count": 667,
+  "count": 672,
   "badges": [
     {
       "slug": "ai21-jamba-large-1.7",
@@ -28,6 +28,20 @@
       "slug": "aion-labs-aion-3.0-mini",
       "provider": "aion-labs",
       "model_id": "aion-labs/aion-3.0-mini",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "aion-labs-aion-3.5",
+      "provider": "aion-labs",
+      "model_id": "aion-labs/aion-3.5",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "aion-labs-aion-3.5-mini",
+      "provider": "aion-labs",
+      "model_id": "aion-labs/aion-3.5-mini",
       "state": "not_announced",
       "message": "none announced"
     },
@@ -4099,6 +4113,13 @@
       "message": "none announced"
     },
     {
+      "slug": "qwen-qwen3.8-max-prime",
+      "provider": "qwen",
+      "model_id": "qwen/qwen3.8-max-prime",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
       "slug": "qwen-qwen3.8-omni-flash",
       "provider": "qwen",
       "model_id": "qwen/qwen3.8-omni-flash",
@@ -4188,6 +4209,13 @@
       "model_id": "stealth/ox-alpha",
       "state": "removed",
       "message": "removed from catalog"
+    },
+    {
+      "slug": "stealth-space-bunny-alpha",
+      "provider": "stealth",
+      "model_id": "stealth/space-bunny-alpha",
+      "state": "not_announced",
+      "message": "none announced"
     },
     {
       "slug": "stealth-union-alpha",
@@ -4340,6 +4368,13 @@
       "slug": "undi95-remm-slerp-l2-13b",
       "provider": "undi95",
       "model_id": "undi95/remm-slerp-l2-13b",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "upstage-solar-mini4",
+      "provider": "upstage",
+      "model_id": "upstage/solar-mini4",
       "state": "not_announced",
       "message": "none announced"
     },

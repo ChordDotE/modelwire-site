@@ -97,7 +97,7 @@ is the direct answer.
 
 ## One model, as JSON
 
-Each of the 667 model pages has a machine-readable record at the same slug:
+Each of the 672 model pages has a machine-readable record at the same slug:
 
     https://chorddote.github.io/modelwire-site/data/models/<slug>.json
 
@@ -114,7 +114,7 @@ One page per provider, listing every model we hold a record for — including mo
 have left the catalog:
 
 - openai (235 records): https://chorddote.github.io/modelwire-site/providers/openai.html
-- qwen (57 records): https://chorddote.github.io/modelwire-site/providers/qwen.html
+- qwen (58 records): https://chorddote.github.io/modelwire-site/providers/qwen.html
 - anthropic (50 records): https://chorddote.github.io/modelwire-site/providers/anthropic.html
 - google (44 records): https://chorddote.github.io/modelwire-site/providers/google.html
 - mistralai (26 records): https://chorddote.github.io/modelwire-site/providers/mistralai.html
@@ -129,10 +129,10 @@ have left the catalog:
 - meta-llama (8 records): https://chorddote.github.io/modelwire-site/providers/meta-llama.html
 - meta (7 records): https://chorddote.github.io/modelwire-site/providers/meta.html
 - tencent (7 records): https://chorddote.github.io/modelwire-site/providers/tencent.html
+- aion-labs (6 records): https://chorddote.github.io/modelwire-site/providers/aion-labs.html
 - bytedance-seed (6 records): https://chorddote.github.io/modelwire-site/providers/bytedance-seed.html
 - nex-agi (6 records): https://chorddote.github.io/modelwire-site/providers/nex-agi.html
 - openrouter (6 records): https://chorddote.github.io/modelwire-site/providers/openrouter.html
-- thinkingmachines (6 records): https://chorddote.github.io/modelwire-site/providers/thinkingmachines.html
 - ...and 45 more, all listed in the index below
 
 Index of all providers: https://chorddote.github.io/modelwire-site/providers/index.html
@@ -157,8 +157,8 @@ Index of all weeks: https://chorddote.github.io/modelwire-site/changes/
 
 - Tracking started: 2026-08-09
 - Days of coverage: 46
-- Models tracked: 454
-- Change events recorded: 2866
+- Models tracked: 459
+- Change events recorded: 2898
 - End-of-life records tracked: 169
 - Collection frequency: twice daily
 - Price and catalog source: OpenRouter public API (https://openrouter.ai/api/v1/models)
