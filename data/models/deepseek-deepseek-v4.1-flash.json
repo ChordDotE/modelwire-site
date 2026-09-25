@@ -3,10 +3,10 @@
   "provider": "deepseek",
   "in_current_catalog": true,
   "record_type": "catalog",
-  "price_input_usd_per_1m_tokens": 0.3,
-  "price_output_usd_per_1m_tokens": 1.2,
+  "price_input_usd_per_1m_tokens": 0.099,
+  "price_output_usd_per_1m_tokens": 0.6,
   "context_window": 1048576,
-  "max_output": 393216,
+  "max_output": 943718,
   "modalities": [
     "image",
     "text"
@@ -18,7 +18,7 @@
   "retirement_date_is_committed": false,
   "replacement_as_published": null,
   "replacement_page": null,
-  "observations_recorded": 23,
+  "observations_recorded": 24,
   "first_recorded": "2026-09-10",
   "last_changed": "2026-09-25",
   "page": "https://chorddote.github.io/modelwire-site/models/deepseek-deepseek-v4.1-flash.html",

@@ -97,7 +97,7 @@ is the direct answer.
 
 ## One model, as JSON
 
-Each of the 674 model pages has a machine-readable record at the same slug:
+Each of the 676 model pages has a machine-readable record at the same slug:
 
     https://chorddote.github.io/modelwire-site/data/models/<slug>.json
 
@@ -133,7 +133,7 @@ have left the catalog:
 - bytedance-seed (6 records): https://chorddote.github.io/modelwire-site/providers/bytedance-seed.html
 - nex-agi (6 records): https://chorddote.github.io/modelwire-site/providers/nex-agi.html
 - openrouter (6 records): https://chorddote.github.io/modelwire-site/providers/openrouter.html
-- ...and 46 more, all listed in the index below
+- ...and 47 more, all listed in the index below
 
 Index of all providers: https://chorddote.github.io/modelwire-site/providers/index.html
 
@@ -157,8 +157,8 @@ Index of all weeks: https://chorddote.github.io/modelwire-site/changes/
 
 - Tracking started: 2026-08-09
 - Days of coverage: 48
-- Models tracked: 460
-- Change events recorded: 3016
+- Models tracked: 462
+- Change events recorded: 3066
 - End-of-life records tracked: 169
 - Collection frequency: twice daily
 - Price and catalog source: OpenRouter public API (https://openrouter.ai/api/v1/models)
