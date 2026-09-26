@@ -251,7 +251,7 @@
 <url><loc>https://chorddote.github.io/modelwire-site/models/openai-gpt-3.5-turbo-16k.html</loc><lastmod>2026-09-17</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/models/openai-gpt-3.5-turbo-instruct.html</loc><lastmod>2026-08-25</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/models/openai-gpt-3.5-turbo-batch.html</loc><lastmod>2026-08-09</lastmod></url>
-<url><loc>https://chorddote.github.io/modelwire-site/models/openai-gpt-4.html</loc><lastmod>2026-09-20</lastmod></url>
+<url><loc>https://chorddote.github.io/modelwire-site/models/openai-gpt-4.html</loc><lastmod>2026-09-26</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/models/openai-gpt-4-turbo.html</loc><lastmod>2026-08-09</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/models/openai-gpt-4-turbo-preview.html</loc><lastmod>2026-08-09</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/models/openai-gpt-4-turbo-batch.html</loc><lastmod>2026-08-09</lastmod></url>
@@ -405,7 +405,7 @@
 <url><loc>https://chorddote.github.io/modelwire-site/models/qwen-qwen3-vl-32b-instruct.html</loc><lastmod>2026-09-25</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/models/qwen-qwen3-vl-8b-instruct.html</loc><lastmod>2026-09-25</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/models/qwen-qwen3-vl-8b-thinking.html</loc><lastmod>2026-09-25</lastmod></url>
-<url><loc>https://chorddote.github.io/modelwire-site/models/qwen-qwen3.5-122b-a10b.html</loc><lastmod>2026-09-10</lastmod></url>
+<url><loc>https://chorddote.github.io/modelwire-site/models/qwen-qwen3.5-122b-a10b.html</loc><lastmod>2026-09-26</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/models/qwen-qwen3.5-27b.html</loc><lastmod>2026-08-09</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/models/qwen-qwen3.5-35b-a3b.html</loc><lastmod>2026-09-20</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/models/qwen-qwen3.5-397b-a17b.html</loc><lastmod>2026-09-08</lastmod></url>
@@ -715,7 +715,7 @@
 <url><loc>https://chorddote.github.io/modelwire-site/providers/nex-agi.html</loc><lastmod>2026-09-22</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/providers/nousresearch.html</loc><lastmod>2026-08-25</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/providers/nvidia.html</loc><lastmod>2026-09-26</lastmod></url>
-<url><loc>https://chorddote.github.io/modelwire-site/providers/openai.html</loc><lastmod>2026-09-24</lastmod></url>
+<url><loc>https://chorddote.github.io/modelwire-site/providers/openai.html</loc><lastmod>2026-09-26</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/providers/openrouter.html</loc><lastmod>2026-08-09</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/providers/perceptron.html</loc><lastmod>2026-09-25</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/providers/perplexity.html</loc><lastmod>2026-08-25</lastmod></url>
@@ -1007,7 +1007,7 @@
 <url><loc>https://chorddote.github.io/modelwire-site/ja/models/openai-gpt-3.5-turbo-16k.html</loc><lastmod>2026-09-17</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/ja/models/openai-gpt-3.5-turbo-instruct.html</loc><lastmod>2026-08-25</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/ja/models/openai-gpt-3.5-turbo-batch.html</loc><lastmod>2026-08-09</lastmod></url>
-<url><loc>https://chorddote.github.io/modelwire-site/ja/models/openai-gpt-4.html</loc><lastmod>2026-09-20</lastmod></url>
+<url><loc>https://chorddote.github.io/modelwire-site/ja/models/openai-gpt-4.html</loc><lastmod>2026-09-26</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/ja/models/openai-gpt-4-turbo.html</loc><lastmod>2026-08-09</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/ja/models/openai-gpt-4-turbo-preview.html</loc><lastmod>2026-08-09</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/ja/models/openai-gpt-4-turbo-batch.html</loc><lastmod>2026-08-09</lastmod></url>
@@ -1161,7 +1161,7 @@
 <url><loc>https://chorddote.github.io/modelwire-site/ja/models/qwen-qwen3-vl-32b-instruct.html</loc><lastmod>2026-09-25</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/ja/models/qwen-qwen3-vl-8b-instruct.html</loc><lastmod>2026-09-25</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/ja/models/qwen-qwen3-vl-8b-thinking.html</loc><lastmod>2026-09-25</lastmod></url>
-<url><loc>https://chorddote.github.io/modelwire-site/ja/models/qwen-qwen3.5-122b-a10b.html</loc><lastmod>2026-09-10</lastmod></url>
+<url><loc>https://chorddote.github.io/modelwire-site/ja/models/qwen-qwen3.5-122b-a10b.html</loc><lastmod>2026-09-26</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/ja/models/qwen-qwen3.5-27b.html</loc><lastmod>2026-08-09</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/ja/models/qwen-qwen3.5-35b-a3b.html</loc><lastmod>2026-09-20</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/ja/models/qwen-qwen3.5-397b-a17b.html</loc><lastmod>2026-09-08</lastmod></url>
@@ -1471,7 +1471,7 @@
 <url><loc>https://chorddote.github.io/modelwire-site/ja/providers/nex-agi.html</loc><lastmod>2026-09-22</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/ja/providers/nousresearch.html</loc><lastmod>2026-08-25</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/ja/providers/nvidia.html</loc><lastmod>2026-09-26</lastmod></url>
-<url><loc>https://chorddote.github.io/modelwire-site/ja/providers/openai.html</loc><lastmod>2026-09-24</lastmod></url>
+<url><loc>https://chorddote.github.io/modelwire-site/ja/providers/openai.html</loc><lastmod>2026-09-26</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/ja/providers/openrouter.html</loc><lastmod>2026-08-09</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/ja/providers/perceptron.html</loc><lastmod>2026-09-25</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/ja/providers/perplexity.html</loc><lastmod>2026-08-25</lastmod></url>
