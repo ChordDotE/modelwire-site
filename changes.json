@@ -1,5 +1,655 @@
 [
   {
+    "kind": "PRICE_CHANGED",
+    "model_id": "deepseek/deepseek-chat-v3-0324",
+    "provider": "deepseek",
+    "at": "2026-09-28T10:01:03+00:00",
+    "field": "キャッシュ読取単価",
+    "before": null,
+    "after": 0.11,
+    "summary": "deepseek/deepseek-chat-v3-0324 cache read price None → 0.11"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "deepseek/deepseek-chat-v3-0324",
+    "provider": "deepseek",
+    "at": "2026-09-28T10:01:03+00:00",
+    "field": "入力単価",
+    "before": 0.25,
+    "after": 0.29,
+    "summary": "deepseek/deepseek-chat-v3-0324 input price $0.25 → $0.29 (increase +16.0%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "deepseek/deepseek-chat-v3-0324",
+    "provider": "deepseek",
+    "at": "2026-09-28T10:01:03+00:00",
+    "field": "出力単価",
+    "before": 1.0,
+    "after": 1.14,
+    "summary": "deepseek/deepseek-chat-v3-0324 output price $1.0 → $1.14 (increase +14.0%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "deepseek/deepseek-v3.2",
+    "provider": "deepseek",
+    "at": "2026-09-28T10:00:44+00:00",
+    "field": "キャッシュ読取単価",
+    "before": 0.1345,
+    "after": 0.028,
+    "summary": "deepseek/deepseek-v3.2 cache read price $0.1345 → $0.028 (decrease -79.2%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "deepseek/deepseek-v3.2",
+    "provider": "deepseek",
+    "at": "2026-09-28T10:00:44+00:00",
+    "field": "入力単価",
+    "before": 0.269,
+    "after": 0.28,
+    "summary": "deepseek/deepseek-v3.2 input price $0.269 → $0.28 (increase +4.1%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "deepseek/deepseek-v3.2",
+    "provider": "deepseek",
+    "at": "2026-09-28T10:00:44+00:00",
+    "field": "出力単価",
+    "before": 0.4,
+    "after": 0.42,
+    "summary": "deepseek/deepseek-v3.2 output price $0.4 → $0.42 (increase +5.0%)"
+  },
+  {
+    "kind": "EOL_ANNOUNCED",
+    "model_id": "deepseek/deepseek-v3.2",
+    "provider": "deepseek",
+    "at": "2026-09-28T10:00:44+00:00",
+    "field": "提供終了日",
+    "before": "2026-09-28",
+    "after": null,
+    "summary": "deepseek/deepseek-v3.2 — end-of-life notice withdrawn"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "qwen/qwen3.5-35b-a3b",
+    "provider": "qwen",
+    "at": "2026-09-28T10:00:37+00:00",
+    "field": "キャッシュ読取単価",
+    "before": 0.15625,
+    "after": null,
+    "summary": "qwen/qwen3.5-35b-a3b cache read price 0.15625 → None"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "qwen/qwen3.5-35b-a3b",
+    "provider": "qwen",
+    "at": "2026-09-28T10:00:37+00:00",
+    "field": "入力単価",
+    "before": 0.3125,
+    "after": 0.1625,
+    "summary": "qwen/qwen3.5-35b-a3b input price $0.3125 → $0.1625 (decrease -48.0%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "qwen/qwen3.5-35b-a3b",
+    "provider": "qwen",
+    "at": "2026-09-28T10:00:37+00:00",
+    "field": "出力単価",
+    "before": 1.25,
+    "after": 1.3,
+    "summary": "qwen/qwen3.5-35b-a3b output price $1.25 → $1.3 (increase +4.0%)"
+  },
+  {
+    "kind": "CONTEXT_CHANGED",
+    "model_id": "qwen/qwen3.5-35b-a3b",
+    "provider": "qwen",
+    "at": "2026-09-28T10:00:37+00:00",
+    "field": "最大出力トークン",
+    "before": 16384,
+    "after": 65536,
+    "summary": "qwen/qwen3.5-35b-a3b max output tokens 16384 → 65536"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "minimax/minimax-m2.7",
+    "provider": "minimax",
+    "at": "2026-09-28T10:00:33+00:00",
+    "field": "キャッシュ読取単価",
+    "before": 0.042,
+    "after": 0.06,
+    "summary": "minimax/minimax-m2.7 cache read price $0.042 → $0.06 (increase +42.9%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "minimax/minimax-m2.7",
+    "provider": "minimax",
+    "at": "2026-09-28T10:00:33+00:00",
+    "field": "入力単価",
+    "before": 0.21,
+    "after": 0.3,
+    "summary": "minimax/minimax-m2.7 input price $0.21 → $0.3 (increase +42.9%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "minimax/minimax-m2.7",
+    "provider": "minimax",
+    "at": "2026-09-28T10:00:33+00:00",
+    "field": "出力単価",
+    "before": 0.84,
+    "after": 1.2,
+    "summary": "minimax/minimax-m2.7 output price $0.84 → $1.2 (increase +42.9%)"
+  },
+  {
+    "kind": "CONTEXT_CHANGED",
+    "model_id": "minimax/minimax-m2.7",
+    "provider": "minimax",
+    "at": "2026-09-28T10:00:33+00:00",
+    "field": "最大出力トークン",
+    "before": 176947,
+    "after": 131072,
+    "summary": "minimax/minimax-m2.7 max output tokens 176947 → 131072"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "z-ai/glm-5.1",
+    "provider": "z-ai",
+    "at": "2026-09-28T10:00:31+00:00",
+    "field": "キャッシュ読取単価",
+    "before": 0.17914,
+    "after": 0.26,
+    "summary": "z-ai/glm-5.1 cache read price $0.17914 → $0.26 (increase +45.1%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "z-ai/glm-5.1",
+    "provider": "z-ai",
+    "at": "2026-09-28T10:00:31+00:00",
+    "field": "入力単価",
+    "before": 0.9646,
+    "after": 1.4,
+    "summary": "z-ai/glm-5.1 input price $0.9646 → $1.4 (increase +45.1%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "z-ai/glm-5.1",
+    "provider": "z-ai",
+    "at": "2026-09-28T10:00:31+00:00",
+    "field": "出力単価",
+    "before": 3.0316,
+    "after": 4.4,
+    "summary": "z-ai/glm-5.1 output price $3.0316 → $4.4 (increase +45.1%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "google/gemma-4-26b-a4b-it",
+    "provider": "google",
+    "at": "2026-09-28T10:00:31+00:00",
+    "field": "キャッシュ読取単価",
+    "before": 0.0375,
+    "after": 0.05,
+    "summary": "google/gemma-4-26b-a4b-it cache read price $0.0375 → $0.05 (increase +33.3%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "google/gemma-4-26b-a4b-it",
+    "provider": "google",
+    "at": "2026-09-28T10:00:31+00:00",
+    "field": "入力単価",
+    "before": 0.0675,
+    "after": 0.09,
+    "summary": "google/gemma-4-26b-a4b-it input price $0.0675 → $0.09 (increase +33.3%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "google/gemma-4-26b-a4b-it",
+    "provider": "google",
+    "at": "2026-09-28T10:00:31+00:00",
+    "field": "出力単価",
+    "before": 0.225,
+    "after": 0.3,
+    "summary": "google/gemma-4-26b-a4b-it output price $0.225 → $0.3 (increase +33.3%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "moonshotai/kimi-k2.6",
+    "provider": "moonshotai",
+    "at": "2026-09-28T10:00:30+00:00",
+    "field": "キャッシュ読取単価",
+    "before": 0.16,
+    "after": 0.15,
+    "summary": "moonshotai/kimi-k2.6 cache read price $0.16 → $0.15 (decrease -6.3%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "moonshotai/kimi-k2.6",
+    "provider": "moonshotai",
+    "at": "2026-09-28T10:00:30+00:00",
+    "field": "入力単価",
+    "before": 0.95,
+    "after": 0.65,
+    "summary": "moonshotai/kimi-k2.6 input price $0.95 → $0.65 (decrease -31.6%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "moonshotai/kimi-k2.6",
+    "provider": "moonshotai",
+    "at": "2026-09-28T10:00:30+00:00",
+    "field": "出力単価",
+    "before": 4.0,
+    "after": 3.41,
+    "summary": "moonshotai/kimi-k2.6 output price $4.0 → $3.41 (decrease -14.7%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "deepseek/deepseek-v4-pro",
+    "provider": "deepseek",
+    "at": "2026-09-28T10:00:29+00:00",
+    "field": "キャッシュ読取単価",
+    "before": 0.029,
+    "after": 0.079605,
+    "summary": "deepseek/deepseek-v4-pro cache read price $0.029 → $0.079605 (increase +174.5%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "deepseek/deepseek-v4-pro",
+    "provider": "deepseek",
+    "at": "2026-09-28T10:00:29+00:00",
+    "field": "入力単価",
+    "before": 0.348,
+    "after": 0.95526,
+    "summary": "deepseek/deepseek-v4-pro input price $0.348 → $0.95526 (increase +174.5%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "deepseek/deepseek-v4-pro",
+    "provider": "deepseek",
+    "at": "2026-09-28T10:00:29+00:00",
+    "field": "出力単価",
+    "before": 0.696,
+    "after": 1.91052,
+    "summary": "deepseek/deepseek-v4-pro output price $0.696 → $1.91052 (increase +174.5%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "deepseek/deepseek-v4-flash",
+    "provider": "deepseek",
+    "at": "2026-09-28T10:00:29+00:00",
+    "field": "キャッシュ読取単価",
+    "before": 0.00938,
+    "after": 0.028,
+    "summary": "deepseek/deepseek-v4-flash cache read price $0.00938 → $0.028 (increase +198.5%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "deepseek/deepseek-v4-flash",
+    "provider": "deepseek",
+    "at": "2026-09-28T10:00:29+00:00",
+    "field": "入力単価",
+    "before": 0.0469,
+    "after": 0.14,
+    "summary": "deepseek/deepseek-v4-flash input price $0.0469 → $0.14 (increase +198.5%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "deepseek/deepseek-v4-flash",
+    "provider": "deepseek",
+    "at": "2026-09-28T10:00:29+00:00",
+    "field": "出力単価",
+    "before": 0.0938,
+    "after": 0.28,
+    "summary": "deepseek/deepseek-v4-flash output price $0.0938 → $0.28 (increase +198.5%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "tencent/hy3",
+    "provider": "tencent",
+    "at": "2026-09-28T10:00:20+00:00",
+    "field": "キャッシュ読取単価",
+    "before": 0.020625,
+    "after": 0.033,
+    "summary": "tencent/hy3 cache read price $0.020625 → $0.033 (increase +60.0%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "tencent/hy3",
+    "provider": "tencent",
+    "at": "2026-09-28T10:00:20+00:00",
+    "field": "入力単価",
+    "before": 0.0825,
+    "after": 0.132,
+    "summary": "tencent/hy3 input price $0.0825 → $0.132 (increase +60.0%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "tencent/hy3",
+    "provider": "tencent",
+    "at": "2026-09-28T10:00:20+00:00",
+    "field": "出力単価",
+    "before": 0.33,
+    "after": 0.528,
+    "summary": "tencent/hy3 output price $0.33 → $0.528 (increase +60.0%)"
+  },
+  {
+    "kind": "MODALITY_CHANGED",
+    "model_id": "meta/muse-spark-1.1",
+    "provider": "meta",
+    "at": "2026-09-28T10:00:17+00:00",
+    "field": "対応モダリティ",
+    "before": "[\"audio\", \"file\", \"image\", \"text\", \"video\"]",
+    "after": "[\"file\", \"image\", \"text\", \"video\"]",
+    "summary": "meta/muse-spark-1.1 modalities [\"audio\", \"file\", \"image\", \"text\", \"video\"] → [\"file\", \"image\", \"text\", \"video\"]"
+  },
+  {
+    "kind": "MODALITY_CHANGED",
+    "model_id": "meta/muse-spark-1.2",
+    "provider": "meta",
+    "at": "2026-09-28T10:00:15+00:00",
+    "field": "対応モダリティ",
+    "before": "[\"audio\", \"file\", \"image\", \"text\", \"video\"]",
+    "after": "[\"file\", \"image\", \"text\", \"video\"]",
+    "summary": "meta/muse-spark-1.2 modalities [\"audio\", \"file\", \"image\", \"text\", \"video\"] → [\"file\", \"image\", \"text\", \"video\"]"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "deepseek/deepseek-v4-pro-0813",
+    "provider": "deepseek",
+    "at": "2026-09-28T10:00:14+00:00",
+    "field": "キャッシュ読取単価",
+    "before": 0.172,
+    "after": 0.399,
+    "summary": "deepseek/deepseek-v4-pro-0813 cache read price $0.172 → $0.399 (increase +132.0%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "deepseek/deepseek-v4-pro-0813",
+    "provider": "deepseek",
+    "at": "2026-09-28T10:00:14+00:00",
+    "field": "入力単価",
+    "before": 0.29304,
+    "after": 0.3995,
+    "summary": "deepseek/deepseek-v4-pro-0813 input price $0.29304 → $0.3995 (increase +36.3%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "deepseek/deepseek-v4-pro-0813",
+    "provider": "deepseek",
+    "at": "2026-09-28T10:00:14+00:00",
+    "field": "出力単価",
+    "before": 3.5,
+    "after": 4.2,
+    "summary": "deepseek/deepseek-v4-pro-0813 output price $3.5 → $4.2 (increase +20.0%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "~z-ai/glm-latest",
+    "provider": "~z-ai",
+    "at": "2026-09-28T10:00:12+00:00",
+    "field": "キャッシュ読取単価",
+    "before": 0.06604,
+    "after": 0.146625,
+    "summary": "~z-ai/glm-latest cache read price $0.06604 → $0.146625 (increase +122.0%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "~z-ai/glm-latest",
+    "provider": "~z-ai",
+    "at": "2026-09-28T10:00:12+00:00",
+    "field": "入力単価",
+    "before": 0.3556,
+    "after": 0.1785,
+    "summary": "~z-ai/glm-latest input price $0.3556 → $0.1785 (decrease -49.8%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "~z-ai/glm-latest",
+    "provider": "~z-ai",
+    "at": "2026-09-28T10:00:12+00:00",
+    "field": "出力単価",
+    "before": 1.1176,
+    "after": 2.805,
+    "summary": "~z-ai/glm-latest output price $1.1176 → $2.805 (increase +151.0%)"
+  },
+  {
+    "kind": "CONTEXT_CHANGED",
+    "model_id": "~z-ai/glm-latest",
+    "provider": "~z-ai",
+    "at": "2026-09-28T10:00:12+00:00",
+    "field": "最大出力トークン",
+    "before": 131072,
+    "after": 943718,
+    "summary": "~z-ai/glm-latest max output tokens 131072 → 943718"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "deepseek/deepseek-v4-flash-vision-exp",
+    "provider": "deepseek",
+    "at": "2026-09-28T10:00:12+00:00",
+    "field": "キャッシュ読取単価",
+    "before": 0.00686,
+    "after": 0.014,
+    "summary": "deepseek/deepseek-v4-flash-vision-exp cache read price $0.00686 → $0.014 (increase +104.1%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "deepseek/deepseek-v4-flash-vision-exp",
+    "provider": "deepseek",
+    "at": "2026-09-28T10:00:12+00:00",
+    "field": "入力単価",
+    "before": 0.2156,
+    "after": 0.44,
+    "summary": "deepseek/deepseek-v4-flash-vision-exp input price $0.2156 → $0.44 (increase +104.1%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "deepseek/deepseek-v4-flash-vision-exp",
+    "provider": "deepseek",
+    "at": "2026-09-28T10:00:12+00:00",
+    "field": "出力単価",
+    "before": 0.6468,
+    "after": 1.32,
+    "summary": "deepseek/deepseek-v4-flash-vision-exp output price $0.6468 → $1.32 (increase +104.1%)"
+  },
+  {
+    "kind": "CONTEXT_CHANGED",
+    "model_id": "deepseek/deepseek-v4-flash-vision-exp",
+    "provider": "deepseek",
+    "at": "2026-09-28T10:00:12+00:00",
+    "field": "最大出力トークン",
+    "before": 262144,
+    "after": 943717,
+    "summary": "deepseek/deepseek-v4-flash-vision-exp max output tokens 262144 → 943717"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "z-ai/glm-5.3-flash",
+    "provider": "z-ai",
+    "at": "2026-09-28T10:00:11+00:00",
+    "field": "キャッシュ読取単価",
+    "before": 0.01,
+    "after": 0.03,
+    "summary": "z-ai/glm-5.3-flash cache read price $0.01 → $0.03 (increase +200.0%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "z-ai/glm-5.3-flash",
+    "provider": "z-ai",
+    "at": "2026-09-28T10:00:11+00:00",
+    "field": "入力単価",
+    "before": 0.045,
+    "after": 0.15,
+    "summary": "z-ai/glm-5.3-flash input price $0.045 → $0.15 (increase +233.3%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "z-ai/glm-5.3-flash",
+    "provider": "z-ai",
+    "at": "2026-09-28T10:00:11+00:00",
+    "field": "出力単価",
+    "before": 0.14,
+    "after": 0.5,
+    "summary": "z-ai/glm-5.3-flash output price $0.14 → $0.5 (increase +257.1%)"
+  },
+  {
+    "kind": "CONTEXT_CHANGED",
+    "model_id": "z-ai/glm-5.3-flash",
+    "provider": "z-ai",
+    "at": "2026-09-28T10:00:11+00:00",
+    "field": "最大出力トークン",
+    "before": 128000,
+    "after": 943717,
+    "summary": "z-ai/glm-5.3-flash max output tokens 128000 → 943717"
+  },
+  {
+    "kind": "MODALITY_CHANGED",
+    "model_id": "meta/muse-spark-1.2-contributor",
+    "provider": "meta",
+    "at": "2026-09-28T10:00:11+00:00",
+    "field": "対応モダリティ",
+    "before": "[\"audio\", \"file\", \"image\", \"text\", \"video\"]",
+    "after": "[\"file\", \"image\", \"text\", \"video\"]",
+    "summary": "meta/muse-spark-1.2-contributor modalities [\"audio\", \"file\", \"image\", \"text\", \"video\"] → [\"file\", \"image\", \"text\", \"video\"]"
+  },
+  {
+    "kind": "MODALITY_CHANGED",
+    "model_id": "meta/muse-spark-1.3",
+    "provider": "meta",
+    "at": "2026-09-28T10:00:10+00:00",
+    "field": "対応モダリティ",
+    "before": "[\"audio\", \"file\", \"image\", \"text\", \"video\"]",
+    "after": "[\"file\", \"image\", \"text\", \"video\"]",
+    "summary": "meta/muse-spark-1.3 modalities [\"audio\", \"file\", \"image\", \"text\", \"video\"] → [\"file\", \"image\", \"text\", \"video\"]"
+  },
+  {
+    "kind": "MODALITY_CHANGED",
+    "model_id": "meta/muse-spark-1.3-contributor",
+    "provider": "meta",
+    "at": "2026-09-28T10:00:09+00:00",
+    "field": "対応モダリティ",
+    "before": "[\"audio\", \"file\", \"image\", \"text\", \"video\"]",
+    "after": "[\"file\", \"image\", \"text\", \"video\"]",
+    "summary": "meta/muse-spark-1.3-contributor modalities [\"audio\", \"file\", \"image\", \"text\", \"video\"] → [\"file\", \"image\", \"text\", \"video\"]"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "deepseek/deepseek-v4.1-flash",
+    "provider": "deepseek",
+    "at": "2026-09-28T10:00:08+00:00",
+    "field": "キャッシュ読取単価",
+    "before": 0.03135,
+    "after": 0.001,
+    "summary": "deepseek/deepseek-v4.1-flash cache read price $0.03135 → $0.001 (decrease -96.8%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "deepseek/deepseek-v4.1-flash",
+    "provider": "deepseek",
+    "at": "2026-09-28T10:00:08+00:00",
+    "field": "入力単価",
+    "before": 0.03483,
+    "after": 0.035,
+    "summary": "deepseek/deepseek-v4.1-flash input price $0.03483 → $0.035 (increase +0.5%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "deepseek/deepseek-v4.1-flash",
+    "provider": "deepseek",
+    "at": "2026-09-28T10:00:08+00:00",
+    "field": "出力単価",
+    "before": 0.6,
+    "after": 0.29,
+    "summary": "deepseek/deepseek-v4.1-flash output price $0.6 → $0.29 (decrease -51.7%)"
+  },
+  {
+    "kind": "CONTEXT_CHANGED",
+    "model_id": "deepseek/deepseek-v4.1-flash",
+    "provider": "deepseek",
+    "at": "2026-09-28T10:00:08+00:00",
+    "field": "最大出力トークン",
+    "before": 943718,
+    "after": 384000,
+    "summary": "deepseek/deepseek-v4.1-flash max output tokens 943718 → 384000"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "~deepseek/deepseek-pro-latest",
+    "provider": "~deepseek",
+    "at": "2026-09-28T10:00:07+00:00",
+    "field": "キャッシュ読取単価",
+    "before": 0.00777,
+    "after": 0.08832,
+    "summary": "~deepseek/deepseek-pro-latest cache read price $0.00777 → $0.08832 (increase +1036.7%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "~deepseek/deepseek-pro-latest",
+    "provider": "~deepseek",
+    "at": "2026-09-28T10:00:07+00:00",
+    "field": "入力単価",
+    "before": 0.2442,
+    "after": 0.128,
+    "summary": "~deepseek/deepseek-pro-latest input price $0.2442 → $0.128 (decrease -47.6%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "~deepseek/deepseek-pro-latest",
+    "provider": "~deepseek",
+    "at": "2026-09-28T10:00:07+00:00",
+    "field": "出力単価",
+    "before": 0.7326,
+    "after": 1.9584,
+    "summary": "~deepseek/deepseek-pro-latest output price $0.7326 → $1.9584 (increase +167.3%)"
+  },
+  {
+    "kind": "CONTEXT_CHANGED",
+    "model_id": "~deepseek/deepseek-pro-latest",
+    "provider": "~deepseek",
+    "at": "2026-09-28T10:00:07+00:00",
+    "field": "最大出力トークン",
+    "before": 393216,
+    "after": 943718,
+    "summary": "~deepseek/deepseek-pro-latest max output tokens 393216 → 943718"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "~deepseek/deepseek-flash-latest",
+    "provider": "~deepseek",
+    "at": "2026-09-28T10:00:07+00:00",
+    "field": "キャッシュ読取単価",
+    "before": 0.03135,
+    "after": 0.001,
+    "summary": "~deepseek/deepseek-flash-latest cache read price $0.03135 → $0.001 (decrease -96.8%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "~deepseek/deepseek-flash-latest",
+    "provider": "~deepseek",
+    "at": "2026-09-28T10:00:07+00:00",
+    "field": "入力単価",
+    "before": 0.03483,
+    "after": 0.035,
+    "summary": "~deepseek/deepseek-flash-latest input price $0.03483 → $0.035 (increase +0.5%)"
+  },
+  {
+    "kind": "PRICE_CHANGED",
+    "model_id": "~deepseek/deepseek-flash-latest",
+    "provider": "~deepseek",
+    "at": "2026-09-28T10:00:07+00:00",
+    "field": "出力単価",
+    "before": 0.6,
+    "after": 0.29,
+    "summary": "~deepseek/deepseek-flash-latest output price $0.6 → $0.29 (decrease -51.7%)"
+  },
+  {
+    "kind": "CONTEXT_CHANGED",
+    "model_id": "~deepseek/deepseek-flash-latest",
+    "provider": "~deepseek",
+    "at": "2026-09-28T10:00:07+00:00",
+    "field": "最大出力トークン",
+    "before": 943718,
+    "after": 384000,
+    "summary": "~deepseek/deepseek-flash-latest max output tokens 943718 → 384000"
+  },
+  {
     "kind": "STATUS_CHANGED",
     "model_id": "openai/gpt-4",
     "provider": "openai",
@@ -4348,655 +4998,5 @@
     "before": 1.79586,
     "after": 1.19988,
     "summary": "~deepseek/deepseek-pro-latest output price $1.79586 → $1.19988 (decrease -33.2%)"
-  },
-  {
-    "kind": "CONTEXT_CHANGED",
-    "model_id": "~deepseek/deepseek-pro-latest",
-    "provider": "~deepseek",
-    "at": "2026-09-22T22:00:06+00:00",
-    "field": "最大出力トークン",
-    "before": 384000,
-    "after": 393216,
-    "summary": "~deepseek/deepseek-pro-latest max output tokens 384000 → 393216"
-  },
-  {
-    "kind": "MODEL_REMOVED",
-    "model_id": "kwaipilot/kat-coder-pro-v2",
-    "provider": "kwaipilot",
-    "at": "2026-09-22T10:01:16+00:00",
-    "field": null,
-    "before": null,
-    "after": null,
-    "summary": "kwaipilot/kat-coder-pro-v2 disappeared from the catalog"
-  },
-  {
-    "kind": "PRICE_CHANGED",
-    "model_id": "meta-llama/llama-4-maverick",
-    "provider": "meta-llama",
-    "at": "2026-09-22T10:01:00+00:00",
-    "field": "入力単価",
-    "before": 0.2,
-    "after": 0.1875,
-    "summary": "meta-llama/llama-4-maverick input price $0.2 → $0.1875 (decrease -6.3%)"
-  },
-  {
-    "kind": "PRICE_CHANGED",
-    "model_id": "meta-llama/llama-4-maverick",
-    "provider": "meta-llama",
-    "at": "2026-09-22T10:01:00+00:00",
-    "field": "出力単価",
-    "before": 0.8,
-    "after": 0.6525,
-    "summary": "meta-llama/llama-4-maverick output price $0.8 → $0.6525 (decrease -18.4%)"
-  },
-  {
-    "kind": "CONTEXT_CHANGED",
-    "model_id": "qwen/qwen3-next-80b-a3b-thinking",
-    "provider": "qwen",
-    "at": "2026-09-22T10:00:49+00:00",
-    "field": "最大出力トークン",
-    "before": 32768,
-    "after": 235929,
-    "summary": "qwen/qwen3-next-80b-a3b-thinking max output tokens 32768 → 235929"
-  },
-  {
-    "kind": "EOL_ANNOUNCED",
-    "model_id": "bytedance-seed/seed-1.6-flash",
-    "provider": "bytedance-seed",
-    "at": "2026-09-22T10:00:39+00:00",
-    "field": "提供終了日",
-    "before": null,
-    "after": "2026-11-11",
-    "summary": "bytedance-seed/seed-1.6-flash — end of life announced for 2026-11-11"
-  },
-  {
-    "kind": "EOL_ANNOUNCED",
-    "model_id": "bytedance-seed/seed-1.6",
-    "provider": "bytedance-seed",
-    "at": "2026-09-22T10:00:39+00:00",
-    "field": "提供終了日",
-    "before": null,
-    "after": "2026-11-11",
-    "summary": "bytedance-seed/seed-1.6 — end of life announced for 2026-11-11"
-  },
-  {
-    "kind": "PRICE_CHANGED",
-    "model_id": "deepseek/deepseek-v4-pro",
-    "provider": "deepseek",
-    "at": "2026-09-22T10:00:27+00:00",
-    "field": "キャッシュ読取単価",
-    "before": 0.074632,
-    "after": 0.079605,
-    "summary": "deepseek/deepseek-v4-pro cache read price $0.074632 → $0.079605 (increase +6.7%)"
-  },
-  {
-    "kind": "PRICE_CHANGED",
-    "model_id": "deepseek/deepseek-v4-pro",
-    "provider": "deepseek",
-    "at": "2026-09-22T10:00:27+00:00",
-    "field": "入力単価",
-    "before": 0.895578,
-    "after": 0.95526,
-    "summary": "deepseek/deepseek-v4-pro input price $0.895578 → $0.95526 (increase +6.7%)"
-  },
-  {
-    "kind": "PRICE_CHANGED",
-    "model_id": "deepseek/deepseek-v4-pro",
-    "provider": "deepseek",
-    "at": "2026-09-22T10:00:27+00:00",
-    "field": "出力単価",
-    "before": 1.791156,
-    "after": 1.91052,
-    "summary": "deepseek/deepseek-v4-pro output price $1.791156 → $1.91052 (increase +6.7%)"
-  },
-  {
-    "kind": "PRICE_CHANGED",
-    "model_id": "deepseek/deepseek-v4-flash",
-    "provider": "deepseek",
-    "at": "2026-09-22T10:00:27+00:00",
-    "field": "キャッシュ読取単価",
-    "before": 0.011088,
-    "after": 0.017721,
-    "summary": "deepseek/deepseek-v4-flash cache read price $0.011088 → $0.017721 (increase +59.8%)"
-  },
-  {
-    "kind": "PRICE_CHANGED",
-    "model_id": "deepseek/deepseek-v4-flash",
-    "provider": "deepseek",
-    "at": "2026-09-22T10:00:27+00:00",
-    "field": "入力単価",
-    "before": 0.05544,
-    "after": 0.088606,
-    "summary": "deepseek/deepseek-v4-flash input price $0.05544 → $0.088606 (increase +59.8%)"
-  },
-  {
-    "kind": "PRICE_CHANGED",
-    "model_id": "deepseek/deepseek-v4-flash",
-    "provider": "deepseek",
-    "at": "2026-09-22T10:00:27+00:00",
-    "field": "出力単価",
-    "before": 0.11088,
-    "after": 0.177212,
-    "summary": "deepseek/deepseek-v4-flash output price $0.11088 → $0.177212 (increase +59.8%)"
-  },
-  {
-    "kind": "PRICE_CHANGED",
-    "model_id": "tencent/hy3",
-    "provider": "tencent",
-    "at": "2026-09-22T10:00:17+00:00",
-    "field": "キャッシュ読取単価",
-    "before": 0.020625,
-    "after": 0.033,
-    "summary": "tencent/hy3 cache read price $0.020625 → $0.033 (increase +60.0%)"
-  },
-  {
-    "kind": "PRICE_CHANGED",
-    "model_id": "tencent/hy3",
-    "provider": "tencent",
-    "at": "2026-09-22T10:00:17+00:00",
-    "field": "入力単価",
-    "before": 0.0825,
-    "after": 0.132,
-    "summary": "tencent/hy3 input price $0.0825 → $0.132 (increase +60.0%)"
-  },
-  {
-    "kind": "PRICE_CHANGED",
-    "model_id": "tencent/hy3",
-    "provider": "tencent",
-    "at": "2026-09-22T10:00:17+00:00",
-    "field": "出力単価",
-    "before": 0.33,
-    "after": 0.528,
-    "summary": "tencent/hy3 output price $0.33 → $0.528 (increase +60.0%)"
-  },
-  {
-    "kind": "PRICE_CHANGED",
-    "model_id": "~deepseek/deepseek-v4-flash-latest",
-    "provider": "~deepseek",
-    "at": "2026-09-22T10:00:12+00:00",
-    "field": "キャッシュ読取単価",
-    "before": 0.01,
-    "after": 0.008,
-    "summary": "~deepseek/deepseek-v4-flash-latest cache read price $0.01 → $0.008 (decrease -20.0%)"
-  },
-  {
-    "kind": "PRICE_CHANGED",
-    "model_id": "~deepseek/deepseek-v4-flash-latest",
-    "provider": "~deepseek",
-    "at": "2026-09-22T10:00:12+00:00",
-    "field": "入力単価",
-    "before": 0.04,
-    "after": 0.03,
-    "summary": "~deepseek/deepseek-v4-flash-latest input price $0.04 → $0.03 (decrease -25.0%)"
-  },
-  {
-    "kind": "PRICE_CHANGED",
-    "model_id": "~deepseek/deepseek-v4-flash-latest",
-    "provider": "~deepseek",
-    "at": "2026-09-22T10:00:12+00:00",
-    "field": "出力単価",
-    "before": 0.4,
-    "after": 1.0,
-    "summary": "~deepseek/deepseek-v4-flash-latest output price $0.4 → $1.0 (increase +150.0%)"
-  },
-  {
-    "kind": "PRICE_CHANGED",
-    "model_id": "deepseek/deepseek-v4-pro-0813",
-    "provider": "deepseek",
-    "at": "2026-09-22T10:00:11+00:00",
-    "field": "キャッシュ読取単価",
-    "before": 0.022,
-    "after": 0.019954,
-    "summary": "deepseek/deepseek-v4-pro-0813 cache read price $0.022 → $0.019954 (decrease -9.3%)"
-  },
-  {
-    "kind": "PRICE_CHANGED",
-    "model_id": "deepseek/deepseek-v4-pro-0813",
-    "provider": "deepseek",
-    "at": "2026-09-22T10:00:11+00:00",
-    "field": "入力単価",
-    "before": 0.66,
-    "after": 0.59862,
-    "summary": "deepseek/deepseek-v4-pro-0813 input price $0.66 → $0.59862 (decrease -9.3%)"
-  },
-  {
-    "kind": "PRICE_CHANGED",
-    "model_id": "deepseek/deepseek-v4-pro-0813",
-    "provider": "deepseek",
-    "at": "2026-09-22T10:00:11+00:00",
-    "field": "出力単価",
-    "before": 1.98,
-    "after": 1.79586,
-    "summary": "deepseek/deepseek-v4-pro-0813 output price $1.98 → $1.79586 (decrease -9.3%)"
-  },
-  {
-    "kind": "EOL_ANNOUNCED",
-    "model_id": "bytedance-seed/seed-2.0-code",
-    "provider": "bytedance-seed",
-    "at": "2026-09-22T10:00:11+00:00",
-    "field": "提供終了日",
-    "before": null,
-    "after": "2026-11-11",
-    "summary": "bytedance-seed/seed-2.0-code — end of life announced for 2026-11-11"
-  },
-  {
-    "kind": "PRICE_CHANGED",
-    "model_id": "z-ai/glm-5.3",
-    "provider": "z-ai",
-    "at": "2026-09-22T10:00:10+00:00",
-    "field": "キャッシュ読取単価",
-    "before": 0.169,
-    "after": 0.156,
-    "summary": "z-ai/glm-5.3 cache read price $0.169 → $0.156 (decrease -7.7%)"
-  },
-  {
-    "kind": "PRICE_CHANGED",
-    "model_id": "z-ai/glm-5.3",
-    "provider": "z-ai",
-    "at": "2026-09-22T10:00:10+00:00",
-    "field": "入力単価",
-    "before": 0.91,
-    "after": 0.84,
-    "summary": "z-ai/glm-5.3 input price $0.91 → $0.84 (decrease -7.7%)"
-  },
-  {
-    "kind": "PRICE_CHANGED",
-    "model_id": "z-ai/glm-5.3",
-    "provider": "z-ai",
-    "at": "2026-09-22T10:00:10+00:00",
-    "field": "出力単価",
-    "before": 2.86,
-    "after": 2.64,
-    "summary": "z-ai/glm-5.3 output price $2.86 → $2.64 (decrease -7.7%)"
-  },
-  {
-    "kind": "PRICE_CHANGED",
-    "model_id": "~z-ai/glm-latest",
-    "provider": "~z-ai",
-    "at": "2026-09-22T10:00:09+00:00",
-    "field": "キャッシュ読取単価",
-    "before": 0.14352,
-    "after": 0.107525,
-    "summary": "~z-ai/glm-latest cache read price $0.14352 → $0.107525 (decrease -25.1%)"
-  },
-  {
-    "kind": "PRICE_CHANGED",
-    "model_id": "~z-ai/glm-latest",
-    "provider": "~z-ai",
-    "at": "2026-09-22T10:00:09+00:00",
-    "field": "入力単価",
-    "before": 0.7728,
-    "after": 0.6545,
-    "summary": "~z-ai/glm-latest input price $0.7728 → $0.6545 (decrease -15.3%)"
-  },
-  {
-    "kind": "PRICE_CHANGED",
-    "model_id": "~z-ai/glm-latest",
-    "provider": "~z-ai",
-    "at": "2026-09-22T10:00:09+00:00",
-    "field": "出力単価",
-    "before": 2.4288,
-    "after": 2.057,
-    "summary": "~z-ai/glm-latest output price $2.4288 → $2.057 (decrease -15.3%)"
-  },
-  {
-    "kind": "CONTEXT_CHANGED",
-    "model_id": "~z-ai/glm-latest",
-    "provider": "~z-ai",
-    "at": "2026-09-22T10:00:09+00:00",
-    "field": "最大出力トークン",
-    "before": 131072,
-    "after": 943718,
-    "summary": "~z-ai/glm-latest max output tokens 131072 → 943718"
-  },
-  {
-    "kind": "PRICE_CHANGED",
-    "model_id": "~z-ai/glm-flash-latest",
-    "provider": "~z-ai",
-    "at": "2026-09-22T10:00:08+00:00",
-    "field": "キャッシュ読取単価",
-    "before": 0.02,
-    "after": 0.015,
-    "summary": "~z-ai/glm-flash-latest cache read price $0.02 → $0.015 (decrease -25.0%)"
-  },
-  {
-    "kind": "CONTEXT_CHANGED",
-    "model_id": "~z-ai/glm-flash-latest",
-    "provider": "~z-ai",
-    "at": "2026-09-22T10:00:08+00:00",
-    "field": "最大出力トークン",
-    "before": 102400,
-    "after": 943718,
-    "summary": "~z-ai/glm-flash-latest max output tokens 102400 → 943718"
-  },
-  {
-    "kind": "PRICE_CHANGED",
-    "model_id": "z-ai/glm-5.3-flash",
-    "provider": "z-ai",
-    "at": "2026-09-22T10:00:08+00:00",
-    "field": "キャッシュ読取単価",
-    "before": 0.02,
-    "after": 0.05,
-    "summary": "z-ai/glm-5.3-flash cache read price $0.02 → $0.05 (increase +150.0%)"
-  },
-  {
-    "kind": "PRICE_CHANGED",
-    "model_id": "z-ai/glm-5.3-flash",
-    "provider": "z-ai",
-    "at": "2026-09-22T10:00:08+00:00",
-    "field": "入力単価",
-    "before": 0.075,
-    "after": 0.15,
-    "summary": "z-ai/glm-5.3-flash input price $0.075 → $0.15 (increase +100.0%)"
-  },
-  {
-    "kind": "PRICE_CHANGED",
-    "model_id": "z-ai/glm-5.3-flash",
-    "provider": "z-ai",
-    "at": "2026-09-22T10:00:08+00:00",
-    "field": "出力単価",
-    "before": 0.25,
-    "after": 0.5,
-    "summary": "z-ai/glm-5.3-flash output price $0.25 → $0.5 (increase +100.0%)"
-  },
-  {
-    "kind": "CONTEXT_CHANGED",
-    "model_id": "z-ai/glm-5.3-flash",
-    "provider": "z-ai",
-    "at": "2026-09-22T10:00:08+00:00",
-    "field": "最大出力トークン",
-    "before": 102400,
-    "after": 943718,
-    "summary": "z-ai/glm-5.3-flash max output tokens 102400 → 943718"
-  },
-  {
-    "kind": "EOL_ANNOUNCED",
-    "model_id": "nex-agi/nex-n2.5-pro:free",
-    "provider": "nex-agi",
-    "at": "2026-09-22T10:00:05+00:00",
-    "field": "提供終了日",
-    "before": null,
-    "after": "2026-09-25",
-    "summary": "nex-agi/nex-n2.5-pro:free — end of life announced for 2026-09-25"
-  },
-  {
-    "kind": "EOL_ANNOUNCED",
-    "model_id": "nex-agi/nex-n2.5-mini:free",
-    "provider": "nex-agi",
-    "at": "2026-09-22T10:00:05+00:00",
-    "field": "提供終了日",
-    "before": null,
-    "after": "2026-09-25",
-    "summary": "nex-agi/nex-n2.5-mini:free — end of life announced for 2026-09-25"
-  },
-  {
-    "kind": "PRICE_CHANGED",
-    "model_id": "deepseek/deepseek-v4.1-flash",
-    "provider": "deepseek",
-    "at": "2026-09-22T10:00:05+00:00",
-    "field": "キャッシュ読取単価",
-    "before": 0.003,
-    "after": 0.006,
-    "summary": "deepseek/deepseek-v4.1-flash cache read price $0.003 → $0.006 (increase +100.0%)"
-  },
-  {
-    "kind": "PRICE_CHANGED",
-    "model_id": "deepseek/deepseek-v4.1-flash",
-    "provider": "deepseek",
-    "at": "2026-09-22T10:00:05+00:00",
-    "field": "入力単価",
-    "before": 0.15,
-    "after": 0.3,
-    "summary": "deepseek/deepseek-v4.1-flash input price $0.15 → $0.3 (increase +100.0%)"
-  },
-  {
-    "kind": "PRICE_CHANGED",
-    "model_id": "deepseek/deepseek-v4.1-flash",
-    "provider": "deepseek",
-    "at": "2026-09-22T10:00:05+00:00",
-    "field": "出力単価",
-    "before": 0.6,
-    "after": 1.2,
-    "summary": "deepseek/deepseek-v4.1-flash output price $0.6 → $1.2 (increase +100.0%)"
-  },
-  {
-    "kind": "PRICE_CHANGED",
-    "model_id": "~deepseek/deepseek-pro-latest",
-    "provider": "~deepseek",
-    "at": "2026-09-22T10:00:03+00:00",
-    "field": "キャッシュ読取単価",
-    "before": 0.01804,
-    "after": 0.019954,
-    "summary": "~deepseek/deepseek-pro-latest cache read price $0.01804 → $0.019954 (increase +10.6%)"
-  },
-  {
-    "kind": "PRICE_CHANGED",
-    "model_id": "~deepseek/deepseek-pro-latest",
-    "provider": "~deepseek",
-    "at": "2026-09-22T10:00:03+00:00",
-    "field": "入力単価",
-    "before": 0.5412,
-    "after": 0.59862,
-    "summary": "~deepseek/deepseek-pro-latest input price $0.5412 → $0.59862 (increase +10.6%)"
-  },
-  {
-    "kind": "PRICE_CHANGED",
-    "model_id": "~deepseek/deepseek-pro-latest",
-    "provider": "~deepseek",
-    "at": "2026-09-22T10:00:03+00:00",
-    "field": "出力単価",
-    "before": 1.6236,
-    "after": 1.79586,
-    "summary": "~deepseek/deepseek-pro-latest output price $1.6236 → $1.79586 (increase +10.6%)"
-  },
-  {
-    "kind": "MODEL_REMOVED",
-    "model_id": "thinkingmachines/inkling:batch",
-    "provider": "thinkingmachines",
-    "at": "2026-09-21T22:01:16+00:00",
-    "field": null,
-    "before": null,
-    "after": null,
-    "summary": "thinkingmachines/inkling:batch disappeared from the catalog"
-  },
-  {
-    "kind": "MODEL_REMOVED",
-    "model_id": "qwen/qwen3.8-2.4t-a95b:batch",
-    "provider": "qwen",
-    "at": "2026-09-21T22:01:16+00:00",
-    "field": null,
-    "before": null,
-    "after": null,
-    "summary": "qwen/qwen3.8-2.4t-a95b:batch disappeared from the catalog"
-  },
-  {
-    "kind": "MODEL_REMOVED",
-    "model_id": "qwen/qwen3.5-9b:batch",
-    "provider": "qwen",
-    "at": "2026-09-21T22:01:16+00:00",
-    "field": null,
-    "before": null,
-    "after": null,
-    "summary": "qwen/qwen3.5-9b:batch disappeared from the catalog"
-  },
-  {
-    "kind": "MODEL_REMOVED",
-    "model_id": "minimax/minimax-m3:batch",
-    "provider": "minimax",
-    "at": "2026-09-21T22:01:16+00:00",
-    "field": null,
-    "before": null,
-    "after": null,
-    "summary": "minimax/minimax-m3:batch disappeared from the catalog"
-  },
-  {
-    "kind": "MODEL_REMOVED",
-    "model_id": "anthropic/claude-opus-4",
-    "provider": "anthropic",
-    "at": "2026-09-21T22:01:16+00:00",
-    "field": null,
-    "before": null,
-    "after": null,
-    "summary": "anthropic/claude-opus-4 disappeared from the catalog"
-  },
-  {
-    "kind": "PRICE_CHANGED",
-    "model_id": "meta-llama/llama-3.1-70b-instruct",
-    "provider": "meta-llama",
-    "at": "2026-09-21T22:01:11+00:00",
-    "field": "入力単価",
-    "before": 0.72,
-    "after": 0.4,
-    "summary": "meta-llama/llama-3.1-70b-instruct input price $0.72 → $0.4 (decrease -44.4%)"
-  },
-  {
-    "kind": "PRICE_CHANGED",
-    "model_id": "meta-llama/llama-3.1-70b-instruct",
-    "provider": "meta-llama",
-    "at": "2026-09-21T22:01:11+00:00",
-    "field": "出力単価",
-    "before": 0.72,
-    "after": 0.4,
-    "summary": "meta-llama/llama-3.1-70b-instruct output price $0.72 → $0.4 (decrease -44.4%)"
-  },
-  {
-    "kind": "CONTEXT_CHANGED",
-    "model_id": "meta-llama/llama-3.1-70b-instruct",
-    "provider": "meta-llama",
-    "at": "2026-09-21T22:01:11+00:00",
-    "field": "最大出力トークン",
-    "before": 8192,
-    "after": 16384,
-    "summary": "meta-llama/llama-3.1-70b-instruct max output tokens 8192 → 16384"
-  },
-  {
-    "kind": "STATUS_CHANGED",
-    "model_id": "meta-llama/llama-3.1-70b-instruct",
-    "provider": "meta-llama",
-    "at": "2026-09-21T22:01:11+00:00",
-    "field": "提供状態",
-    "before": "moderated",
-    "after": "available",
-    "summary": "meta-llama/llama-3.1-70b-instruct status moderated → available"
-  },
-  {
-    "kind": "CONTEXT_CHANGED",
-    "model_id": "anthropic/claude-sonnet-4",
-    "provider": "anthropic",
-    "at": "2026-09-21T22:00:58+00:00",
-    "field": "context窓",
-    "before": 1000000,
-    "after": 200000,
-    "summary": "anthropic/claude-sonnet-4 context window 1000000 → 200000"
-  },
-  {
-    "kind": "PRICE_CHANGED",
-    "model_id": "nvidia/nemotron-3-nano-30b-a3b",
-    "provider": "nvidia",
-    "at": "2026-09-21T22:00:43+00:00",
-    "field": "キャッシュ読取単価",
-    "before": null,
-    "after": 0.03,
-    "summary": "nvidia/nemotron-3-nano-30b-a3b cache read price None → 0.03"
-  },
-  {
-    "kind": "PRICE_CHANGED",
-    "model_id": "nvidia/nemotron-3-nano-30b-a3b",
-    "provider": "nvidia",
-    "at": "2026-09-21T22:00:43+00:00",
-    "field": "入力単価",
-    "before": 0.06,
-    "after": 0.05,
-    "summary": "nvidia/nemotron-3-nano-30b-a3b input price $0.06 → $0.05 (decrease -16.7%)"
-  },
-  {
-    "kind": "PRICE_CHANGED",
-    "model_id": "nvidia/nemotron-3-nano-30b-a3b",
-    "provider": "nvidia",
-    "at": "2026-09-21T22:00:43+00:00",
-    "field": "出力単価",
-    "before": 0.24,
-    "after": 0.2,
-    "summary": "nvidia/nemotron-3-nano-30b-a3b output price $0.24 → $0.2 (decrease -16.7%)"
-  },
-  {
-    "kind": "STATUS_CHANGED",
-    "model_id": "~anthropic/claude-opus-latest",
-    "provider": "~anthropic",
-    "at": "2026-09-21T22:00:29+00:00",
-    "field": "提供状態",
-    "before": "available",
-    "after": "moderated",
-    "summary": "~anthropic/claude-opus-latest status available → moderated"
-  },
-  {
-    "kind": "PRICE_CHANGED",
-    "model_id": "deepseek/deepseek-v4-pro",
-    "provider": "deepseek",
-    "at": "2026-09-21T22:00:28+00:00",
-    "field": "キャッシュ読取単価",
-    "before": 0.079605,
-    "after": 0.074632,
-    "summary": "deepseek/deepseek-v4-pro cache read price $0.079605 → $0.074632 (decrease -6.2%)"
-  },
-  {
-    "kind": "PRICE_CHANGED",
-    "model_id": "deepseek/deepseek-v4-pro",
-    "provider": "deepseek",
-    "at": "2026-09-21T22:00:28+00:00",
-    "field": "入力単価",
-    "before": 0.95526,
-    "after": 0.895578,
-    "summary": "deepseek/deepseek-v4-pro input price $0.95526 → $0.895578 (decrease -6.2%)"
-  },
-  {
-    "kind": "PRICE_CHANGED",
-    "model_id": "deepseek/deepseek-v4-pro",
-    "provider": "deepseek",
-    "at": "2026-09-21T22:00:28+00:00",
-    "field": "出力単価",
-    "before": 1.91052,
-    "after": 1.791156,
-    "summary": "deepseek/deepseek-v4-pro output price $1.91052 → $1.791156 (decrease -6.2%)"
-  },
-  {
-    "kind": "PRICE_CHANGED",
-    "model_id": "deepseek/deepseek-v4-flash",
-    "provider": "deepseek",
-    "at": "2026-09-21T22:00:28+00:00",
-    "field": "キャッシュ読取単価",
-    "before": 0.017721,
-    "after": 0.011088,
-    "summary": "deepseek/deepseek-v4-flash cache read price $0.017721 → $0.011088 (decrease -37.4%)"
-  },
-  {
-    "kind": "PRICE_CHANGED",
-    "model_id": "deepseek/deepseek-v4-flash",
-    "provider": "deepseek",
-    "at": "2026-09-21T22:00:28+00:00",
-    "field": "入力単価",
-    "before": 0.088606,
-    "after": 0.05544,
-    "summary": "deepseek/deepseek-v4-flash input price $0.088606 → $0.05544 (decrease -37.4%)"
-  },
-  {
-    "kind": "PRICE_CHANGED",
-    "model_id": "deepseek/deepseek-v4-flash",
-    "provider": "deepseek",
-    "at": "2026-09-21T22:00:28+00:00",
-    "field": "出力単価",
-    "before": 0.177212,
-    "after": 0.11088,
-    "summary": "deepseek/deepseek-v4-flash output price $0.177212 → $0.11088 (decrease -37.4%)"
-  },
-  {
-    "kind": "PRICE_CHANGED",
-    "model_id": "~moonshotai/kimi-latest",
-    "provider": "~moonshotai",
-    "at": "2026-09-21T22:00:26+00:00",
-    "field": "キャッシュ読取単価",
-    "before": 0.17,
-    "after": 0.15,
-    "summary": "~moonshotai/kimi-latest cache read price $0.17 → $0.15 (decrease -11.8%)"
   }
 ]
