@@ -1,7 +1,7 @@
 {
   "model_id": "deepseek/deepseek-r1-distill-llama-70b",
   "provider": "deepseek",
-  "in_current_catalog": true,
+  "in_current_catalog": false,
   "record_type": "catalog",
   "price_input_usd_per_1m_tokens": 0.8,
   "price_output_usd_per_1m_tokens": 0.8,
