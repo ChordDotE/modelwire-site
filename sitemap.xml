@@ -332,6 +332,10 @@
 <url><loc>https://chorddote.github.io/modelwire-site/models/openai-gpt-6-sol-pro.html</loc><lastmod>2026-09-22</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/models/openai-gpt-6-sol-pro-batch.html</loc><lastmod>2026-09-22</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/models/openai-gpt-6-sol-batch.html</loc><lastmod>2026-09-22</lastmod></url>
+<url><loc>https://chorddote.github.io/modelwire-site/models/openai-gpt-6.1-sol.html</loc><lastmod>2026-09-29</lastmod></url>
+<url><loc>https://chorddote.github.io/modelwire-site/models/openai-gpt-6.1-sol-pro.html</loc><lastmod>2026-09-29</lastmod></url>
+<url><loc>https://chorddote.github.io/modelwire-site/models/openai-gpt-6.1-sol-pro-batch.html</loc><lastmod>2026-09-29</lastmod></url>
+<url><loc>https://chorddote.github.io/modelwire-site/models/openai-gpt-6.1-sol-batch.html</loc><lastmod>2026-09-29</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/models/openai-gpt-audio.html</loc><lastmod>2026-08-09</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/models/openai-gpt-audio-mini.html</loc><lastmod>2026-08-09</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/models/openai-gpt-chat-latest.html</loc><lastmod>2026-08-09</lastmod></url>
@@ -407,7 +411,7 @@
 <url><loc>https://chorddote.github.io/modelwire-site/models/qwen-qwen3-vl-32b-instruct.html</loc><lastmod>2026-09-25</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/models/qwen-qwen3-vl-8b-instruct.html</loc><lastmod>2026-09-25</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/models/qwen-qwen3-vl-8b-thinking.html</loc><lastmod>2026-09-25</lastmod></url>
-<url><loc>https://chorddote.github.io/modelwire-site/models/qwen-qwen3.5-122b-a10b.html</loc><lastmod>2026-09-26</lastmod></url>
+<url><loc>https://chorddote.github.io/modelwire-site/models/qwen-qwen3.5-122b-a10b.html</loc><lastmod>2026-09-29</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/models/qwen-qwen3.5-27b.html</loc><lastmod>2026-08-09</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/models/qwen-qwen3.5-35b-a3b.html</loc><lastmod>2026-09-28</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/models/qwen-qwen3.5-397b-a17b.html</loc><lastmod>2026-09-08</lastmod></url>
@@ -520,7 +524,7 @@
 <url><loc>https://chorddote.github.io/modelwire-site/models/openai-gpt-latest.html</loc><lastmod>2026-08-21</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/models/openai-gpt-luna-latest.html</loc><lastmod>2026-09-22</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/models/openai-gpt-mini-latest.html</loc><lastmod>2026-08-20</lastmod></url>
-<url><loc>https://chorddote.github.io/modelwire-site/models/openai-gpt-sol-latest.html</loc><lastmod>2026-09-22</lastmod></url>
+<url><loc>https://chorddote.github.io/modelwire-site/models/openai-gpt-sol-latest.html</loc><lastmod>2026-09-29</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/models/openai-gpt-terra-latest.html</loc><lastmod>2026-09-11</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/models/x-ai-grok-latest.html</loc><lastmod>2026-09-28</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/models/z-ai-glm-flash-latest.html</loc><lastmod>2026-09-29</lastmod></url>
@@ -633,7 +637,7 @@
 <url><loc>https://chorddote.github.io/modelwire-site/models/openai-davinci-002.html</loc><lastmod>2026-08-09</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/models/openai-gpt-3.5-turbo-1106.html</loc><lastmod>2026-08-09</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/models/anthropic-claude-sonnet-4-5-20250929.html</loc><lastmod>2026-08-09</lastmod></url>
-<url><loc>https://chorddote.github.io/modelwire-site/models/openai-gpt-5.4-cyber.html</loc><lastmod>2026-09-12</lastmod></url>
+<url><loc>https://chorddote.github.io/modelwire-site/models/openai-gpt-5.4-cyber.html</loc><lastmod>2026-09-29</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/models/anthropic-claude-haiku-4-5-20251001.html</loc><lastmod>2026-08-09</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/models/openai-ft-babbage-002.html</loc><lastmod>2026-08-09</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/models/openai-ft-davinci-002.html</loc><lastmod>2026-08-09</lastmod></url>
@@ -738,7 +742,7 @@
 <url><loc>https://chorddote.github.io/modelwire-site/providers/tilde-deepseek.html</loc><lastmod>2026-09-29</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/providers/tilde-google.html</loc><lastmod>2026-08-28</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/providers/tilde-moonshotai.html</loc><lastmod>2026-09-29</lastmod></url>
-<url><loc>https://chorddote.github.io/modelwire-site/providers/tilde-openai.html</loc><lastmod>2026-09-22</lastmod></url>
+<url><loc>https://chorddote.github.io/modelwire-site/providers/tilde-openai.html</loc><lastmod>2026-09-29</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/providers/tilde-x-ai.html</loc><lastmod>2026-09-28</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/providers/tilde-z-ai.html</loc><lastmod>2026-09-29</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/providers/typesafe.html</loc><lastmod>2026-09-25</lastmod></url>
@@ -1092,6 +1096,10 @@
 <url><loc>https://chorddote.github.io/modelwire-site/ja/models/openai-gpt-6-sol-pro.html</loc><lastmod>2026-09-22</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/ja/models/openai-gpt-6-sol-pro-batch.html</loc><lastmod>2026-09-22</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/ja/models/openai-gpt-6-sol-batch.html</loc><lastmod>2026-09-22</lastmod></url>
+<url><loc>https://chorddote.github.io/modelwire-site/ja/models/openai-gpt-6.1-sol.html</loc><lastmod>2026-09-29</lastmod></url>
+<url><loc>https://chorddote.github.io/modelwire-site/ja/models/openai-gpt-6.1-sol-pro.html</loc><lastmod>2026-09-29</lastmod></url>
+<url><loc>https://chorddote.github.io/modelwire-site/ja/models/openai-gpt-6.1-sol-pro-batch.html</loc><lastmod>2026-09-29</lastmod></url>
+<url><loc>https://chorddote.github.io/modelwire-site/ja/models/openai-gpt-6.1-sol-batch.html</loc><lastmod>2026-09-29</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/ja/models/openai-gpt-audio.html</loc><lastmod>2026-08-09</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/ja/models/openai-gpt-audio-mini.html</loc><lastmod>2026-08-09</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/ja/models/openai-gpt-chat-latest.html</loc><lastmod>2026-08-09</lastmod></url>
@@ -1167,7 +1175,7 @@
 <url><loc>https://chorddote.github.io/modelwire-site/ja/models/qwen-qwen3-vl-32b-instruct.html</loc><lastmod>2026-09-25</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/ja/models/qwen-qwen3-vl-8b-instruct.html</loc><lastmod>2026-09-25</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/ja/models/qwen-qwen3-vl-8b-thinking.html</loc><lastmod>2026-09-25</lastmod></url>
-<url><loc>https://chorddote.github.io/modelwire-site/ja/models/qwen-qwen3.5-122b-a10b.html</loc><lastmod>2026-09-26</lastmod></url>
+<url><loc>https://chorddote.github.io/modelwire-site/ja/models/qwen-qwen3.5-122b-a10b.html</loc><lastmod>2026-09-29</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/ja/models/qwen-qwen3.5-27b.html</loc><lastmod>2026-08-09</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/ja/models/qwen-qwen3.5-35b-a3b.html</loc><lastmod>2026-09-28</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/ja/models/qwen-qwen3.5-397b-a17b.html</loc><lastmod>2026-09-08</lastmod></url>
@@ -1280,7 +1288,7 @@
 <url><loc>https://chorddote.github.io/modelwire-site/ja/models/openai-gpt-latest.html</loc><lastmod>2026-08-21</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/ja/models/openai-gpt-luna-latest.html</loc><lastmod>2026-09-22</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/ja/models/openai-gpt-mini-latest.html</loc><lastmod>2026-08-20</lastmod></url>
-<url><loc>https://chorddote.github.io/modelwire-site/ja/models/openai-gpt-sol-latest.html</loc><lastmod>2026-09-22</lastmod></url>
+<url><loc>https://chorddote.github.io/modelwire-site/ja/models/openai-gpt-sol-latest.html</loc><lastmod>2026-09-29</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/ja/models/openai-gpt-terra-latest.html</loc><lastmod>2026-09-11</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/ja/models/x-ai-grok-latest.html</loc><lastmod>2026-09-28</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/ja/models/z-ai-glm-flash-latest.html</loc><lastmod>2026-09-29</lastmod></url>
@@ -1393,7 +1401,7 @@
 <url><loc>https://chorddote.github.io/modelwire-site/ja/models/openai-davinci-002.html</loc><lastmod>2026-08-09</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/ja/models/openai-gpt-3.5-turbo-1106.html</loc><lastmod>2026-08-09</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/ja/models/anthropic-claude-sonnet-4-5-20250929.html</loc><lastmod>2026-08-09</lastmod></url>
-<url><loc>https://chorddote.github.io/modelwire-site/ja/models/openai-gpt-5.4-cyber.html</loc><lastmod>2026-09-12</lastmod></url>
+<url><loc>https://chorddote.github.io/modelwire-site/ja/models/openai-gpt-5.4-cyber.html</loc><lastmod>2026-09-29</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/ja/models/anthropic-claude-haiku-4-5-20251001.html</loc><lastmod>2026-08-09</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/ja/models/openai-ft-babbage-002.html</loc><lastmod>2026-08-09</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/ja/models/openai-ft-davinci-002.html</loc><lastmod>2026-08-09</lastmod></url>
@@ -1498,7 +1506,7 @@
 <url><loc>https://chorddote.github.io/modelwire-site/ja/providers/tilde-deepseek.html</loc><lastmod>2026-09-29</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/ja/providers/tilde-google.html</loc><lastmod>2026-08-28</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/ja/providers/tilde-moonshotai.html</loc><lastmod>2026-09-29</lastmod></url>
-<url><loc>https://chorddote.github.io/modelwire-site/ja/providers/tilde-openai.html</loc><lastmod>2026-09-22</lastmod></url>
+<url><loc>https://chorddote.github.io/modelwire-site/ja/providers/tilde-openai.html</loc><lastmod>2026-09-29</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/ja/providers/tilde-x-ai.html</loc><lastmod>2026-09-28</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/ja/providers/tilde-z-ai.html</loc><lastmod>2026-09-29</lastmod></url>
 <url><loc>https://chorddote.github.io/modelwire-site/ja/providers/typesafe.html</loc><lastmod>2026-09-25</lastmod></url>

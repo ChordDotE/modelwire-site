@@ -1,7 +1,7 @@
 {
-  "as_of": "2026-09-29T10:01:09+00:00",
+  "as_of": "2026-09-29T22:03:24+00:00",
   "badge_url_template": "https://chorddote.github.io/modelwire-site/badge/{slug}.svg",
-  "count": 679,
+  "count": 683,
   "badges": [
     {
       "slug": "ai21-jamba-large-1.7",
@@ -3017,6 +3017,34 @@
       "slug": "openai-gpt-6-sol-pro-batch",
       "provider": "openai",
       "model_id": "openai/gpt-6-sol-pro:batch",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openai-gpt-6.1-sol",
+      "provider": "openai",
+      "model_id": "openai/gpt-6.1-sol",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openai-gpt-6.1-sol-batch",
+      "provider": "openai",
+      "model_id": "openai/gpt-6.1-sol:batch",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openai-gpt-6.1-sol-pro",
+      "provider": "openai",
+      "model_id": "openai/gpt-6.1-sol-pro",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "openai-gpt-6.1-sol-pro-batch",
+      "provider": "openai",
+      "model_id": "openai/gpt-6.1-sol-pro:batch",
       "state": "not_announced",
       "message": "none announced"
     },
