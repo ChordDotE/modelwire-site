@@ -4,7 +4,7 @@
   "in_current_catalog": true,
   "record_type": "catalog",
   "price_input_usd_per_1m_tokens": 0.2219,
-  "price_output_usd_per_1m_tokens": 5.28,
+  "price_output_usd_per_1m_tokens": 3.39,
   "context_window": 1048576,
   "max_output": 943718,
   "modalities": [
@@ -17,7 +17,7 @@
   "retirement_date_is_committed": false,
   "replacement_as_published": null,
   "replacement_page": null,
-  "observations_recorded": 17,
+  "observations_recorded": 18,
   "first_recorded": "2026-08-18",
   "last_changed": "2026-10-01",
   "page": "https://chorddote.github.io/modelwire-site/models/z-ai-glm-5.3.html",

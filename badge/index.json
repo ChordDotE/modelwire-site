@@ -1,7 +1,7 @@
 {
-  "as_of": "2026-10-01T10:00:57+00:00",
+  "as_of": "2026-10-01T22:00:48+00:00",
   "badge_url_template": "https://chorddote.github.io/modelwire-site/badge/{slug}.svg",
-  "count": 683,
+  "count": 685,
   "badges": [
     {
       "slug": "ai21-jamba-large-1.7",
@@ -497,6 +497,13 @@
       "slug": "anthropic-claude-sonnet-latest",
       "provider": "~anthropic",
       "model_id": "~anthropic/claude-sonnet-latest",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "apodex-apodex-1.1-mini-free",
+      "provider": "apodex",
+      "model_id": "apodex/apodex-1.1-mini:free",
       "state": "not_announced",
       "message": "none announced"
     },
@@ -3031,8 +3038,8 @@
       "slug": "openai-gpt-6.1-sol-batch",
       "provider": "openai",
       "model_id": "openai/gpt-6.1-sol:batch",
-      "state": "not_announced",
-      "message": "none announced"
+      "state": "removed",
+      "message": "removed from catalog"
     },
     {
       "slug": "openai-gpt-6.1-sol-pro",
@@ -3045,8 +3052,8 @@
       "slug": "openai-gpt-6.1-sol-pro-batch",
       "provider": "openai",
       "model_id": "openai/gpt-6.1-sol-pro:batch",
-      "state": "not_announced",
-      "message": "none announced"
+      "state": "removed",
+      "message": "removed from catalog"
     },
     {
       "slug": "openai-gpt-astra-latest",
@@ -4431,6 +4438,13 @@
       "slug": "unbiased-pareto",
       "provider": "unbiased",
       "model_id": "unbiased/pareto",
+      "state": "not_announced",
+      "message": "none announced"
+    },
+    {
+      "slug": "unbiased-pareto-26.10-preview",
+      "provider": "unbiased",
+      "model_id": "unbiased/pareto-26.10-preview",
       "state": "not_announced",
       "message": "none announced"
     },
